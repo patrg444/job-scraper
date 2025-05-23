@@ -28,3 +28,14 @@ skip_if_applied: true  # Process jobs even if LinkedIn says "Applied"
 add_delay_between_apps: false
 delay_min_seconds: 60
 delay_max_seconds: 180
+
+# Requirement Parsing Rules
+requirement_parsing_rules:
+  degree_to_experience_equivalents:
+    HS: 0  # High School
+    AA: 2  # Associate's Degree
+    BA: 4  # Bachelor's Degree
+    MA: 6  # Master's Degree
+    PhD: 8 # Doctorate
+  assume_equivalent_if_unspecified: true # If "Degree or equivalent experience" is found, assume degree's year value if true.
+                                         # If false, it means "equivalent experience" must be explicitly stated with years.

@@ -206,7 +206,17 @@ def run_bot(config, answers):
         logger.error("Email, password, or resume path missing in config.")
         return
 
-    bot = EasyApplyBot(email, password, resume_path, form_answers=answers, openai_api_key=openai_api_key, use_llm=use_llm_for_answers, skip_if_applied_override=skip_if_applied_setting)
+    # Pass the full config_data to EasyApplyBot
+    bot = EasyApplyBot(
+        email, 
+        password, 
+        resume_path, 
+        form_answers=answers, 
+        openai_api_key=openai_api_key, 
+        use_llm=use_llm_for_answers, 
+        skip_if_applied_override=skip_if_applied_setting,
+        full_config_data=config # Pass the loaded config object
+    )
     
     try:
         bot._init_driver()
@@ -299,10 +309,12 @@ def run_bot(config, answers):
                 writer = csv.writer(f)
                 writer = csv.writer(f)
                 # The "HTML File Path" column stores the relative path to the saved main job page HTML.
+                # Added "Identified Level Title" for multi-level job postings.
                 writer.writerow([
                     "Job URL", "Application Link", "Company Name", "Job Title", "Location",
                     "Employment Type", "Required Experience (Years)", "Required Education",
-                    "Required Skills", "Mention Keywords", "Description Summary", "HTML File Path"
+                    "Required Skills", "Mention Keywords", "Description Summary", "HTML File Path",
+                    "Identified Level Title" 
                 ])
 
         successful_collections = 0
@@ -332,14 +344,15 @@ def run_bot(config, answers):
                                 job_details.get("job_title", ""),
                                 job_details.get("location", ""),
                                 job_details.get("employment_type", ""),
-                                job_details.get("required_experience_years", ""),
-                                job_details.get("required_education", ""),
+                                job_details.get("required_experience_years", "NA"), # Ensure NA for missing
+                                job_details.get("required_education", "NA"),     # Ensure NA for missing
                                 "; ".join(job_details.get("required_skills", [])),
                                 str(job_details.get("mention_keywords", "")),
                                 job_details.get("description_summary", ""),
-                                html_file_path # Add the relative HTML file path here
+                                html_file_path, # Add the relative HTML file path here
+                                job_details.get("identified_level_title", "default") # Add identified level
                             ])
-                        logger.info(f"Collected job details for {current_url}. HTML path: {html_file_path}")
+                        logger.info(f"Collected job details for {current_url} (Level: {job_details.get('identified_level_title', 'default')}). HTML path: {html_file_path}")
                         successful_collections += 1
                     else: # Handle case where job_details might be empty/None from bot.collect_job_details
                         logger.warning(f"Job details collection returned empty or None for {current_url}. HTML path: {html_file_path}")
@@ -347,7 +360,7 @@ def run_bot(config, answers):
                         with open(job_details_csv_path, "a", newline="", encoding="utf-8") as f:
                             writer = csv.writer(f)
                             writer.writerow([
-                                current_url, "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", html_file_path
+                                current_url, "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", html_file_path, "N/A" # Add N/A for level title
                             ])
 
                         # Generate and print resume-job alignment report

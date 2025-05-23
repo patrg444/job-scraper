@@ -59,10 +59,11 @@ class safe_url_contains:
             return False
 
 class EasyApplyBot:
-    def __init__(self, email, password, resume_path, form_answers=None, openai_api_key=None, use_llm=False, results_dir=".", skip_if_applied_override=True): 
+    def __init__(self, email, password, resume_path, form_answers=None, openai_api_key=None, use_llm=False, results_dir=".", skip_if_applied_override=True, full_config_data=None): 
         self.email = email
         self.password = password
         self.resume_path = resume_path
+        self.config_data = full_config_data if full_config_data is not None else {} # Store the full config
         self.skip_if_applied_override = skip_if_applied_override 
         self.driver = None
         self.wait = None 
@@ -488,7 +489,12 @@ class EasyApplyBot:
                     logger.warning("No description elements found with fallback selectors either.")
             
             if description_text:
-                parsed_data_from_description = parse_job_description(description_text) # from job_parser.py
+                # Pass the full config to the parser, which will extract requirement_parsing_rules
+                parsed_data_from_description = parse_job_description(
+                    description_text, 
+                    initial_facts=self.current_job_data, # Pass current_job_data as initial_facts
+                    config=self.config_data
+                )
                 logger.info(f"Job description parsed. Data from description: {str(parsed_data_from_description)[:100]}...")
 
                 # Merge parsed_data_from_description into self.current_job_data
@@ -522,6 +528,59 @@ class EasyApplyBot:
         except Exception as e:
             logger.error(f"Error in _parse_job_description wrapper: {e}", exc_info=True)
             # self.current_job_data (with its top-card info) should persist.
+
+    def _get_education_equivalent_years(self, education_text_str: str, degree_to_exp_map: Dict[str, int], assume_equiv_if_unspecified: bool) -> float:
+        """
+        Parses an education string (e.g., "Bachelor's Degree", "Master's or 6 years experience")
+        and returns the lowest effective years of experience it represents.
+        """
+        if not education_text_str or education_text_str == "NA":
+            return float('inf')
+
+        education_text_lower = education_text_str.lower()
+        min_years = float('inf')
+
+        # 1. Check for explicit years mentioned in the string
+        year_matches = re.findall(r'(\d+)\s*years?', education_text_lower)
+        if year_matches:
+            for year_match in year_matches:
+                min_years = min(min_years, float(year_match))
+        
+        # 2. Check for degrees and convert to years
+        # Simplified degree map for this helper, focusing on common terms found in education strings
+        local_degree_map = {
+            "high school diploma": "HS", "hs diploma": "HS", "ged": "HS", "high school": "HS",
+            "associate's degree": "AA", "associate degree": "AA", "associates degree": "AA", "associate's": "AA", "associates": "AA", "aa": "AA", "as": "AA",
+            "bachelor's degree": "BA", "bachelor degree": "BA", "bachelors degree": "BA", "bachelor's": "BA", "bachelors": "BA", "bs": "BA", "ba": "BA", "undergraduate": "BA",
+            "master's degree": "MA", "master degree": "MA", "masters degree": "MA", "master's": "MA", "masters": "MA", "ms": "MA", "ma": "MA", "graduate degree": "MA", "graduate": "MA",
+            "phd": "PhD", "ph.d.": "PhD", "doctorate": "PhD", "doctoral degree": "PhD", "doctoral": "PhD"
+        }
+
+        found_degree_years = float('inf')
+        for degree_text, key in local_degree_map.items():
+            if degree_text in education_text_lower:
+                found_degree_years = min(found_degree_years, float(degree_to_exp_map.get(key, float('inf'))))
+        
+        min_years = min(min_years, found_degree_years)
+
+        # 3. Handle "or equivalent experience"
+        if "equivalent" in education_text_lower:
+            if assume_equiv_if_unspecified and found_degree_years != float('inf'):
+                # If "assume" is true, and we found a degree, its year value is already part of min_years.
+                # The phrase "or equivalent" doesn't lower it further unless explicit years were also found and lower.
+                pass # Already handled by min_years taking the degree's value
+            elif not assume_equiv_if_unspecified and not year_matches:
+                # If we should not assume, and no explicit years are mentioned with "equivalent",
+                # this path doesn't provide a quantifiable year unless a degree itself was the minimum.
+                # If only a degree was found (e.g. "Bachelor's or equivalent"), and no explicit years,
+                # and we don't assume, then the "equivalent" part adds no value over the degree itself.
+                # If min_years is still float('inf') here, it means no degree or explicit years were found, so "equivalent" is unquantifiable.
+                pass
+
+
+        logger.debug(f"Parsed education string '{education_text_str}' to {min_years} effective years.")
+        return min_years
+
 
     def _close_easy_apply_modal(self):
         logger.info("Attempting to close Easy Apply modal...")
