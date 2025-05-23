@@ -297,22 +297,34 @@ def run_bot(config, answers):
         if config_collect_job_details:
             with open(job_details_csv_path, "w", newline="", encoding="utf-8") as f:
                 writer = csv.writer(f)
+                writer = csv.writer(f)
+                # The "HTML File Path" column stores the relative path to the saved main job page HTML.
                 writer.writerow([
                     "Job URL", "Application Link", "Company Name", "Job Title", "Location",
                     "Employment Type", "Required Experience (Years)", "Required Education",
-                    "Required Skills", "Mention Keywords", "Description Summary"
+                    "Required Skills", "Mention Keywords", "Description Summary", "HTML File Path"
                 ])
 
         successful_collections = 0
         for i, current_url in enumerate(all_urls):
             logger.info(f"\nProcessing job {i+1} of {len(all_urls)}: {current_url}")
+            html_file_path = "N/A" # Default in case of issues or if HTML saving fails
             try:
                 if config_collect_job_details:
                     logger.info(f"Collecting job details for {current_url}")
-                    job_details = bot.collect_job_details(current_url)
-                    if job_details:
+                    # bot.collect_job_details() now returns two values:
+                    # 1. job_details: A dictionary containing parsed job information.
+                    # 2. html_file_path_returned: The relative path to the saved HTML of the main job page.
+                    #    This path is relative to the results_dir (e.g., "job_page_html/job_12345.html").
+                    job_details, html_file_path_returned = bot.collect_job_details(current_url)
+                    
+                    # Store the returned path, defaulting to "N/A" if it's empty or indicates an error.
+                    html_file_path = html_file_path_returned if html_file_path_returned and "Error" not in html_file_path_returned else "N/A"
+
+                    if job_details: # job_details could be None or empty if collection failed
                         with open(job_details_csv_path, "a", newline="", encoding="utf-8") as f:
                             writer = csv.writer(f)
+                            # Write all collected job details along with the relative HTML file path to the CSV.
                             writer.writerow([
                                 job_details.get("job_url", ""),
                                 job_details.get("application_link", ""),
@@ -324,10 +336,19 @@ def run_bot(config, answers):
                                 job_details.get("required_education", ""),
                                 "; ".join(job_details.get("required_skills", [])),
                                 str(job_details.get("mention_keywords", "")),
-                                job_details.get("description_summary", "")
+                                job_details.get("description_summary", ""),
+                                html_file_path # Add the relative HTML file path here
                             ])
-                        logger.info(f"Collected job details for {current_url}")
+                        logger.info(f"Collected job details for {current_url}. HTML path: {html_file_path}")
                         successful_collections += 1
+                    else: # Handle case where job_details might be empty/None from bot.collect_job_details
+                        logger.warning(f"Job details collection returned empty or None for {current_url}. HTML path: {html_file_path}")
+                        # Still write a row for logging purposes, including the (potentially "N/A") HTML path.
+                        with open(job_details_csv_path, "a", newline="", encoding="utf-8") as f:
+                            writer = csv.writer(f)
+                            writer.writerow([
+                                current_url, "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", html_file_path
+                            ])
 
                         # Generate and print resume-job alignment report
                         logger.info(f"Generating alignment report for {current_url} using {parsed_resume_json_path}")

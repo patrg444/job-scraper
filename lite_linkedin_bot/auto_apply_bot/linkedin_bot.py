@@ -1412,30 +1412,45 @@ class EasyApplyBot:
         
         job_facts = dict(self.current_job_data) # Make a copy to return
         job_facts["job_url"] = job_url
+        relative_html_path = "" # Initialize
 
-        # --- Add HTML dumping for debugging ---
+        # --- Modified HTML dumping ---
+        # The job page HTML is saved for debugging and comparison purposes.
+        # Naming convention: job_page_html/job_<job_id>.html
+        # The <job_id> is extracted from the job_url.
+        # The method returns a relative path to this saved HTML file,
+        # which is then typically stored in the output CSV.
         try:
-            timestamp = time.strftime("%Y%m%d-%H%M%S")
-            sanitized_url_part = re.sub(r'[^a-zA-Z0-9_-]', '_', self.current_job_url_for_debug.split('?')[0][-70:])
-            debug_html_filename = f"debug_job_page_{sanitized_url_part}_{timestamp}.html"
-            
-            results_dir_path = self.results_dir or "."
-            if not os.path.isdir(results_dir_path):
-                try:
-                    os.makedirs(results_dir_path, exist_ok=True)
-                    logger.info(f"Created results directory for debug HTML: {results_dir_path}")
-                except OSError as e_mkdir:
-                    logger.error(f"Could not create results directory {results_dir_path}, falling back to current dir. Error: {e_mkdir}")
-                    results_dir_path = "." 
+            # 1. Extract Job ID
+            job_id_match = re.search(r'/jobs/view/(\d+)/', job_url)
+            if job_id_match:
+                job_id = job_id_match.group(1)
+            else:
+                # Fallback if the standard job ID format isn't found in the URL
+                job_id = "unknown_job_id_" + re.sub(r'[^a-zA-Z0-9_-]', '_', job_url.split('?')[0][-30:])
+                logger.warning(f"Could not extract job ID from URL: {job_url}. Using fallback: {job_id}")
 
-            debug_html_path = os.path.join(results_dir_path, debug_html_filename)
-            
-            with open(debug_html_path, 'w', encoding='utf-8') as f:
-                f.write(self.driver.page_source)
-            logger.info(f"Saved debug HTML for job {self.current_job_url_for_debug} to {debug_html_path}")
+            # 2. Create job_page_html directory within the main results directory
+            results_dir_path = self.results_dir or "." # self.results_dir is set by main.py
+            job_page_html_dir = os.path.join(results_dir_path, "job_page_html")
+            os.makedirs(job_page_html_dir, exist_ok=True)
+
+            # 3. Construct new HTML filename and paths
+            # The filename uses the extracted job_id.
+            html_filename = f"job_{job_id}.html"
+            # relative_html_path is what's returned and saved in the CSV.
+            # It's relative to the main results_dir.
+            relative_html_path = os.path.join("job_page_html", html_filename) 
+            full_html_path = os.path.join(job_page_html_dir, html_filename) # Full path for saving the file
+
+            with open(full_html_path, 'w', encoding='utf-8') as f:
+                f.write(self.driver.page_source) # Save the full page source
+            logger.info(f"Saved job page HTML for job ID {job_id} to {full_html_path}")
+
         except Exception as e_save_html:
-            logger.error(f"Error saving debug HTML for job {self.current_job_url_for_debug}: {e_save_html}")
-        # --- End HTML dumping ---
+            logger.error(f"Error saving job page HTML for {job_url} (ID: {job_id if 'job_id' in locals() else 'unknown'}): {e_save_html}")
+            relative_html_path = "Error saving HTML" # Indicate error in the returned path if saving fails
+        # --- End Modified HTML dumping ---
 
         # Try to find the application link
         app_link = ""
@@ -1482,7 +1497,7 @@ class EasyApplyBot:
         self.driver.close()
         self.driver.switch_to.window(original_window)
         
-        return job_facts
+        return job_facts, relative_html_path
 
     def close(self):
         if self.driver:
