@@ -1,0 +1,3315 @@
+***Easy Apply Applications***
+
+1. 
+A. ***Description***
+Rackspace Technology logo
+Rackspace Technology
+Share
+Show more options
+Machine Learning Architect (AWS) 
+San Francisco Bay Area · 1 week ago · 17 applicants
+Promoted by hirer
+
+
+ $153K/yr - $244.7K/yrMatches your job preferences, minimum pay preference is 80000.
+Remote
+
+Easy Apply
+
+Save
+Save Machine Learning Architect (AWS)  at Rackspace Technology
+Stand out to the employer by marking this job as a top choice when you apply. Learn more
+Machine Learning Architect (AWS)
+Rackspace Technology · San Francisco Bay Area (Remote)
+
+Easy Apply
+
+Save
+Save Machine Learning Architect (AWS)  at Rackspace Technology
+Show more options
+Your AI-powered job assessment
+
+
+Am I a good fit?
+
+Tailor my resume
+
+How can I best position myself?
+Meet the hiring team
+Vicky Merchant ⛅☁
+Vicky Merchant ⛅☁  
+ 3rd
+Talent Management & Recruitment Advisor/ Business Advisory / Team Builder/ Husband/ Father/Watch Enthusiast/Wanna-be Guitarist / Movie Fanatic / Beyond recruitment—building futures.
+Job poster
+
+Message
+About the job
+We are expanding our team of motivated technologists with a proven track record of delivering results in technology consulting. We are looking for a Machine Learning Architect with experience in cloud (AWS preferred) who is passionate about helping customers build AI/ML solutions at scale. Being an experienced technologist with technical depth and breadth, aided with strong interpersonal skills, you will work directly with customers as part of a delivery team, helping to enable innovation by creating state of the art Machine Learning solutions that align to business goals. 
+
+This role includes responsibilities both as a Professional Services Machine Learning Architect and as a hands-on Machine Learning engineer on customer engagements. 
+
+The qualified Machine Learning Architect will have demonstrated the ability to think strategically about businesses, create technical definitions around customer objectives in complex situations, develop solution strategies, motivate & mobilize resources, and deliver results. The ability to connect technology with measurable business value is a critical component to be successful in this role. We seek team members who are self-motivated, driven, collaborative, passionate about machine learning, and want to have a direct positive impact on our customer's business. Strong communication skills and emotional intelligence are also needed to help develop a team that works with you. 
+
+Work Location: Remote 
+
+Key Responsibilities:
+
+Design machine learning solutions and execute machine learning projects end to end from proof-of-concept stage to deployment in production using cloud native technologies and state of the art machine learning models. 
+Be technically focused but work directly with the business representatives/customers to understand the requirements driving the need for a solution to be developed. 
+Be responsible for all phases of the project from problem definition, data annotation, model development, model deployment to end user documentation/training. 
+Design the architecture of ML solutions on cloud platforms (AWS, Azure, GCP) including MLOPs. 
+Stay abreast of the latest developments. Read the latest published machine learning research and adapt the models to solve customer’s problems. 
+Establish credibility by demonstrating technical excellence and delivering value through solutions you build. Develop strong relationships with our customers. 
+
+
+Qualifications:
+
+Masters with 10+ years of experience or PhD with 6+ years of experience in Machine Learning, Natural Language Processing (NLP) and Deep Learning. 
+Minimum 5+ years of experience architecting and building Machine Learning solutions. 
+Minimum 5+ years of experience with cloud platforms (AWS, GCP, Azure). 
+Experience building ML models and strong knowledge of ML techniques is required. 
+Experience with hugging face, TensorFlow/pytorch, transformer architectures, prompt engineering, agentic systems, LLMs. 
+Strong coding experience in Python and architectural patterns like microservices. 
+Solid understanding of agile methodologies and experience in planning machine learning projects from inception to production deployment. 
+Strong problem-solving skills and the ability to lead a team on “what’s next” when encountering a technical issue in a machine learning project. 
+Excellent communication and presentation skills, with the ability to explain complex technical concepts to both technical and non-technical audiences. 
+
+
+Travel:
+
+As per business requirements
+
+
+#rackspace
+
+The following information is required by pay transparency legislation in the following states: CA, CO, HI, NY and WA. This information applies only to individuals working in these states. 
+
+The anticipated starting pay range for Colorado is: $153,000 - $204,000
+
+The anticipated starting pay range for Hawaii and New York (not including NYC) is: $167,400 - $223,200
+
+The anticipated starting pay range for California, New York City and Washington is: $183,500 - $244,700
+
+Based on eligibility, compensation for the role may include variable compensation in the form of bonus, commissions, or other discretionary payments.
+
+These discretionary payments are based on company and/or individual performance, and may change at any time.
+
+Actual compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, licenses and certifications, and specific work location. 
+
+Information on benefits offered is here.
+
+B. ***Application Form***
+
+Contact info
+Patrick Gloria
+Patrick Gloria
+-
+United States
+First name
+Patrick
+Last name
+Gloria
+Phone country codePhone country code 
+Required
+United States (+1)
+Mobile phone number
+(617) 678-8166
+Email addressEmail address 
+Required
+patrg444@gmail.com
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Next
+
+
+13%
+Resume
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+137 KB · Last used on 5/2/2025
+
+
+
+
+Deselect resume Patrick Gloria Resume _.pdf
+Patrick Gloria Resume _.pdf
+731 KB · Last used on 3/29/2025
+
+
+
+
+Select resume Patrick Gloria Resume _.pdf
+Upload resume
+Tailor resume with AI
+
+Show 2 more resumes
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+Next
+
+25%
+Mark this job as a top choice (Optional)
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+
+Next
+Dialog content end.
+Additional Questions
+Address
+City
+Please enter a valid answer
+State / Providence / County
+Please enter a valid answer
+Postal Code
+Please enter a valid answer
+CountryCountry 
+Required
+Select an option
+If other country, please share which one
+Are you currently eligible to work in the country for which you are applying?Are you currently eligible to work in the country for which you are applying? 
+Required
+Select an option
+Will you now, or in the future require Rackspace to initiate or transfer ("sponsor") an immigration case in order to employ you?Will you now, or in the future require Rackspace to initiate or transfer ("sponsor") an immigration case in order to employ you? 
+Required
+Select an option
+Have you ever been, or are you currently, employed by Rackspace?Have you ever been, or are you currently, employed by Rackspace? 
+Required
+Select an option
+Do you have any relatives working currently at Rackspace?Do you have any relatives working currently at Rackspace? 
+Required
+Select an option
+Are you currently in a non-compete agreement?Are you currently in a non-compete agreement? 
+Required
+Select an option
+What is your desired salary? (local currency)
+Please enter a valid answer
+What is your highest level of education completed?
+Please enter a valid answer
+Please list any active certifications related to this role.
+Please enter a valid answer
+Please list any languages you are fluent in.
+Please enter a valid answer
+What is your notice period?
+Please enter a valid answer
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+Next
+
+Additional Questions
+I am allowing Rackspace to contact me about future job opportunities for up to 2 years. Privacy PolicyI am allowing Rackspace to contact me about future job opportunities for up to 2 years. Privacy Policy Required
+
+Yes
+
+No
+Additional Questions
+Current company
+Clipt Videos, LLC
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+
+Next
+Dialog content end.
+
+Skip to search
+
+Apply to Rackspace Technology
+
+75%
+Additional Questions
+Which location are you applying for?Which location are you applying for?
+
+United States - Remote
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+
+Next
+
+
+88%
+Additional Questions
+What is your current location?
+Santa Barbara, CA
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+
+Review
+
+Review your application
+The employer will also receive a copy of your profile.
+Contact info
+Edit
+Patrick Gloria
+Patrick Gloria
+-
+United States
+First nameFirst name 
+Patrick
+Last nameLast name 
+Gloria
+Phone country codePhone country code 
+United States (+1)
+Mobile phone numberMobile phone number 
+(617) 678-8166
+Email addressEmail address 
+patrg444@gmail.com
+Mark this job as a top choice
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Resume
+Edit
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+Last used on 5/2/2025
+
+
+View
+Additional Questions
+Edit
+AddressAddress
+No answer provided
+CityCity 
+Santa Barbara
+State / Providence / CountyState / Providence / County 
+California
+Postal CodePostal Code 
+93105
+CountryCountry 
+US
+If other country, please share which oneIf other country, please share which one
+No answer provided
+Are you currently eligible to work in the country for which you are applying?Are you currently eligible to work in the country for which you are applying? 
+Yes
+Will you now, or in the future require Rackspace to initiate or transfer ("sponsor") an immigration case in order to employ you?Will you now, or in the future require Rackspace to initiate or transfer ("sponsor") an immigration case in order to employ you? 
+No
+Have you ever been, or are you currently, employed by Rackspace?Have you ever been, or are you currently, employed by Rackspace? 
+No
+Do you have any relatives working currently at Rackspace?Do you have any relatives working currently at Rackspace? 
+No
+Are you currently in a non-compete agreement?Are you currently in a non-compete agreement? 
+No
+What is your desired salary? (local currency)What is your desired salary? (local currency) 
+140,000
+What is your highest level of education completed?What is your highest level of education completed? 
+MS
+Please list any active certifications related to this role.Please list any active certifications related to this role. 
+N/A
+Please list any languages you are fluent in.Please list any languages you are fluent in. 
+Python, MATLAB
+What is your notice period?What is your notice period? 
+2 weeks
+Additional Questions
+Edit
+I am allowing Rackspace to contact me about future job opportunities for up to 2 years. Privacy PolicyI am allowing Rackspace to contact me about future job opportunities for up to 2 years. Privacy Policy 
+No
+Additional Questions
+Edit
+Current companyCurrent company 
+Clipt Videos, LLC
+Additional Questions
+Edit
+Which location are you applying for?Which location are you applying for?
+United States - Remote
+Additional Questions
+Edit
+What is your current location?What is your current location? 
+Santa Barbara, CA
+
+Follow Rackspace Technology to stay up to date with their page.
+We will automatically save your answers and resume to pre-fill future applications and improve your experience on LinkedIn. You can control this in your Application Settings. Learn more
+
+Application powered by Lever. Help Center. Notice of Employment Rights.
+
+
+Back
+
+Submit application
+
+
+2. 
+A. ***Job Description***
+Harnham logo
+Harnham
+Share
+Show more options
+Senior Staff Machine Learning Engineer 
+San Francisco Bay Area · 2 weeks ago · 70 applicants
+Promoted by hirer
+
+
+ $300K/yr - $350K/yrMatches your job preferences, minimum pay preference is 80000.
+Remote
+Full-time
+0 of 1 skills matchRequired skills are missing from your profile
+
+Easy Apply
+
+Save
+Save Senior Staff Machine Learning Engineer  at Harnham
+Stand out to the employer by marking this job as a top choice when you apply. Learn more
+Senior Staff Machine Learning Engineer
+Harnham · San Francisco Bay Area (Remote)
+
+Easy Apply
+
+Save
+Save Senior Staff Machine Learning Engineer  at Harnham
+Show more options
+Your AI-powered job assessment
+
+
+Am I a good fit?
+
+Tailor my resume
+
+How can I best position myself?
+Meet the hiring team
+Luc Simpson-Kent
+Luc Simpson-Kent  
+ 3rd+
+Building AI/ML & Data/Software Engineering Teams Across The US
+Job poster
+
+Message
+About the job
+Senior Staff Machine Learning Engineer
+
+Remote
+
+Up to $350,000 + Equity
+
+
+
+
+
+
+
+Company:
+
+A fast-growing, mission-driven tech company in the behavioral modeling and personalization space is seeking a Senior Staff/Technical Lead Machine Learning Engineer to join and lead a team. Their platform leverages one of the largest consented behavioral datasets in the US to deliver private-by-design AI solutions for top global brands and platforms.
+
+
+The team is made up of seasoned ML professionals from Top Companies, and they are partnered with major cloud providers to bring novel AI products to market. This role will be central to building and scaling ML-powered products, with a focus on ad optimization and recommendation systems.
+
+
+
+
+
+
+Role:
+
+Design, build, and deploy end-to-end machine learning models focused on ad optimization, personalization use cases and recommendation systems.
+Develop ML pipelines and production systems that leverage rich behavioral signals to drive user value and business ROI.
+Partner with product and R&D teams to ideate and execute on high-impact, ML-first product strategies.
+Lead experimentation and model evaluation in a fast-paced, data-rich environment.
+Contribute to the development of scalable infrastructure using tools like Airflow, Spark, and CI/CD platforms.
+Work cross-functionally to bring zero-to-one ML products to market and continuously refine them post-launch.
+Stay on the pulse of emerging ML techniques in RecSys, behavioral modeling, and model optimization.
+
+
+
+
+
+
+Requirements:
+
+MSc or PhD in a STEM field.
+Proven experience building and deploying machine learning systems in a commercial setting.
+Strong background in AdTech or recommender systems (RecSys) – with a clear understanding of personalization, targeting, or user intent modeling.
+Hands-on experience with orchestration tools (Airflow, Bazel), data infrastructure (Spark, SQL, Scala, or Python).
+DevOps knowledge including CI/CD best practices and production model monitoring.
+Familiarity with cloud platforms (AWS, Databricks) and ML tooling (MLFlow, TensorFlow, Kubernetes).
+Strong collaboration and communication skills, with a product-oriented mindset.
+A bias toward action and a "roll up your sleeves" attitude—ideal for a dynamic startup environment.
+
+
+
+
+
+
+Salary and Benefits:
+
+$300,000 – $350,000 base salary
+Meaningful Equity & Financial Upside
+Fully Remote (with hybrid options in Boston, SF Bay Area, Seattle, NYC)
+
+
+How to Apply:
+
+
+
+Please register your interest by submitting your CV via the Apply link on this page.
+
+
+
+
+Desired Skills and Experience:
+
+Machine Learning Engineering, AdTech, Personalization, Recommender Systems, MLOps, CI/CD, Airflow, Spark, Python, AWS
+
+B. ***Application Questions***
+Apply to Harnham
+
+0%
+Contact info
+Patrick Gloria
+Patrick Gloria
+-
+United States
+Email addressEmail address 
+Required
+patrg444@gmail.com
+Phone country codePhone country code 
+Required
+United States (+1)
+Mobile phone number
+(617) 678-8166
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Next
+
+Apply to Harnham
+
+20%
+Resume
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+137 KB · Last used on 5/9/2025
+
+
+
+
+Deselect resume Patrick Gloria Resume _.pdf
+Patrick Gloria Resume _.pdf
+731 KB · Last used on 3/29/2025
+
+
+
+
+Select resume Patrick Gloria Resume _.pdf
+Upload resume
+Tailor resume with AI
+
+Show 2 more resumes
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+Apply to Harnham
+
+40%
+Mark this job as a top choice (Optional)
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+Apply to Harnham
+
+60%
+Additional Questions
+How many years of work experience do you have with Recommender Systems?
+0
+Have you got experience working on Ad Optimisation and/or RecSys?Have you got experience working on Ad Optimisation and/or RecSys? 
+Required
+No
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+Apply to Harnham
+
+80%
+Work authorization
+Not sure how to answer the following questions? Learn More.
+
+Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? Required
+
+Yes
+
+No
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Review
+
+Review your application
+The employer will also receive a copy of your profile.
+Contact info
+Edit
+Patrick Gloria
+Patrick Gloria
+-
+United States
+Email addressEmail address 
+patrg444@gmail.com
+Phone country codePhone country code 
+United States (+1)
+Mobile phone numberMobile phone number 
+(617) 678-8166
+Mark this job as a top choice
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Resume
+Edit
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+Last used on 5/9/2025
+
+
+View
+Additional Questions
+Edit
+How many years of work experience do you have with Recommender Systems?How many years of work experience do you have with Recommender Systems? 
+0
+Have you got experience working on Ad Optimisation and/or RecSys?Have you got experience working on Ad Optimisation and/or RecSys? 
+No
+Work authorization
+Edit
+Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? 
+No
+
+Follow Harnham to stay up to date with their page.
+We will automatically save your answers and resume to pre-fill future applications and improve your experience on LinkedIn. You can control this in your Application Settings. Learn more
+
+Application powered by LinkedIn. Help Center. Notice of Employment Rights.
+
+
+Back
+
+Submit application
+
+3. 
+A. ***Job Description***
+tvScientific logo
+tvScientific
+Share
+Show more options
+Senior Machine Learning Systems Engineer 
+Los Angeles, CA · 2 weeks ago · Over 100 applicants
+Promoted by hirer
+
+
+Remote
+Full-time
+
+Easy Apply
+
+Save
+Save Senior Machine Learning Systems Engineer  at tvScientific
+Stand out to the employer by marking this job as a top choice when you apply. Learn more
+Senior Machine Learning Systems Engineer
+tvScientific · Los Angeles, CA (Remote)
+
+Easy Apply
+
+Save
+Save Senior Machine Learning Systems Engineer  at tvScientific
+Show more options
+Your AI-powered job assessment
+
+
+Am I a good fit?
+
+Tailor my resume
+
+How can I best position myself?
+About the job
+Job Title: Senior Machine Learning Systems Engineer
+
+Location: Remote, US
+
+Department: Data Science
+
+Type: Full-Time, Exempt
+
+Experience: Senior (5+ Years)
+
+Salary Range: $170,000 - $210,000 base
+
+Core Hours: 9 AM - 1 PM PST / 12 - 4 PM EST
+
+About tvScientific
+
+tvScientific is the first and only CTV advertising platform purpose-built for performance marketers. We leverage massive data and cutting-edge science to automate and optimize TV advertising to drive business outcomes. Our solution combines media buying, optimization, measurement, and attribution in one, efficient platform. Our platform is built by industry leaders with a long history in programmatic advertising, digital media, and ad verification who have now purpose-built a CTV performance platform advertisers can trust to grow their business.
+
+Role Summary
+
+We're looking for a Senior Machine Learning Systems Engineer to help push the boundaries of what's possible in programmatic TV. This role sits at the intersection of high-performance systems engineering and applied machine learning—and is core to how we scale intelligent bidding and campaign delivery across millions of TV screens. You'll work closely with our distributed team to optimize, build, and deploy ML-powered systems using Zig and Python, helping to make TV advertising as efficient and measurable as digital.
+
+This is a unique opportunity to have outsized impact in a fast-growing Series B startup backed by top investors. If you thrive in fast-moving environments, love solving hard systems problems, and want to shape the infrastructure behind a next-gen CTV platform—this one's for you.
+
+What You'll Do
+
+Write and maintain production-grade systems in Zig, optimizing for performance and scalability 
+Build tooling and bridges between Zig and Python to enable ML development and deployment workflows 
+Optimize and scale ML inference pipelines, ensuring low latency and high throughput across massive volumes of ad traffic 
+Collaborate cross-functionally with ML scientists, data engineers, and platform teams to bring new models and features to life 
+Help define engineering best practices in a growing team and contribute to the long-term architecture of our platform 
+
+You'll Be Successful in This Role if You Have/Are
+
+Strong experience writing high-performance systems code, ideally in Zig or similar low-level languages 
+Deep understanding of computer systems, compilers, and performance tuning 
+Proven ability to thrive in startups or high-growth environments—comfortable with ambiguity, fast iteration, and rapid scaling 
+Excellent written and verbal communication skills, especially when documenting and discussing technical tradeoffs 
+
+You May Also Have
+
+Experience in Adtech, CTV, or real-time bidding systems 
+Background in low-latency systems (
+Experience with Python and ML development pipelines 
+Familiarity with Scala, Apache Spark, Apache Beam, AWS Athena, or other big data tools 
+Comfort working with Kubernetes (EKS) for deployment and scaling 
+Prior experience teaching or mentoring other engineers 
+
+Culture and Benefits
+
+At tvScientific we believe people do their best work when they feel challenged and engaged by their day to day responsibilities, when they're surrounded by smart, hard working people, and when they have a healthy work life balance. Our company culture and benefits package reflects these beliefs.
+
+Full health, dental, and vision insurance - up to 95% funded by the company for employees.
+Employee stock option program.
+Company-sponsored retirement plan with a matching contribution program.
+12 annual paid holidays (including 2 flexible days).
+Generous PTO policy (get your work done and take the time you need).
+A remote-first environment that allows employees flexibility to work from most places in the US.
+
+tvScientific is committed to building an inclusive environment for people of all backgrounds and everyone is encouraged to apply. tvScientific is an Equal Opportunity Employer and does not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by applicable national, federal, state, or local law.
+
+B. ***Application Questions***
+
+Contact info
+Patrick Gloria
+Patrick Gloria
+-
+United States
+First name
+Patrick
+Last name
+Gloria
+Phone country codePhone country code 
+Required
+United States (+1)
+Mobile phone number
+(617) 678-8166
+Email addressEmail address 
+Required
+patrg444@gmail.com
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Greenhouse. Help Center
+
+
+Next
+
+Resume
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+137 KB · Last used on 5/9/2025
+
+
+
+
+Deselect resume Patrick Gloria Resume _.pdf
+Patrick Gloria Resume _.pdf
+731 KB · Last used on 3/29/2025
+
+
+
+
+Select resume Patrick Gloria Resume _.pdf
+Upload resume
+Tailor resume with AI
+
+Show 2 more resumes
+Cover letter
+Be sure to include an updated cover letter
+Upload cover letter
+DOC, DOCX, PDF (512 KB)
+
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Greenhouse. Help Center
+
+
+Back
+
+Next
+
+Mark this job as a top choice (Optional)
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Greenhouse. Help Center
+
+
+Back
+
+Next
+
+Education
+SchoolSchool  Rensselaer Polytechnic Institute
+DegreeDegree  Bachelor's Degree
+1 of 3
+
+
+Remove
+
+Edit
+SchoolSchool  Columbia College
+DegreeDegree  Master's Degree
+2 of 3
+
+
+Remove
+
+Edit
+SchoolSchool 
+Required
+Select an option
+DegreeDegree 
+Required
+Select an option
+
+Cancel
+
+Save
+
+Voluntary self identification
+This company is an Equal Opportunity Employer. Please complete this information to assist us in complying with equal opportunity and/or affirmative action requirements, including recordkeeping and reporting requirements. Providing this information is voluntary. Refusal to provide this information will not result in any adverse treatment. Show more
+
+Race/Ethnicity
+Race categories are defined as follows: 
+Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race
+White (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa
+Black or African American (Not Hispanic or Latino) - A person having origins in any of the black racial groups of Africa
+Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands
+Asian (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam
+American Indian or Alaska Native (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment
+Two or More Races - All persons who identify with more than one of the above five races. (Not Hispanic or Latino)
+
+
+Hispanic or Latino
+
+American Indian or Alaska Native (Not Hispanic or Latino)
+
+Asian (Not Hispanic or Latino)
+
+Black or African American (Not Hispanic or Latino)
+
+Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)
+
+Two or More Races (Not Hispanic or Latino)
+
+White (Not Hispanic or Latino)
+
+I prefer not to specify
+GenderGender
+
+Male
+
+Female
+
+I prefer not to specify
+Veteran status
+Why are you being asked to complete this form? 
+This question requests information subject to the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as amended by the Jobs for Veterans Act of 2002, 38 U.S.C. 4212 (VEVRAA), which requires Government contractors to take affirmative action to employ and advance in employment: (1) disabled veterans; (2) recently separated veterans; (3) active duty wartime or campaign badge veterans; and (4) Armed Forces service medal veterans. These classifications are defined as follows:
+
+A "disabled veteran" is one of the following:
+A veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs.
+A person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Protected veterans may have additional rights under USERRA-the Uniformed Services Employment and Reemployment Rights Act. In particular, if you were absent from employment in order to perform service in the uniformed service, you may be entitled to be reemployed by your employer in the position you would have obtained with reasonable certainty if not for the absence due to service. For more information, call the U.S. Department of Labor's Veterans Employment and Training Service (VETS), toll-free, at 1-866-4-USA-DOL.
+
+If you believe you belong to any of the categories of protected veterans listed above, please indicate by checking the appropriate box below. As a Government contractor subject to VEVRAA, we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA.
+
+
+
+I identify as one or more of the classifications of protected veteran listed above
+
+I am not a protected veteran
+
+I prefer not to specify
+Disability
+Form CC-305 OMB Control Number 1250-0005 Expires 04/30/2026
+
+Why are you being asked to complete this form? We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years. Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor?s Office of Federal Contract Compliance Programs (OFCCP) website at www.dol.gov/ofccp.
+
+How do you know if you have a disability? A disability is a condition that substantially limits one or more of your "major life activities." If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:
+
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson?s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+Please check one of the boxes below:
+
+
+
+Yes, I have a disability, or have had one in the past
+
+No, I do not have a disability and have not had one in the past
+
+I do not want to answer
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Greenhouse. Help Center
+
+Additional Questions
+LinkedIn Profile
+Are you currently authorized to work in the United States?Are you currently authorized to work in the United States? Required
+
+Yes
+
+No
+Do you require current or future employment sponsorship?Do you require current or future employment sponsorship? Required
+
+Yes
+
+No
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Greenhouse. Help Center
+
+
+Back
+
+Review
+
+Review your application
+The employer will also receive a copy of your profile.
+Contact info
+Edit
+Patrick Gloria
+Patrick Gloria
+-
+United States
+First nameFirst name 
+Patrick
+Last nameLast name 
+Gloria
+Phone country codePhone country code 
+United States (+1)
+Mobile phone numberMobile phone number 
+(617) 678-8166
+Email addressEmail address 
+patrg444@gmail.com
+Mark this job as a top choice
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Resume
+Edit
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+Last used on 5/9/2025
+
+
+View
+Be sure to include an updated cover letter
+No answer provided
+Education
+Edit
+SchoolSchool  Rensselaer Polytechnic Institute
+DegreeDegree  Bachelor's Degree
+SchoolSchool  Columbia College
+DegreeDegree  Master's Degree
+Voluntary self identification
+Edit
+Race/Ethnicity
+White (Not Hispanic or Latino)
+GenderGender
+Male
+Veteran status
+I am not a protected veteran
+Disability
+No, I do not have a disability and have not had one in the past
+Additional Questions
+Edit
+LinkedIn ProfileLinkedIn Profile
+No answer provided
+Are you currently authorized to work in the United States?Are you currently authorized to work in the United States? 
+Yes
+Do you require current or future employment sponsorship?Do you require current or future employment sponsorship? 
+No
+
+Follow tvScientific to stay up to date with their page.
+We will automatically save your answers and resume to pre-fill future applications and improve your experience on LinkedIn. You can control this in your Application Settings. Learn more
+
+Application powered by Greenhouse. Help Center. Notice of Employment Rights.
+
+
+Back
+
+Submit application
+
+
+
+
+
+---> After each application there is the final application sent window that needs to be closed out of by pressing done:
+
+Application sent
+Your application was sent to tvScientific!
+You can keep track of your application in the "Applied" tab of My Jobs
+
+Done
+
+
+4.
+A.
+Machine Learning Engineer
+San Francisco, CA · Reposted 1 week ago · Over 100 applicants
+Promoted by hirer
+
+
+Hybrid
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer at Baselayer
+Stand out to the employer by marking this job as a top choice when you apply. Learn more
+Machine Learning Engineer
+Baselayer · San Francisco, CA (Hybrid)
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer at Baselayer
+Show more options
+Your AI-powered job assessment
+
+
+Am I a good fit?
+
+Tailor my resume
+
+How can I best position myself?
+About the job
+About Baselayer: With experience across far-ranging banks, Fortune 500 tech co’s, fintech unicorns 🦄, and AI experts, Baselayer is built by financial institutions, for financial institutions. Started in 2023 by experienced founders Jonathan Awad and Timothy Hyde, Baselayer has raised $20 Million and hit $2 Million in ARR faster than any other identity company in history. Today more than 2,000 Financial Institutions and Government Agency customers later, Baselayer is revolutionizing the way businesses approach fraud prevention and compliance. 🏆
+
+Check out their press release here → https://baselayerhq.com/press/
+
+About You: You want to learn from the best of the best, get your hands dirty, and put in the work to hit your full potential. You're not just doing it for the win—you're doing it because you have something to prove and want to be great. You are looking to be an impeccable machine learning engineer working on cutting-edge AI solutions.
+
+You have 1-3 years of experience in machine learning development, working with Python and building ML models
+You're comfortable working with large-scale data and enjoy optimizing performance for computationally intensive ML systems
+You have a strong foundation in AI/ML fundamentals, particularly with LLMs, and are eager to experiment with emerging techniques
+You prioritize responsible AI practices and model governance, especially in regulated environments like KYC/KYB
+You have a keen eye for detail and take pride in writing clean, maintainable code while optimizing for model performance
+You thrive in a high-trust, ownership-focused environment and are comfortable working across different levels of abstraction
+Problem-solver who navigates the unknown confidently
+Proactive self-starter who thrives in dynamic settings
+Incredibly intelligent and clever. You take pride in your models
+Highly feedback-oriented. We believe in radical candor and using feedback to get to the next level
+
+Responsibilities
+
+Model Development & Integration: Build and maintain ML models and integrate them with various data sources, ensuring scalability, high performance, and adaptability for autonomous agents in the GTM space
+ML System Design: Architect and design core ML services that support KYC/KYB processes, leveraging knowledge graphs and LLMs for dynamic use cases
+Data Processing & Feature Engineering: Develop and maintain robust data pipelines for feature extraction and transformation, focusing on scalability and performance when handling large-scale, high-dimensional data
+Advanced ML Techniques: Implement and experiment with state-of-the-art techniques including reinforcement learning from human feedback (RLHF) and parameter-efficient fine-tuning methods (e.g., LoRA) to improve LLMs for specific use cases within the identity space
+ML Infrastructure: Build and maintain infrastructure for model training, evaluation, and deployment, creating a scalable platform foundation for continued innovation
+Model Governance & Compliance: Ensure ML systems meet industry standards for fairness, explainability, and compliance, particularly around KYC/KYB regulations
+Performance Optimization: Implement optimizations for model inference and training, ensuring ML services can efficiently process identity data while maintaining reliability
+Experimentation & Evaluation: Design and conduct experiments to evaluate model performance, debug issues, and monitor ML services, while continuously improving architectures to handle diverse data and use cases
+
+Benefits
+
+Hybrid in SF. In office 3 days/week
+Flexible PTO
+Healthcare, 401K
+Smart, genuine, ambitious team
+
+Start date: June
+
+Salary Range: $150k – $225k + Equity - 0.05% – 0.25%
+
+B.
+Contact info
+Patrick Gloria
+Patrick Gloria
+-
+United States
+First name
+Patrick
+Last name
+Gloria
+Phone country codePhone country code
+
+United States (+1)
+Mobile phone number
+(617) 678-8166
+Email addressEmail address 
+Required
+patrg444@gmail.com
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Greenhouse. Help Center
+
+
+Next
+
+Resume
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+137 KB · Last used on 5/9/2025
+
+
+
+
+Deselect resume Patrick Gloria Resume _.pdf
+Patrick Gloria Resume _.pdf
+731 KB · Last used on 3/29/2025
+
+
+
+
+Select resume Patrick Gloria Resume _.pdf
+Upload resume
+Tailor resume with AI
+
+Show 2 more resumes
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Greenhouse. Help Center
+
+
+Back
+
+Next
+
+
+50%
+Mark this job as a top choice (Optional)
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Greenhouse. Help Center
+
+
+Back
+
+Next
+
+
+75%
+Additional Questions
+LinkedIn Profile
+Why do you want to work at Baselayer? 
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Greenhouse. Help Center
+
+
+Back
+
+Additional Questions
+LinkedIn Profile
+https://www.linkedin.com/in/patrick-gloria-861503355/
+Why do you want to work at Baselayer? 
+I'm genuinely excited about the opportunity at Baselayer for several key reasons, and what I've learned about the company and this role aligns perfectly with what I'm seeking in my next position. Firstly, the opportunity to work on cutting-edge AI solutions specifically within the KYC/KYB and identity space is incredibly compelling. The responsibilities around architecting core ML services using knowledge graphs and LLMs, and implementing advanced techniques like RLHF and parameter-efficient fine-tuning (LoRA), are exactly the kinds of complex, high-impact challenges I'm eager to tackle. My experience architecting and deploying the multimodal emotion AI SaaS at Clipt Videos has given me a solid foundation in working with LLMs and building end-to-end ML systems. I'm keen to apply these skills to the unique challenges of identity verification and help build robust, scalable solutions. The prospect of being deeply involved in model development and integration for autonomous agents in the GTM space, and ensuring these systems are scalable and performant, is particularly attractive. The 'About You' section of the job description really resonated with me. The emphasis on wanting to 'learn from the best of the best, get your hands dirty, and put in the work to hit your full potential' is exactly my mindset. I'm driven by the desire to build truly excellent, 'impeccable' machine learning solutions. My experience as a Founder and Lead Machine Learning Engineer at Clipt Videos, where I owned the full lifecycle from data wrangling to MLOps automation on AWS SageMaker, has instilled in me a strong sense of ownership and pride in the models I build. I thrive in a 'high-trust, ownership-focused environment' and enjoy working across different levels of abstraction to solve problems. I was also drawn to your statement about being 'highly feedback-oriented' and believing in 'radical candor.' I see feedback as crucial for growth and am always looking for ways to improve and 'get to the next level. Ultimately, I'm looking for a role where I can make significant contributions to challenging problems, work alongside talented individuals, and continuously learn and grow as a machine learning engineer. From everything I've seen, Baselayer offers exactly that kind of environment, and I'm confident I have the skills, drive, and 'intelligent and clever' approach to problem-solving that you're looking for to make a real impact here.
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Greenhouse. Help Center
+
+
+Back
+
+Review
+
+Review your application
+The employer will also receive a copy of your profile.
+Contact info
+Edit
+Patrick Gloria
+Patrick Gloria
+-
+United States
+First nameFirst name 
+Patrick
+Last nameLast name 
+Gloria
+Phone country codePhone country code
+United States (+1)
+Mobile phone numberMobile phone number
+(617) 678-8166
+Email addressEmail address 
+patrg444@gmail.com
+Mark this job as a top choice
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Resume
+Edit
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+Last used on 5/9/2025
+
+
+View
+Additional Questions
+Edit
+LinkedIn ProfileLinkedIn Profile 
+https://www.linkedin.com/in/patrick-gloria-861503355/
+Why do you want to work at Baselayer? Why do you want to work at Baselayer?  
+I'm genuinely excited about the opportunity at Baselayer for several key reasons, and what I've learned about the company and this role aligns perfectly with what I'm seeking in my next position. Firstly, the opportunity to work on cutting-edge AI solutions specifically within the KYC/KYB and identity space is incredibly compelling. The responsibilities around architecting core ML services using knowledge graphs and LLMs, and implementing advanced techniques like RLHF and parameter-efficient fine-tuning (LoRA), are exactly the kinds of complex, high-impact challenges I'm eager to tackle. My experience architecting and deploying the multimodal emotion AI SaaS at Clipt Videos has given me a solid foundation in working with LLMs and building end-to-end ML systems. I'm keen to apply these skills to the unique challenges of identity verification and help build robust, scalable solutions. The prospect of being deeply involved in model development and integration for autonomous agents in the GTM space, and ensuring these systems are scalable and performant, is particularly attractive. The 'About You' section of the job description really resonated with me. The emphasis on wanting to 'learn from the best of the best, get your hands dirty, and put in the work to hit your full potential' is exactly my mindset. I'm driven by the desire to build truly excellent, 'impeccable' machine learning solutions. My experience as a Founder and Lead Machine Learning Engineer at Clipt Videos, where I owned the full lifecycle from data wrangling to MLOps automation on AWS SageMaker, has instilled in me a strong sense of ownership and pride in the models I build. I thrive in a 'high-trust, ownership-focused environment' and enjoy working across different levels of abstraction to solve problems. I was also drawn to your statement about being 'highly feedback-oriented' and believing in 'radical candor.' I see feedback as crucial for growth and am always looking for ways to improve and 'get to the next level. Ultimately, I'm looking for a role where I can make significant contributions to challenging problems, work alongside talented individuals, and continuously learn and grow as a machine learning engineer. From everything I've seen, Baselayer offers exactly that kind of environment, and I'm confident I have the skills, drive, and 'intelligent and clever' approach to problem-solving that you're looking for to make a real impact here.
+
+Follow Baselayer to stay up to date with their page.
+We will automatically save your answers and resume to pre-fill future applications and improve your experience on LinkedIn. You can control this in your Application Settings. Learn more
+
+Application powered by Greenhouse. Help Center. Notice of Employment Rights.
+
+
+Back
+
+Submit application
+
+
+***Answer question closing window instead of application was sent***
+
+Your application was sent to Baselayer!
+You can keep track of your application in the "Applied" tab of My Jobs
+
+Next, find more good jobsNext, find more good jobs
+Answer a few quick questions about your skills to help us find you better jobs.Answer a few quick questions about your skills to help us find you better jobs.
+
+Not now
+
+Answer questions
+
+Tell us about your experience and skills
+How many years of work experience do you have with Python (Programming Language)? 
+Required
+4
+How many years of work experience do you have with Perl? 
+Required
+Less than 1
+How many years of work experience do you have with GitHub? 
+Required
+2
+How many years of work experience do you have with Ruby? 
+Required
+Less than 1
+How many years of work experience do you have with Bash? 
+Required
+2
+Your answers help improve your experience on LinkedIn. Learn more.
+You can control this in your Application Settings.
+
+
+Submit
+
+5.
+A.
+Machine Learning Engineer
+Irvine, CA · Reposted 1 month ago · Over 100 applicants
+Promoted by hirer
+
+
+ $120K/yr - $130K/yrMatches your job preferences, minimum pay preference is 80000.
+On-site
+Full-time
+0 of 9 skills matchRequired skills are missing from your profile
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer at EVONA
+Stand out to the employer by marking this job as a top choice when you apply. Learn more
+Machine Learning Engineer
+EVONA · Irvine, CA (On-site)
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer at EVONA
+Show more options
+Your AI-powered job assessment
+
+
+Am I a good fit?
+
+Tailor my resume
+
+How can I best position myself?
+Meet the hiring team
+Kaelan Harris
+Kaelan Harris  
+ 3rd+
+Your Partner in Building the Next Generation of Space Tech Teams | Supporting 100+ Companies Across Space, Defense and Deep Tech | DevOps, SRE, Platform Engineering and Cloud Security Recruitment Specialist 🚀
+Job poster
+
+Message
+About the job
+Machine Learning Engineer
+
+
+
+The Machine Learning Team is focused on developing and implementing advanced machine learning algorithms to solve complex problems in the evolving space economy. These efforts span various domains, including Computer Vision, Edge Processing, Data Fusion, and probabilistic statistical modeling.
+
+
+As a Machine Learning Engineer, you will enhance existing capabilities, incorporate the latest research, implement state-of-the-art algorithms, productionize models, create MLOps solutions, and work with end-users to deploy innovative systems.
+
+
+Key Responsibilities
+
+Design, develop, and validate reliable and scalable algorithmic solutions.
+Research and implement cutting-edge algorithms for challenging space-based applications.
+Optimize the runtime performance of existing implementations.
+Collaborate with end-users and partners in a team-focused, innovative environment.
+Integrate current and future machine learning solutions into production pipelines.
+Contribute to team discussions and provide insights to drive innovation across multiple related projects.
+
+
+Qualifications
+
+Minimum Requirements
+
+Bachelor’s or Master’s degree in Data Science, Machine Learning, or a related technical field, or 4+ years of relevant professional experience.
+Strong programming skills in Python.
+Proficiency with one or more of the following frameworks: PyTorch, TensorFlow, JAX.
+Solid understanding of linear algebra, calculus, statistics, and machine learning principles.
+Hands-on experience in developing advanced machine learning applications.
+Proficiency in data analysis, engineering, and exploration techniques.
+Excellent problem-solving, critical thinking skills, and strong engineering fundamentals.
+Ability to communicate complex algorithms and concepts effectively.
+Strong oral and written communication skills.
+Experience with Linux and shell command-line tools.
+Willingness to travel for collaboration across teams.
+Flexibility to work extended hours or weekends occasionally, if necessary.
+Eligibility to obtain a Secret or TS/SCI security clearance.
+
+
+Preferred Skills and Experience
+
+Programming skills in C++.
+Experience productionizing machine learning solutions.
+Experience working in cloud environments (AWS, GCP, Azure).
+Knowledge of areas such as computer vision, uncertainty quantification, signal processing, computational physics, and time series analysis.
+Familiarity with platforms like Kubeflow, Blender, or Nvidia Omniverse.
+
+
+Additional Requirements
+
+This role may involve access to technology and software subject to U.S. export controls. Applicants must meet export control compliance criteria, including being a U.S. citizen, lawful permanent resident, refugee, or asylee, or be eligible for required U.S. Department of State authorizations.
+
+
+Benefits
+
+Health Insurance: Comprehensive medical, dental, and vision coverage.
+Retirement Plans: Access to a 401(k) plan.
+Paid Time Off: Generous vacation, personal days, and holidays for a healthy work-life balance.
+Professional Development: Access to training, workshops, and courses to foster career growth.
+Team Building: Regular social events, team outings, and company-sponsored activities.
+Diversity and Inclusion: A welcoming and equitable work environment supported by dedicated initiatives.
+
+
+About Us
+
+We are a forward-thinking company dedicated to shaping the future of space exploration and operations. Our work includes designing cutting-edge spacecraft for space transport, orbital debris removal, and Space Domain Awareness (SDA) to support current and future space missions. We aim to deliver high delta-V per dollar to maximize cost-efficiency in space transportation. Our past successes include the launch of our first satellite in mid-2023, with additional missions planned for 2025.
+
+
+Apply now to join a collaborative and innovative team driving the future of space technology.
+
+B.
+Contact info
+Patrick Gloria
+Patrick Gloria
+-
+United States
+Email addressEmail address 
+Required
+patrg444@gmail.com
+Phone country codePhone country code 
+Required
+United States (+1)
+Mobile phone number
+(617) 678-8166
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Next
+
+Resume
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+137 KB · Last used on 5/10/2025
+
+
+
+
+Deselect resume Patrick Gloria Resume _.pdf
+Patrick Gloria Resume _.pdf
+731 KB · Last used on 3/29/2025
+
+
+
+
+Select resume Patrick Gloria Resume _.pdf
+Upload resume
+Tailor resume with AI
+
+Show 2 more resumes
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+
+Mark this job as a top choice (Optional)
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+Additional Questions
+Are you willing to undergo a background check, in accordance with local law/regulations?Are you willing to undergo a background check, in accordance with local law/regulations? Required
+
+Yes
+
+No
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+Work authorization
+Not sure how to answer the following questions? Learn More.
+
+Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? Required
+
+Yes
+
+No
+Are you legally authorized to work in the United States?Are you legally authorized to work in the United States? Required
+
+Yes
+
+No
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Review
+
+Review your application
+The employer will also receive a copy of your profile.
+Contact info
+Edit
+Patrick Gloria
+Patrick Gloria
+-
+United States
+Email addressEmail address 
+patrg444@gmail.com
+Phone country codePhone country code 
+United States (+1)
+Mobile phone numberMobile phone number 
+(617) 678-8166
+Mark this job as a top choice
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Resume
+Edit
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+Last used on 5/10/2025
+
+
+View
+Additional Questions
+Edit
+Are you willing to undergo a background check, in accordance with local law/regulations?Are you willing to undergo a background check, in accordance with local law/regulations? 
+Yes
+Work authorization
+Edit
+Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? 
+No
+Are you legally authorized to work in the United States?Are you legally authorized to work in the United States? 
+Yes
+
+Follow EVONA to stay up to date with their page.
+We will automatically save your answers and resume to pre-fill future applications and improve your experience on LinkedIn. You can control this in your Application Settings. Learn more
+
+Application powered by LinkedIn. Help Center. Notice of Employment Rights.
+
+
+Back
+
+Submit application
+
+
+6.
+A.
+
+TikTok logo
+TikTok
+Share
+Show more options
+Machine Learning Engineer, Search - USDS 
+San Jose, CA · 3 weeks ago · Over 100 applicants
+Promoted by hirer
+
+
+Hybrid
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer, Search - USDS  at TikTok
+Stand out to the employer by marking this job as a top choice when you apply. Learn more
+Machine Learning Engineer, Search - USDS
+TikTok · San Jose, CA (Hybrid)
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer, Search - USDS  at TikTok
+Show more options
+Your AI-powered job assessment
+
+
+Am I a good fit?
+
+Tailor my resume
+
+How can I best position myself?
+People you can reach out to
+Columbia University logo
+Columbia University logo
+School alumni from Columbia University and others in your network
+
+Show all
+About the job
+Responsibilities
+About the Team
+The Search team is responsible for the search algorithm for TikTok's rapidly growing e-commerce and Local Services businesses. We use state-of-the-art large-scale machine learning technology, the cutting-edge NLP, CV and multi-modal technology to build the industry's top-class search engine to provide the best search experience, for more than 1 billion monthly TikTok users around the world.
+
+In order to enhance collaboration and cross-functional partnerships, among other things, at this time, our organization follows a hybrid work schedule that requires employees to work in the office 3 days a week, or as directed by their manager/department. We regularly review our hybrid work model, and the specific requirements may change at any time.
+
+Responsibilities - What You'll Do
+• Improve the basic search quality and user experience: Optimize query analysis and text relevance matching. Understand video content and implement multi-modal matching. Improve users' perception of product authority, and deeply participate in the design and implementation of core search products. Comprehensively improve the end-to-end user experience.
+• Design and implement the end-to-end ranking system (recall, first stage ranking, final stage ranking and mixed row): Use massive behavioral data to deeply model users' personalized interests. 
+• Promote the development of the ecosystem: From the perspective of the industry and businesses, solve challenging problems such as supply and demand matching, business cold start, and sustainable business growth, etc. Think, analyze and adjust the evolution of the system to achieve long-term and sustainable growth of GMV.
+
+Qualifications
+Minimum Qualifications
+• Bachelor or advanced degree in computer science or a related technical discipline. 
+• 3 years of Industry work experience in machine learning. 
+• Solid coding skills. Solid knowledge of data structure and algorithms.
+• Excellent in analysis, modeling and problem-solving, and ability to see the essence of problems from complex data.
+
+Preferred Qualifications
+• Prior experience in search, recommendation, or advertisement algorithms.
+• Publication records in top journals or conferences.
+
+About USDS
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. U.S. Data Security (“USDS”) is a subsidiary of TikTok in the U.S. This new, security-first division was created to bring heightened focus and governance to our data protection policies and content assurance protocols to keep U.S. users safe. Our focus is on providing oversight and protection of the TikTok platform and U.S. user data, so millions of Americans can continue turning to TikTok to learn something new, earn a living, express themselves creatively, or be entertained. The teams within USDS that deliver on this commitment daily span across Trust & Safety, Security & Privacy, Engineering, User & Product Ops, Corporate Functions and more.
+
+Data Security Statement
+This role requires the ability to work with and support systems designed to protect sensitive data and information. As such, this role will be subject to strict national security-related screening.
+
+
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.
+
+Diversity & Inclusion
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+
+USDS Reasonable Accommodation
+USDS is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/USDS-RA
+
+
+Job Information
+【For Pay Transparency】Compensation Description (Annually)
+The base salary range for this position in the selected city is $145000 - $355000 annually.
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+3. Exercising sound judgment.
+
+B.
+Contact info
+Patrick Gloria
+Patrick Gloria
+-
+United States
+First name
+Patrick
+Last name
+Gloria
+Phone country codePhone country code 
+Required
+United States (+1)
+Mobile phone number
+(617) 678-8166
+Email addressEmail address 
+Required
+patrg444@gmail.com
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Bytedance. Help Center
+
+
+Next
+
+Resume
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+137 KB · Last used on 5/10/2025
+
+
+
+
+Deselect resume Patrick Gloria Resume _.pdf
+Patrick Gloria Resume _.pdf
+731 KB · Last used on 3/29/2025
+
+
+
+
+Select resume Patrick Gloria Resume _.pdf
+Upload resume
+Tailor resume with AI
+
+Show 2 more resumes
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Bytedance. Help Center
+
+
+Back
+
+Next
+
+Mark this job as a top choice (Optional)
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Bytedance. Help Center
+
+
+Back
+
+Next
+
+Additional Questions
+Work Authorization
+
+To comply with our legal obligations, we are required to ask each applicant for employment if they are or will be legally authorized to work within the country where the job is located. Any information you submit here will be kept secure and disclosed within the Company only where necessary and for purposes of your candidacy of employment or employment with the Company. By answering this survey, you consent to our processing of your response for the purposes listed above. 
+
+Work Authorization
+
+To comply with our legal obligations, we are required to ask each applicant for employment if they are or will be legally authorized to work within the country where the job is located. Any information you submit here will be kept secure and disclosed within the Company only where necessary and for purposes of your candidacy of employment or employment with the Company. By answering this survey, you consent to our processing of your response for the purposes listed above. 
+
+Are you legally authorized to work in the US without restriction? Are you legally authorized to work in the US without restriction?  Required
+
+Yes
+
+No
+Will you now or in the future require visa sponsorship or a visa transfer?Will you now or in the future require visa sponsorship or a visa transfer? Required
+
+Yes
+
+No
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Bytedance. Help Center
+
+
+Back
+
+Review
+
+Review your application
+The employer will also receive a copy of your profile.
+Contact info
+Edit
+Patrick Gloria
+Patrick Gloria
+-
+United States
+First nameFirst name 
+Patrick
+Last nameLast name 
+Gloria
+Phone country codePhone country code 
+United States (+1)
+Mobile phone numberMobile phone number 
+(617) 678-8166
+Email addressEmail address 
+patrg444@gmail.com
+Mark this job as a top choice
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Resume
+Edit
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+Last used on 5/10/2025
+
+
+View
+Edit
+Are you legally authorized to work in the US without restriction? Are you legally authorized to work in the US without restriction?  
+Yes
+Will you now or in the future require visa sponsorship or a visa transfer?Will you now or in the future require visa sponsorship or a visa transfer? 
+No
+
+Follow TikTok to stay up to date with their page.
+We will automatically save your answers and resume to pre-fill future applications and improve your experience on LinkedIn. You can control this in your Application Settings. Learn more
+
+Application powered by Bytedance. Help Center. Notice of Employment Rights.
+
+
+Back
+
+Submit application
+
+6.
+A.
+Machine Learning Model Engineer - Advertising - Ranking 
+Mountain View, CA · Reposted 3 weeks ago · Over 100 applicants
+Promoted by hirer
+
+
+Hybrid
+Full-time
+0 of 10 skills matchRequired skills are missing from your profile
+
+Easy Apply
+
+Save
+Save Machine Learning Model Engineer - Advertising - Ranking  at Samsung Electronics America
+Stand out to the employer by marking this job as a top choice when you apply. Learn more
+Machine Learning Model Engineer - Advertising - Ranking
+Samsung Electronics America · Mountain View, CA (Hybrid)
+
+Easy Apply
+
+Save
+Save Machine Learning Model Engineer - Advertising - Ranking  at Samsung Electronics America
+Show more options
+Your AI-powered job assessment
+
+
+Am I a good fit?
+
+Tailor my resume
+
+How can I best position myself?
+About the job
+Position Summary
+
+Samsung Ads is an advanced advertising technology company in rapid growth that focuses on enabling advertisers to connect audiences from Samsung devices as they are exposed to digital media, using the industry’s most comprehensive data to build the world’s smartest advertising platform. Being part of an international company such as Samsung and doing business around the world means that we get to work on big, complex projects with stakeholders and teams located around the globe.
+ 
+We are proud to have built a world-class organization grounded in an entrepreneurial and collaborative spirit. Working at Samsung Ads offers one of the best environments in the industry to learn just how fast you can grow, how much you can achieve, and how good you can be. We thrive on problem-solving, breaking new ground, and enjoying every part of the journey.
+ 
+Machine learning lies at the core of the advertising industry, and this is no exception to Samsung Ads. At Samsung Ads, we are actively exploring the latest machine learning techniques to improve our existing systems and products and create new revenue streams. As a machine learning model engineer of the Samsung Ads Platform Intelligence (PI) team, you will have access to unique Samsung proprietary data to develop and deploy a wide spectrum of large-scale machine learning products with real-world impact. You will work closely with and be supported by a talented engineering team and top-notch researchers to work on exciting machine learning projects and state-of-the-art technologies. You will be welcomed by a unique learning culture and creative work atmosphere. This is an exciting and unique opportunity to get deeply involved in envisioning, designing and implementing cutting-edge machine learning products with a fast growing team.
+
+
+Location: Mountain View, CA
+
+
+Role and Responsibilities
+
+Lead and deliver production-grade machine learning products from end to end to make Samsung Ads a key player in the mobile ads market.
+Design, develop and deploy state-of-the-art and scalable machine learning models to achieve different optimization goals, such as ads click (pCTR), app-install optimization, ROAS optimization, retention, etc.
+Research the latest machine learning technologies with industry trends, create prototypes of new ML solutions quickly, and deploy the solution into production.
+Analyze complex problems with massive advertising data, identify gaps, and propose and execute technical proposals.
+Closely work with different internal ML teams (e.g., ML platform, ML serving, and MLOps teams) to improve our codebase and product health.
+Closely work with cross-functional partner teams in global settings to deliver new ML features and solutions and achieve business objectives.
+Mentor junior engineers and provide technical guidance.
+Learn quickly and adapt to a fast-paced working environment.
+
+
+Experience Requirements
+
+Master’s or PhD degree in Computer Science or related fields.
+4+ years of industry experience with a Master’s degree or 2+ years of industry experience with a PhD degree.
+Solid theoretical background in machine learning and/or data mining.
+Proficiency in mainstream ML libraries (e.g., TensorFlow, PyTorch, Spark ML, etc.).
+Hands-on experience with production-grade machine learning solutions.
+Experience with mainstream big data tools (e.g., MapReduce, Spark, Flink, Kafka, etc.).
+Extensive programming experience in Python, Go, or other OOP languages.
+Familiarity with data structures, algorithms, and software engineering principles.
+Proficiency in SQL and databases.
+Strong communication and interpersonal skills to drive cross-functional partnerships.
+
+
+Preferred Experience Requirements
+
+Publications in top relevant venues (e.g., TPAMI, NeurIPS, ICML, ICLR, KDD, WWW, SIGIR, AAAI, IJCAI, etc.).
+Basic knowledge about Amazon Web Services (AWS).
+Experience with the advertising industry and real-time bidding (RTB) ecosystem.
+
+
+The salary range for this role, for candidates based in California, is expected to be between $ $230,000 and $280,000. Actual pay will be determined considering factors such as relevant skills and experience, and comparison to other employees in the role.
+Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click here.
+At Samsung, we believe that innovation and growth are driven by an inclusive culture and a diverse workforce. We aim to create a global team where everyone belongs and has equal opportunities, inspiring our talent to be their true selves. Together, we are building a better tomorrow for our customers, partners, and communities.
+Samsung Electronics America, Inc. and its subsidiaries are committed to employing a diverse workforce, and provide Equal Employment Opportunity for all individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, gender identity, status as a protected veteran, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law.
+Reasonable Accommodations for Qualified Individuals with Disabilities During the Application Process
+
+Samsung Electronics America is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application process. If you have a disability and require a reasonable accommodation in order to participate in the application process, please contact our Reasonable Accommodation Team (855-557-3247) or SEA_Accommodations_Ext@sea.samsung.com for assistance. This number is for accommodation requests only and is not intended for general employment inquiries.
+
+B.
+
+0%
+Contact info
+Patrick Gloria
+Patrick Gloria
+-
+United States
+Email addressEmail address 
+Required
+patrg444@gmail.com
+Phone country codePhone country code 
+Required
+United States (+1)
+Mobile phone number
+(617) 678-8166
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Next
+
+
+20%
+Resume
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+137 KB · Last used on 5/10/2025
+
+
+
+
+Deselect resume Patrick Gloria Resume _.pdf
+Patrick Gloria Resume _.pdf
+731 KB · Last used on 3/29/2025
+
+
+
+
+Select resume Patrick Gloria Resume _.pdf
+Upload resume
+Tailor resume with AI
+
+Show 2 more resumes
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+
+40%
+Mark this job as a top choice (Optional)
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+
+60%
+Additional Questions
+Are you comfortable working in a hybrid setting?Are you comfortable working in a hybrid setting? Required
+
+Yes
+
+No
+Are you comfortable commuting to this job's location?Are you comfortable commuting to this job's location? Required
+
+Yes
+
+No
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+
+80%
+Work authorization
+Not sure how to answer the following questions? Learn More.
+
+Are you legally authorized to work in the United States?Are you legally authorized to work in the United States? Required
+
+Yes
+
+No
+Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? Required
+
+Yes
+
+No
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Review
+
+
+Review your application
+The employer will also receive a copy of your profile.
+Contact info
+Edit
+Patrick Gloria
+Patrick Gloria
+-
+United States
+Email addressEmail address 
+patrg444@gmail.com
+Phone country codePhone country code 
+United States (+1)
+Mobile phone numberMobile phone number 
+(617) 678-8166
+Mark this job as a top choice
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Resume
+Edit
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+Last used on 5/10/2025
+
+
+View
+Additional Questions
+Edit
+Are you comfortable working in a hybrid setting?Are you comfortable working in a hybrid setting? 
+Yes
+Are you comfortable commuting to this job's location?Are you comfortable commuting to this job's location? 
+Yes
+Work authorization
+Edit
+Are you legally authorized to work in the United States?Are you legally authorized to work in the United States? 
+Yes
+Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? 
+No
+
+Follow Samsung Electronics America to stay up to date with their page.
+We will automatically save your answers and resume to pre-fill future applications and improve your experience on LinkedIn. You can control this in your Application Settings. Learn more
+
+Application powered by LinkedIn. Help Center. Notice of Employment Rights.
+
+
+Back
+
+Submit application
+
+7.
+A.
+Ikigai logo
+Ikigai
+Share
+Show more options
+Machine Learning Engineer
+San Mateo, CA · 1 week ago · Over 100 applicants
+
+On-site
+Full-time
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer at Ikigai
+Machine Learning Engineer
+Ikigai · San Mateo, CA (On-site)
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer at Ikigai
+Show more options
+Your AI-powered job assessment
+
+
+Am I a good fit?
+
+Tailor my resume
+
+How can I best position myself?
+About the job
+Company Description
+
+The Ikigai platform unlocks the power of generative AI for tabular data. We enable business users to connect disparate data, leverage no-code AI/ML, and build enterprise-wide AI apps in just a few clicks. Ikigai is built on top of its three proprietary foundation blocks developed from years of MIT research - aiMatch, for data reconciliation, aiCast, for prediction, and aiPlan, for scenario planning and optimization. Our platform enables eXpert-in-The-Loop (XiTL) for model reinforcement learning and refinement, at scale.
+
+With a combination of enterprise expertise and deep research in the field of AI, Ikigai Labs helps scale enterprises with AI by solving data engineering and modeling problems for business users and data scientists alike. Our unique ability to unlock value in tabular and time series data through AI-powered data harmonization, forecasting, dynamic learning and planning, is our Ikigai, our purpose in the world of AI.
+
+As an AI/ML Engineer at Ikigai Labs, you will be part of a high-performing team responsible for optimizing and deploying ML solutions to maximize performance and scalability. We seek a dynamic and passionate engineer with strong software fundamentals and a keen interest in collaborative problem-solving.
+
+Key Responsibilities:
+
+ML Optimization and Deployment:Develop and deploy machine learning models for optimal performance and scalability
+Productivity Tools Development:Build tools and services to enhance the ML platform, utilizing technologies like Kubernetes, Helm, and EKS
+Model Architecture:Apply a strong understanding of deep learning architectures (CNNs, RNNs, etc.) to solve complex problems
+Research Adaptation:Stay abreast of recent ML and deep learning literature and adapt findings to real-world applications
+Collaborative Development:Work with cross-functional teams to integrate AI and ML solutions that drive business value
+Data Handling:Manage large datasets and build ML pipelines for data processing and training
+ETL/ELT Processes:Design and develop scalable data integration processes
+Predictive Modeling Platform:Develop an on-demand predictive modeling platform using gRPC
+Cloud and Containerization:Utilize Kubernetes for managing Docker containers and various cloud services (AWS, Azure) to solve cloud-native challenges
+Stakeholder Management:Provide occasional support to our customer success team
+
+Technologies We Use:
+
+Languages:Python3, C++, Rust, SQL
+Frameworks:PyTorch, TensorFlow, Docker
+Databases:Postgres, Elasticsearch, DynamoDB, RDS
+Cloud:Kubernetes, Helm, EKS, Terraform, AWS
+Data Engineering:Apache Arrow, Dremio, Ray
+Miscellaneous:Git, Jupyterhub, Apache Superset, Plotly Dash
+
+Qualifications:
+
+Bachelor’s degree in Computer Science, Math, Engineering, or related field (Master's preferred) with 2+ years of experience
+Strong understanding of data structures, data modeling, algorithms, and software architecture
+Proficient in probability, statistics, and algorithm development
+Hands-on experience with ML and deep learning libraries (Scikit Learn, Keras, TensorFlow, PyTorch, Theano, DyLib)
+(Bonus) Experience with big data and distributed computing (Hadoop, MapReduce, Spark, Storm)
+Proficiency in Python, AWS services, and ETL/ELT pipelines
+Understanding of key software design principles, design patterns, and testing best practices
+Experience with Kubernetes and/or EKS is a plus
+Ability to learn quickly in a fast-paced, agile environment
+Excellent organizational, time management, and communication skills
+Willingness to engage in pair programming, share knowledge, and provide and receive constructive feedback
+Strong problem-solving skills and the ability to take initiative
+
+Equal Opportunity Employment:
+
+Ikigai Labs is committed to equal employment opportunity and non-discrimination for all employees and qualified applicants. We value diversity and are dedicated to fostering an inclusive environment for all employees, regardless of race, color, sex, gender identity or expression, age, religion, national origin, ancestry, citizenship, disability, military or veteran status, genetic information, sexual orientation, marital status, or any other characteristic protected under applicable law.
+
+If you are passionate about machine learning and eager to make an impact, we would love to hear from you. Apply today to join the Ikigai Labs team and help us build the future of AI.
+
+Powered by JazzHR
+
+LMjORkdeMC
+
+
+B.
+Contact info
+Patrick Gloria
+Patrick Gloria
+-
+United States
+First name
+Patrick
+Last name
+Gloria
+Phone country codePhone country code 
+Required
+United States (+1)
+Mobile phone number
+(617) 678-8166
+Email addressEmail address 
+Required
+patrg444@gmail.com
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Jazz. Help Center
+
+
+Next
+
+Home address
+Street address line 1
+CityCity
+Santa Barbara, California, United States
+State
+ZIP / Postal Code
+93105
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Jazz. Help Center
+
+
+Back
+
+Next
+
+Resume
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+137 KB · Last used on 5/10/2025
+
+
+
+
+Deselect resume Patrick Gloria Resume _.pdf
+Patrick Gloria Resume _.pdf
+731 KB · Last used on 3/29/2025
+
+
+
+
+Select resume Patrick Gloria Resume _.pdf
+Upload resume
+Tailor resume with AI
+
+Show 2 more resumes
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Jazz. Help Center
+
+
+Back
+
+Next
+
+Additional
+
+This role is based out of our San Mateo, CA office and requires a hybrid schedule. Are you able to work 2-3x week in the office for this opportunity?This role is based out of our San Mateo, CA office and requires a hybrid schedule. Are you able to work 2-3x week in the office for this opportunity? 
+Required
+
+Yes
+
+No
+
+Are you currently authorized to work in the United States?Are you currently authorized to work in the United States? 
+Required
+
+Yes
+
+No
+
+Will you now or in the future require sponsorship to work within the United States?Will you now or in the future require sponsorship to work within the United States? 
+Required
+
+Yes
+
+No
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Jazz. Help Center
+
+
+Back
+
+Review
+
+Review your application
+The employer will also receive a copy of your profile.
+Contact info
+Edit
+Patrick Gloria
+Patrick Gloria
+-
+United States
+First nameFirst name 
+Patrick
+Last nameLast name 
+Gloria
+Phone country codePhone country code 
+United States (+1)
+Mobile phone numberMobile phone number 
+(617) 678-8166
+Email addressEmail address 
+patrg444@gmail.com
+Home address
+Edit
+Street address line 1Street address line 1
+No answer provided
+CityCity
+Santa Barbara, California, United States
+StateState
+No answer provided
+ZIP / Postal CodeZIP / Postal Code
+93105
+Resume
+Edit
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+Last used on 5/10/2025
+
+
+View
+Additional
+Edit
+This role is based out of our San Mateo, CA office and requires a hybrid schedule. Are you able to work 2-3x week in the office for this opportunity?This role is based out of our San Mateo, CA office and requires a hybrid schedule. Are you able to work 2-3x week in the office for this opportunity? 
+Yes
+Are you currently authorized to work in the United States?Are you currently authorized to work in the United States? 
+Yes
+Will you now or in the future require sponsorship to work within the United States?Will you now or in the future require sponsorship to work within the United States? 
+No
+
+Follow Ikigai to stay up to date with their page.
+We will automatically save your answers and resume to pre-fill future applications and improve your experience on LinkedIn. You can control this in your Application Settings. Learn more
+
+Application powered by Jazz. Help Center. Notice of Employment Rights.
+
+
+Back
+
+Submit application
+
+8.
+A.
+Upcoming Top AI start up
+Upcoming Top AI start up
+Share
+Show more options
+Machine Learning Engineer
+San Francisco Bay Area · 3 days ago · Over 100 applicants
+Promoted by hirer
+
+
+On-site
+Full-time
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer at {:companyName}
+Stand out to the employer by marking this job as a top choice when you apply. Learn more
+Machine Learning Engineer
+Upcoming Top AI start up · San Francisco Bay Area (On-site)
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer at {:companyName}
+Show more options
+Your AI-powered job assessment
+
+
+Am I a good fit?
+
+Tailor my resume
+
+How can I best position myself?
+Meet the hiring team
+Ellie King
+Ellie King 
+ 3rd+
+Helping great businesses secure great Quant, ML & Data Science talent
+Job poster
+
+Message
+About the job
+LOOKING FOR - ML Engineer or ML Researchers familiar with:
+Responsibilities 
+
+Work across the full ML stack (data, model, eval, and infrastructure) 
+Implement novel model architectures and training algorithms 
+Build data pipelines and training infrastructure for massive, petabyte-scale, 
+multimodal datasets 
+
+Rapidly iterate on experiments and ablations 
+Stay up-to-date on research to bring new ideas to work 
+
+
+What we’re looking for 
+
+We value a relentless approach to problem-solving, rapid execution, and the ability to quickly learn in unfamiliar domains. 
+
+Strong grasp of machine learning fundamentals, and depth in at least one core domain (e.g. Computer Vision, Sensor Fusion, Language Models, Physics- informed NNs) 
+Experienced at training models and understanding experiment results through careful analysis and ablation studies. 
+Experienced at writing and optimizing massive petabyte-scale data pipelines. 
+Familiarity with distributed training. 
+[bonus] Familiarity with meteorology, computational fluid dynamics, and/or 
+numerical simulations
+
+B.
+Contact info
+Patrick Gloria
+Patrick Gloria
+-
+United States
+Email addressEmail address 
+Required
+patrg444@gmail.com
+Phone country codePhone country code 
+Required
+United States (+1)
+Mobile phone number
+(617) 678-8166
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Next
+
+
+25%
+Resume
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+137 KB · Last used on 5/10/2025
+
+
+
+
+Deselect resume Patrick Gloria Resume _.pdf
+Patrick Gloria Resume _.pdf
+731 KB · Last used on 3/29/2025
+
+
+
+
+Select resume Patrick Gloria Resume _.pdf
+Upload resume
+Tailor resume with AI
+
+Show 2 more resumes
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+
+50%
+Mark this job as a top choice (Optional)
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+Additional Questions
+Are you building model architectures from scratch?Are you building model architectures from scratch? 
+Required
+Yes
+Do you fine tune the LLM/Model?Do you fine tune the LLM/Model? 
+Required
+Yes
+How large is the data set?
+10000
+How many GPUs are you using to train the model?
+4
+Are you familiar with all processes - DDP, FSDP, Deepspeed?Are you familiar with all processes - DDP, FSDP, Deepspeed? 
+Required
+Yes
+Are you training using PyTorch frameworks?Are you training using PyTorch frameworks? 
+Required
+Yes
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Review
+
+9.
+A.
+Machine Learning Engineer
+Los Angeles, CA · 4 weeks ago · 17 applicants
+
+ $95K/yr - $140K/yrMatches your job preferences, minimum pay preference is 80000.
+Hybrid
+Full-time
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer at Tagup, Inc.
+Machine Learning Engineer
+Tagup, Inc. · Los Angeles, CA (Hybrid)
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer at Tagup, Inc.
+Show more options
+Your AI-powered job assessment
+
+
+Am I a good fit?
+
+Tailor my resume
+
+How can I best position myself?
+About the job
+Tagup is a defense AI company combining expert knowledge with artificial intelligence to revolutionize military logistics. Tagup's AI software directly controls large-scale industrial equipment and logistics systems, ensuring our customers get the best performance they can. As a rapidly scaling AI/ML technology company, we are looking to expand our team.
+
+Tagup's AI software directly controls large scale industrial equipment and logistics systems, ensuring our customers are running optimally. We are looking for skilled engineers who are interested in helping us scale and automate our infrastructure as we expand our customer base and process more data.
+
+As a Machine Learning Engineer, you will work closely with our deployment team to provide innovative analytics and software solutions for our customers. Your primary responsibilities will include building and maintaining various stages of our data processing workflow. This involves ingesting raw customer data, fine-tuning and deploying machine learning models, and presenting the results in client-facing web applications.
+
+Responsibilities
+
+Develop and deploy analytic models on industrial data
+Integrate new data sources into our data pipeline
+Build and maintain data processing tools
+Validate model performance and quantify value creation potential 
+Co-author technical reports on data analysis and model performance
+Collaborate with customers to identify new data sources and the industrial processes they will support; some customer travel may be required
+
+
+
+
+Desired Skills
+
+You are highly technical and analytical, with 4+ years of machine learning experience
+You have experience building and managing large pieces of cloud infrastructure as code, using providers such as AWS, Azure, and GCP, with tools such as Chef, Terraform, Puppet, ansible, cloud formation, and salt stack
+You possess strong skills in at least one modern programming language, such as Python (preferred), Ruby, JavaScript, or Java
+You have experience with at least one type of datastore (MySQL, Postgres, InfluxDB, MongoDB)
+
+
+
+
+Bonus Points
+
+Experience with PyTorch and/or Pyro
+Familiarity with Kubernetes
+Familiarity with Weights and Biases
+Background in variational inference, Gaussian processes, hidden Markov models, and/or time series analysis
+Direct experience working with enterprise customers
+
+
+
+
+As a fast-growing technology company, we offer all members of the team part-ownership through an Employee Stock Option Plan. We also offer health insurance benefits, access to the company 401K plan, and encourage a team-oriented work environment with regular company outings!
+
+Tagup is an equal opportunity employer and individuals seeking employment with us are considered without regard to race, color, religion, national origin, age, sex, marital status, physical or mental disability, veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+
+Applicants must be authorized to work for ANY employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.
+
+We offer a competitive salary and benefits package commensurate with experience and qualifications. We are committed to attracting and retaining top talent, and we believe in compensating our employees fairly for their contributions.
+
+B.
+
+Contact info
+Patrick Gloria
+Patrick Gloria
+-
+United States
+First name
+Patrick
+Last name
+Gloria
+Phone country codePhone country code 
+Required
+United States (+1)
+Mobile phone number
+(617) 678-8166
+Email addressEmail address 
+Required
+patrg444@gmail.com
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Next
+
+Resume
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+137 KB · Last used on 5/10/2025
+
+
+
+
+Deselect resume Patrick Gloria Resume _.pdf
+Patrick Gloria Resume _.pdf
+731 KB · Last used on 3/29/2025
+
+
+
+
+Select resume Patrick Gloria Resume _.pdf
+Upload resume
+Tailor resume with AI
+
+Show 2 more resumes
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+
+Next
+
+Additional Questions
+Where do you currently reside? (City, State)
+Santa Barbara, California
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+
+Next
+
+
+Additional Questions
+
+Are you a U.S. citizen, and are you eligible to obtain a U.S. government security clearance?Are you a U.S. citizen, and are you eligible to obtain a U.S. government security clearance? 
+Required
+
+Yes
+
+No
+
+Do you currently possess, or have you possessed a US Government security clearance?Do you currently possess, or have you possessed a US Government security clearance? 
+Required
+
+Yes
+
+No
+If yes, please indicate your clearance level and if it is current or lapsed.
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+44%
+Additional Questions
+Are you legally authorized to work in the United States?Are you legally authorized to work in the United States? Required
+
+Yes
+
+No
+Will you now or in the future require sponsorship for employment visa status (e.g. H-1B visa status)?Will you now or in the future require sponsorship for employment visa status (e.g. H-1B visa status)? Required
+
+Yes
+
+No
+Please indicate whether you are either a citizen or lawful permanent resident of any of the following countries: Cuba, Iran, North Korea, Syria or Sudan.Please indicate whether you are either a citizen or lawful permanent resident of any of the following countries: Cuba, Iran, North Korea, Syria or Sudan. Required
+
+Yes
+
+No
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+
+Next
+
+
+Additional Questions
+Are you legally authorized to work in the United States?Are you legally authorized to work in the United States? Required
+
+Yes
+
+No
+Will you now or in the future require sponsorship for employment visa status (e.g. H-1B visa status)?Will you now or in the future require sponsorship for employment visa status (e.g. H-1B visa status)? Required
+
+Yes
+
+No
+Please indicate whether you are either a citizen or lawful permanent resident of any of the following countries: Cuba, Iran, North Korea, Syria or Sudan.Please indicate whether you are either a citizen or lawful permanent resident of any of the following countries: Cuba, Iran, North Korea, Syria or Sudan. Required
+
+Yes
+
+No
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+
+Next
+
+
+Additional Questions
+LinkedIn
+https://www.linkedin.com/in/patrick-gloria-861503355/
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+
+Next
+
+Additional Questions
+Current company
+Clipt Videos, LLC
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+
+Next
+
+
+Additional Questions
+Which location are you applying for?Which location are you applying for? 
+Required
+Los Angeles, CA
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+
+Next
+
+Additional Questions
+What is your current location?
+Santa Barbara, CA
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by Lever. Help Center
+
+
+Back
+
+Review
+
+Review your application
+The employer will also receive a copy of your profile.
+Contact info
+Edit
+Patrick Gloria
+Patrick Gloria
+-
+United States
+First nameFirst name 
+Patrick
+Last nameLast name 
+Gloria
+Phone country codePhone country code 
+United States (+1)
+Mobile phone numberMobile phone number 
+(617) 678-8166
+Email addressEmail address 
+patrg444@gmail.com
+Resume
+Edit
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+Last used on 5/10/2025
+
+
+View
+Additional Questions
+Edit
+Where do you currently reside? (City, State)Where do you currently reside? (City, State) 
+Santa Barbara, California
+Additional Questions
+Edit
+Are you a U.S. citizen, and are you eligible to obtain a U.S. government security clearance?Are you a U.S. citizen, and are you eligible to obtain a U.S. government security clearance? 
+Yes
+Do you currently possess, or have you possessed a US Government security clearance?Do you currently possess, or have you possessed a US Government security clearance? 
+No
+If yes, please indicate your clearance level and if it is current or lapsed.If yes, please indicate your clearance level and if it is current or lapsed.
+No answer provided
+Additional Questions
+Edit
+Are you legally authorized to work in the United States?Are you legally authorized to work in the United States? 
+Yes
+Will you now or in the future require sponsorship for employment visa status (e.g. H-1B visa status)?Will you now or in the future require sponsorship for employment visa status (e.g. H-1B visa status)? 
+No
+Please indicate whether you are either a citizen or lawful permanent resident of any of the following countries: Cuba, Iran, North Korea, Syria or Sudan.Please indicate whether you are either a citizen or lawful permanent resident of any of the following countries: Cuba, Iran, North Korea, Syria or Sudan. 
+No
+Additional Questions
+Edit
+LinkedInLinkedIn 
+https://www.linkedin.com/in/patrick-gloria-861503355/
+Additional Questions
+Edit
+Current companyCurrent company 
+Clipt Videos, LLC
+Additional Questions
+Edit
+Which location are you applying for?Which location are you applying for? 
+Los Angeles, CA
+Additional Questions
+Edit
+What is your current location?What is your current location? 
+Santa Barbara, CA
+
+Follow Tagup, Inc. to stay up to date with their page.
+We will automatically save your answers and resume to pre-fill future applications and improve your experience on LinkedIn. You can control this in your Application Settings. Learn more
+
+Application powered by Lever. Help Center. Notice of Employment Rights.
+
+
+Back
+
+Submit application
+
+
+10.
+A.
+Fractal logo
+Fractal
+Share
+Show more options
+Machine Learning Engineer 
+San Francisco Bay Area · 3 weeks ago · Over 100 applicants
+Promoted by hirer
+
+
+On-site
+Full-time
+0 of 5 skills matchRequired skills are missing from your profile
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer  at Fractal
+Stand out to the employer by marking this job as a top choice when you apply. Learn more
+Machine Learning Engineer
+Fractal · San Francisco Bay Area (On-site)
+
+Easy Apply
+
+Save
+Save Machine Learning Engineer  at Fractal
+Show more options
+Your AI-powered job assessment
+
+
+Am I a good fit?
+
+Tailor my resume
+
+How can I best position myself?
+People you can reach out to
+Columbia University logo
+Columbia University logo
+School alumni from Columbia University and others in your network
+
+Show all
+About the job
+Fractal Analytics is a strategic AI partner to Fortune 500 companies with a vision to power every human decision in the enterprise. Fractal is building a world where individual choices, freedom, and diversity are the greatest assets. An ecosystem where human imagination is at the heart of every decision. Where no possibility is written off, only challenged to get better. We believe that a true Fractalite empowers imagination with intelligence. And that it will be such Fractalites that will continue to build the company for the next 100 years. 
+
+  
+Please visit Fractal | Intelligence for Imagination for more information about Fractal. 
+
+  
+***Please note that this role is specifically located in the San Francisco Bay Area and requires 100% onsite availability. If you are not local, we provide weekly travel or relocation.*** 
+  
+Role Overview:  
+As an ML Engineer at Fractal Analytics, you will be at the forefront of building and deploying AI-driven solutions that address critical business challenges across industries. You’ll work with cutting-edge AI platforms to develop both custom and pre-built enterprise applications, tackling key problems such as demand forecasting, asset reliability planning, and inventory optimization. 
+
+ 
+Your role will focus on implementing scalable, production-ready machine learning solutions that seamlessly integrate into our clients' operations. You’ll collaborate with cross-functional teams, optimize model performance, and ensure the reliability and efficiency of AI applications in real-world business environments. If you're passionate about transforming businesses with AI and thrive in a dynamic, impact-driven environment, we’d love to have you on our team. 
+
+ 
+Responsibilities Include:  
+Research, design, implement, and deploy Machine Learning algorithms for enterprise scale applications. 
+Engage with clients to translate business needs into technical requirements and Machine Learning solutions. 
+Contribute to the design and implementation of features for new and existing enterprise AI solution offerings. 
+Provide ongoing support and monitoring for solutions running in production. 
+Continuously research and stay abreast of the latest advancements in machine learning and AI to apply cutting-edge techniques in our solutions. 
+ 
+Qualifications:  
+MS in Computer Science, Electrical Engineering, Data Science, Statistics, Mathematics, or a related field with a strong emphasis on Machine Learning or Artificial Intelligence. 
+Excellent programming skills in Python 
+Strong proficiency in Python and ML frameworks like TensorFlow, PyTorch, or Scikit-learn. 
+Applied Machine Learning and AI experience in a professional setting. 
+Broad knowledge on ecosystem of machine learning and AI algorithms, including tradeoffs to consider and when most appropriate to use. 
+Demonstrated project expertise in supervised/unsupervised learning techniques, deep learning, time series, operations research, or Generative AI. 
+Familiarity with ML model lifecycle including key considerations and relevant tools (MLFlow, AirFlow, Kubeflow, etc.) for supporting and governing models at scale. 
+Familiarity with scalable AI technologies such as (MapReduce, Spark, streaming). 
+Prior exposure to cloud computing services like AWS, Azure, or Google Cloud is advantageous (especially ML and AI toolkits). 
+Ability to drive a project and work both independently and in a team. 
+Smart, motivated, can-do attitude, and seeks to make a difference. 
+Excellent verbal and written communication. 
+  
+Pay: 
+The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions, including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Fractal, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is: 115,000 to 185,000. In addition, you may be eligible for a discretionary bonus for the current performance period. 
+
+ 
+Benefits: 
+As a full-time employee of the company or as an hourly employee working more than 30 hours per week, you will be eligible to participate in the health, dental, vision, life insurance, and disability plans in accordance with the plan documents, which may be amended from time to time. You will be eligible for benefits on the first day of employment with the Company. In addition, you are eligible to participate in the Company 401(k) Plan after 30 days of employment, in accordance with the applicable plan terms. The Company provides for 11 paid holidays and 12 weeks of Parental Leave. We also follow a “free time” PTO policy, allowing you the flexibility to take the time needed for either sick time or vacation. 
+
+ 
+Fractal provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+
+B.
+
+
+0%
+Contact info
+Patrick Gloria
+Patrick Gloria
+-
+United States
+Email addressEmail address 
+Required
+patrg444@gmail.com
+Phone country codePhone country code 
+Required
+United States (+1)
+Mobile phone number
+(617) 678-8166
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Next
+
+
+20%
+Resume
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+137 KB · Last used on 5/10/2025
+
+
+
+
+Deselect resume Patrick Gloria Resume _.pdf
+Patrick Gloria Resume _.pdf
+731 KB · Last used on 3/29/2025
+
+
+
+
+Select resume Patrick Gloria Resume _.pdf
+Upload resume
+Tailor resume with AI
+
+Show 2 more resumes
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+
+40%
+Mark this job as a top choice (Optional)
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+
+60%
+Additional Questions
+How many years of work experience do you have with Machine Learning?
+3
+How many years of work experience do you have with Python (Programming Language)?
+4
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+
+80%
+Work authorization
+Not sure how to answer the following questions? Learn More.
+
+Are you legally authorized to work in the United States?Are you legally authorized to work in the United States? Required
+
+Yes
+
+No
+Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? Required
+
+Yes
+
+No
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Review
+
+Review your application
+The employer will also receive a copy of your profile.
+Contact info
+Edit
+Patrick Gloria
+Patrick Gloria
+-
+United States
+Email addressEmail address 
+patrg444@gmail.com
+Phone country codePhone country code 
+United States (+1)
+Mobile phone numberMobile phone number 
+(617) 678-8166
+Mark this job as a top choice
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Resume
+Edit
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+Last used on 5/10/2025
+
+
+View
+Additional Questions
+Edit
+How many years of work experience do you have with Machine Learning?How many years of work experience do you have with Machine Learning? 
+3
+How many years of work experience do you have with Python (Programming Language)?How many years of work experience do you have with Python (Programming Language)? 
+4
+Work authorization
+Edit
+Are you legally authorized to work in the United States?Are you legally authorized to work in the United States? 
+Yes
+Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? 
+No
+
+Follow Fractal to stay up to date with their page.
+We will automatically save your answers and resume to pre-fill future applications and improve your experience on LinkedIn. You can control this in your Application Settings. Learn more
+
+Application powered by LinkedIn. Help Center. Notice of Employment Rights.
+
+
+Back
+
+Submit application
+
+11.
+A.
+Attis logo
+Attis
+Share
+Show more options
+Senior Research Engineer (Deep Learning / Machine Learning)
+San Francisco Bay Area · 2 days ago · Over 100 applicants
+Promoted by hirer
+
+
+ $180K/yr - $250K/yrMatches your job preferences, minimum pay preference is 80000.
+On-site
+Full-time
+0 of 9 skills matchRequired skills are missing from your profile
+
+Easy Apply
+
+Save
+Save Senior Research Engineer (Deep Learning / Machine Learning) at Attis
+Stand out to the employer by marking this job as a top choice when you apply. Learn more
+Senior Research Engineer (Deep Learning / Machine Learning)
+Attis · San Francisco Bay Area (On-site)
+
+Easy Apply
+
+Save
+Save Senior Research Engineer (Deep Learning / Machine Learning) at Attis
+Show more options
+Your AI-powered job assessment
+
+
+Am I a good fit?
+
+Tailor my resume
+
+How can I best position myself?
+Meet the hiring team
+Cara Janes 🎻
+Cara Janes 🎻   
+ 3rd+
+AI/ML Geospatial talent, professional Cellist and Tennis player
+Job poster
+
+Message
+About the job
+Overview
+
+Join a pioneering company dedicated to building safe, controllable AI physics models to tackle some of humanity's most significant challenges. You'll be part of a small, passionate team with a proven track record in developing safety-critical models for advanced robotics and autonomous systems.
+
+
+The company
+
+This company is focused on developing cutting-edge AI physics models, initially targeting highly accurate prediction and control in complex physical systems. The team has extensive experience building safety-critical AI in demanding domains and is backed by prominent figures and investors in the AI research and technology landscape.
+
+
+The role
+
+As a Senior Research Engineer, you will operate across the full ML stack – from data handling and model development to evaluation and infrastructure. Your responsibilities will include implementing novel model architectures and training algorithms, building scalable data pipelines and training infrastructure for massive, petabyte-scale, multimodal datasets, and rapidly iterating on experiments. Staying current with research to integrate new ideas is key.
+
+
+Essential Requirements
+
+Strong understanding of machine learning fundamentals.
+Depth in at least one core ML domain (e.g., Computer Vision, Sensor Fusion, Language Models, Physics-informed Neural Networks).
+Experience training models and analyzing experiment results through careful analysis and ablation studies.
+Experience writing and optimizing massive petabyte-scale data pipelines.
+
+
+What will make you stand out
+
+Familiarity with meteorology, computational fluid dynamics, and/or numerical simulations.
+Strong understand of Weather or Climate related AI/ML
+
+
+Benefits
+
+Up to $250,000
+Relocation opportunities + support
+Unlimited PTO
+Equity
+Free lunch and dinner
+Private Healthcare
+L&D budget
+
+
+If you are interested in this role, please apply with your resume through this site.
+
+
+SEO Keywords for Search
+
+Machine Learning Engineer, ML Engineer, AI Engineer, Artificial Intelligence, Physics-informed Neural Networks, PINNs, Computer Vision, Sensor Fusion, Language Models, Robotics, Autonomous Vehicles, Data Pipeline, Petabyte Scale, Distributed Training, Model Architecture, Training Algorithms, Ablation Studies, Research Engineer, AI Research, Deep Learning, Neural Networks, Causal AI, Explainable AI, Steerable AI, Weather Prediction, Computational Fluid Dynamics, Numerical Simulation, Silicon Valley, AI Ethics, Safe AI, Deep Learning.
+
+
+Disclaimer
+
+Attis Global Ltd is an equal opportunities employer. No terminology in this advert is intended to discriminate on any of the grounds protected by law, and all qualified applicants will receive consideration for employment without regard to age, sex, race, national origin, religion or belief, disability, pregnancy and maternity, marital status, political affiliation, socio-economic status, sexual orientation, gender, gender identity and expression, and/or gender reassignment. M/F/D/V. We operate as a staffing agency and employment business. More information can be found at attisglobal.com
+
+B.
+
+Contact info
+Patrick Gloria
+Patrick Gloria
+-
+United States
+Email addressEmail address 
+Required
+patrg444@gmail.com
+Phone country codePhone country code 
+Required
+United States (+1)
+Mobile phone number
+(617) 678-8166
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Next
+
+Resume
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+137 KB · Last used on 5/10/2025
+
+
+
+
+Deselect resume Patrick Gloria Resume _.pdf
+Patrick Gloria Resume _.pdf
+731 KB · Last used on 3/29/2025
+
+
+
+
+Select resume Patrick Gloria Resume _.pdf
+Upload resume
+Tailor resume with AI
+
+Show 2 more resumes
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+Mark this job as a top choice (Optional)
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Next
+
+Additional Questions
+How many years experience do you have with Deep Learning?
+2
+This role is 5 days a week onsite in San Francisco. Can you confirm you're able to commit to that? This role is 5 days a week onsite in San Francisco. Can you confirm you're able to commit to that?  
+Required
+Yes
+How many deep learning models have you trained from scratch? 
+4
+How many different model architectures have you worked with? (YOLO, RCNN, Vision Transformers, LSTM, various LLMs)
+5
+How many GPUs have you used to train models?
+4
+Submitting this application won’t change your LinkedIn profile.
+
+Application powered by LinkedIn. Help Center
+
+
+Back
+
+Review
+
+Review your application
+The employer will also receive a copy of your profile.
+Contact info
+Edit
+Patrick Gloria
+Patrick Gloria
+-
+United States
+Email addressEmail address 
+patrg444@gmail.com
+Phone country codePhone country code 
+United States (+1)
+Mobile phone numberMobile phone number 
+(617) 678-8166
+Mark this job as a top choice
+Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.
+
+
+Mark job as a top choice
+You can mark 3 jobs as top choice this month
+
+Resume
+Edit
+Be sure to include an updated resume in DOC, DOCX or PDF format (less than 2MB). 
+Patrick Gloria Resume _.pdf
+Last used on 5/10/2025
+
+
+View
+Additional Questions
+Edit
+How many years experience do you have with Deep Learning?How many years experience do you have with Deep Learning? 
+2
+This role is 5 days a week onsite in San Francisco. Can you confirm you're able to commit to that? This role is 5 days a week onsite in San Francisco. Can you confirm you're able to commit to that?  
+Yes
+How many deep learning models have you trained from scratch? How many deep learning models have you trained from scratch?  
+4
+How many different model architectures have you worked with? (YOLO, RCNN, Vision Transformers, LSTM, various LLMs)How many different model architectures have you worked with? (YOLO, RCNN, Vision Transformers, LSTM, various LLMs) 
+5
+How many GPUs have you used to train models?How many GPUs have you used to train models? 
+4
+
+Follow Attis to stay up to date with their page.
+We will automatically save your answers and resume to pre-fill future applications and improve your experience on LinkedIn. You can control this in your Application Settings. Learn more
+
+Application powered by LinkedIn. Help Center. Notice of Employment Rights.
+
+
+Back
+
+Submit application
+

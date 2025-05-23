@@ -1,0 +1,1213 @@
+Job URL,Application Link,Company Name,Job Title,Location,Employment Type,Required Experience (Years),Required Education,Required Skills,Mention Keywords,Description Summary
+https://www.linkedin.com/jobs/view/4230867867,https://www.linkedin.com/jobs/view/4230867867/,Granica,"Software Engineer, Machine Learning","Mountain View, CA",Full-time,4,NA,Python; Go; Machine Learning; TensorFlow; PyTorch; AI; CI/CD; MLOps; Distributed Systems,"{'Distributed Systems': 1, 'TensorFlow': 2, 'CI/CD': 1, 'data': 6, 'team': 3, 'Python': 1, 'batch': 1, 'environment': 1, 'quality': 1, 'Machine Learning': 3, 'pipeline': 1, 'real-time': 1, 'PyTorch': 1, 'Go': 1, 'production': 3, 'customer': 3, 'MLOps': 1, 'AI': 2, 'research': 5, 'collaborate': 1, 'analytics': 1, 'design': 2, 'performance': 4, 'optimization': 2}","About the job
+About Granica
+Granica is pioneering data‑optimization for large‑scale AI and analytics. Our unified platform slashes storage and compute costs while turbo‑charging data pipelines, empowering enterprises to turn petabytes of raw data into actionable intelligence. Backed by $45 M from NEA and Bain Capital Ventures, we’re scaling fast at the intersection of AI research, distributed systems, and go‑to‑market.
+
+The Team
+We’re hiring Software Engineers to join our Machine Learning team, which works at the heart of Granica’s platform. This team partners closely with research, product, and platform engineering to productionize new ML algorithms, optimize platform performance through ML techniques, and fine-tune models for specific customer needs. You’ll also contribute to building and improving internal training, evaluation, and deployment pipelines.
+
+The Role
+You’ll help translate research into real-world impact — designing and implementing machine learning systems that drive product features and platform efficiency. You’ll work across the ML lifecycle, from experiment design and training to deployment and monitoring, with an emphasis on production-quality engineering and measurable outcomes.
+
+What You’ll Do 
+
+Invent
+Explore ML-driven solutions to increase the compression, performance, and accuracy of Granica’s platform.
+Research and prototype novel approaches to pattern detection, feature modeling, and automated optimization.
+Develop internal experimentation and evaluation frameworks to accelerate model iteration and analysis.
+
+Own
+Productionize ML models for real-time and batch inference in high-throughput environments.
+Fine-tune models to meet customer-specific performance objectives and compliance constraints.
+Design and maintain training and inference pipelines, with built-in traceability, versioning, and monitoring.
+
+Learn & Collaborate
+Work closely with Research, Platform, and Product Engineering teams to bring ML innovation to production.
+Engage with customer-facing teams to understand real-world data characteristics and evolving needs.
+Drive continuous improvements in model performance, scalability, and deployment efficiency.
+
+What You Bring 
+4+ years of experience in ML engineering or applied machine learning roles.
+Strong coding skills in Python and experience with ML frameworks like PyTorch, TensorFlow, or JAX.
+Experience with model serving and MLOps tools: TorchServe, TensorFlow Serving, FastAPI, MLflow, or similar.
+Familiarity with data pipeline tools like Apache Airflow, Spark, Kafka, or Ray.
+Experience building CI/CD pipelines and production systems for ML workflows.
+Familiarity with observability stacks (e.g., Prometheus, Grafana, ELK) for monitoring model and system behavior.
+Bonus: Background in data compression, representation learning, or distributed inference is a plus.
+
+Compensation
+$180,000 – $220,000 (base) plus meaningful equity. Uncapped accelerators for over‑achievement.
+
+Benefits
+Generous 401(k) with company match
+Premium health, dental, and vision coverage for you and your dependents
+Unlimited PTO plus company‑wide recharge weeks
+Catered lunch & dinner at our offices
+Immigration sponsorship and support
+Company hackathons and off‑sites
+
+Equal Opportunity
+Granica celebrates diversity and is committed to creating an inclusive environment for all employees."
+https://www.linkedin.com/jobs/view/4233402967,https://www.linkedin.com/jobs/view/4233402967,Smart IT Frame,ML Engineer,"San Francisco, CA",contract,NA,NA,Python; AWS; Azure; GCP; Google Cloud Platform; Cloud; Docker; Machine Learning; Deep Learning; NLP; Computer Vision; TensorFlow; PyTorch; Keras; Git; Jenkins; Jira; Confluence,"{'TensorFlow': 1, 'data': 2, 'Jira': 1, 'Cloud': 1, 'Deep Learning': 1, 'Python': 1, 'Docker': 1, 'Keras': 1, 'Google Cloud Platform': 1, 'Git': 1, 'Jenkins': 1, 'Azure': 1, 'GCP': 1, 'AWS': 1, 'Machine Learning': 1, 'Confluence': 1, 'PyTorch': 2, 'NLP': 1, 'Computer Vision': 1}","About the job
+We are Hiring!
+Role: ML Engineer
+Location: San Francisco, CA ( Remote)
+Type: Contract
+ Job Description : 
+Custom classification detection recognition Models across stills and videos
+Drive dataset curation workstreams including data engineering with existing data
+and human labeling operations
+Implement papers on SOTA methodologies on video segmentation video
+classification object face detection
+Strong command of pytorch or tensorflowkeras
+Incorporation of Multimodal processing including audio and text
+Work with stakeholders directly to translate business problems to ML problems
+Work with legal teams on model compliance
+ Primary Skills:
+Machine Learning, Deep Learning, Computer Vision, Image and Video Processing, PyTorch, TensorFlow/Keras, Natural Language Processing (NLP), GenAI, State-of-the-Art (SOTA) Techniques, Video Segmentation, Object and Face Detection, Audio Processing, Text Processing, Multimodal Integration
+Secondary Skills:
+Python, Dashboard Creation, AWS/ Azure/Google Cloud Platform (GCP), Git, GitHub, JIRA, Confluence, Slack, Jenkins, Docker."
+https://www.linkedin.com/jobs/view/4229289354,https://www.linkedin.com/jobs/view/4229289354,Tanoshii,Senior Machine Learning Engineer,San Francisco Bay Area,Full-time,5,NA,Machine Learning; AI,"{'data': 1, 'Machine Learning': 1, 'real-time': 1, 'communication': 1, 'AI': 1, 'optimization': 1}","About the job
+We're helping a video generation company that is building the world's most intuitive AI agent. Backed by top investors including Sequoia, Y Combinator, and Scale VC. 
+
+They are hiring a Senior Machine Learning Engineer who is comfortable building systems with sub-second latency and real-time applications. Evidence of delivering applications to improve model training speed and a reduction in memory usage, optimization, and the ability to work in multiprocess/ have fluency with interprocess communication. Evidence on working on video data is really important too!"
+https://www.linkedin.com/jobs/view/4212200531,https://www.linkedin.com/jobs/view/4212200531,Riot Games,"Staff Software Engineer, Machine Learning - AI Foundations","Los Angeles, CA",Full-time,6,Master's Degree or equivalent experience,Python; AWS; GCP; Cloud; Docker; Kubernetes; Terraform; Machine Learning; Deep Learning; TensorFlow; PyTorch; AI; MLOps,"{'reliable': 1, 'TensorFlow': 1, 'data': 5, 'gaming': 1, 'innovative': 1, 'team': 6, 'Cloud': 1, 'Deep Learning': 1, 'Python': 1, 'Docker': 1, 'Terraform': 1, 'GCP': 1, 'environment': 1, 'AWS': 1, 'leadership': 1, 'Machine Learning': 3, 'real-time': 1, 'Kubernetes': 1, 'communication': 2, 'PyTorch': 1, 'production': 2, 'architecture': 1, 'MLOps': 1, 'scalable': 1, 'AI': 8, 'research': 3, 'security': 1, 'design': 2, 'development': 3, 'performance': 1, 'optimization': 1, 'infrastructure': 2}","About the job
+Engineers at Riot master their craft by building, launching, and operating games that delight players all over the world. As a Staff Software Engineer you will dive into projects that focus on team cohesiveness and cross-team goals. You'll lead development efforts, steer design processes, and exemplify the team’s engineering culture.
+
+As a Staff Software Engineer on the AI Foundations team, you will contribute robust and reliable ML/AI solutions to help enhance titles throughout the game development lifecycle. You will use your expertise in large scale AI/ML data systems to help us deliver unmatched player impact, collaborating closely with other engineers on the Data team, and mentoring them. You will report to an engineering manager on Riot’s AI Foundations team.
+
+Responsibilities:
+
+Apply deep software engineering expertise to design and maintain scalable production-grade ML systems, particularly those leveraging reinforcement learning and other relevant AI techniques.
+Support real-time in-game experiences with continuous delivery/optimization of robust ML pipelines and deployment tools to ensure rigorous ML operations.
+Work with data scientists to refine training datasets, simulation environments, and feedback loops to improve overall model performance and player experience. 
+Support data scientists, designers, QA, and analysts with tools and automation to enhance the efficiency and repeatability of their workflows.
+Work closely with game designers, engineers, and leadership to understand their needs, gather datasets, build prototypes, and look for innovative ways to bridge the gap between AI research and player facing features.
+Mentor engineers on MLE best practices, raise the technical bar, and contribute to engineering standards.
+Stay current on state of the art ML/AI research like cutting-edge RL and deep learning research, and evaluate new techniques for practical applications.
+
+
+Required Qualifications:
+
+BS/MS degree in Computer Science or related field, or equivalent experience.
+6+ years of experience as a software engineer (4+ years in machine learning focused roles).
+Experience with common tools for machine learning (e.g. Mlflow, Tensorflow, PyTorch, RLlib, Gym/Gymnasium).
+Experience building software across multiple languages (e.g. Python, and/or C++).
+Experience leading the development and operation of large-scale, end-to-end machine learning systems, including gathering requirements, designing production-ready architecture, and sustainably supporting high availability services.
+Experience deploying cloud infrastructure (e.g., AWS, GCP) using containers and orchestration (e.g., Docker, Kubernetes), managed using infrastructure as code (e.g., Terraform, Ansible).
+Experience with modern MLOPs platforms. Including understanding of model training, evaluation, and deployment lifecycles.
+Experience coaching those around them across all roles, and mentoring mid and senior level engineers.
+Excellent written and verbal communication.
+Impact player with a track record of navigating ambiguity.
+
+
+Desired Qualifications:
+
+Experience or interest in working with Unreal Engine.
+Experience with Game AI (e.g. behavior trees, reinforcement learning, imitation learning).
+
+
+For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role!
+
+Our Perks:
+
+Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
+
+Riot Games fosters a player and workplace experience that values teamwork embodied by the Summoner's Code and Community Code. Our culture embraces differences as a strength, and our values are the guiding principles for how we approach work. We are committed to putting diversity and inclusion (D&I) at the center of everything we do, and promoting a fair and collaborative culture where Rioters treat one another with dignity and respect. We encourage you to read more about our value of thriving together and our ongoing work to build the most inclusive company in Gaming.
+
+It’s our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
+
+Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
+
+Safeguarding confidential and sensitive Company data 
+Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
+Accessing Company assets, secure digital systems, and networks
+Ensuring a safe interactive environment for players and other Rioters
+
+
+These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security. 
+
+(Los Angeles Only) Base salary range between $192,500.00 - $269,400.00 USD + incentive compensation + equity + 401K with company match + medical, dental, vision, and life insurance + short and long-term disability + open PTO."
+https://www.linkedin.com/jobs/view/4234205166,https://www.linkedin.com/jobs/view/4234205166/,Storm3,👩‍💻 Founding ML Engineer - Bioinformatics Focus,"Los Angeles, CA",Full-time,4,Associate's Degree,Kubernetes; PyTorch; AI,"{'data': 2, 'team': 2, 'quality': 1, 'Kubernetes': 1, 'PyTorch': 1, 'startup': 3, 'production': 1, 'scalable': 1, 'AI': 2, 'research': 1, 'collaborate': 1, 'design': 1, 'infrastructure': 2}","About the job
+👩‍💻 Founding ML Engineer - Bioinformatics Focus
+💊 Early Stage startup
+📍 Los Angeles (can be remote within US with monthly travel)
+💸 Competitive base + hefty equity
+
+About
+They are an early-stage startup on a mission to transform biology through frontier AI. They're building an intelligent discovery layer that helps scientists navigate the ever-growing universe of biomedical knowledge and datasets. As an early team member, you’ll help define the foundations of AI-first tooling for life science.
+
+Responsibilities
+Design and build scalable infrastructure for training, evaluating, and serving ML models tailored to biomedical tasks.
+Fine-tune foundation models (LLMs, GNNs, transformers) on biological corpora and structured data (e.g., sequences, pathways, omics).
+Develop retrieval-augmented generation (RAG) pipelines and multi-modal interfaces that integrate literature, experimental data, and structured annotations.
+Collaborate with biologists and product teams to ship production-quality tools that accelerate scientific discovery.
+Lay the technical groundwork for team growth, mentoring and shaping engineering culture.
+
+Qualifications
+4+ years of experience in ML, ideally including time at a startup or research lab.
+Strong software engineering fundamentals and experience with ML infrastructure (e.g., PyTorch, JAX, Ray, Hugging Face, Kubernetes, Weights & Biases).
+Deep familiarity with biological datasets and bioinformatics workflows (e.g., sequence alignment, annotation, pathway enrichment).
+Experience fine-tuning or adapting large language models or transformer-based architectures for domain-specific tasks.
+Bonus: Experience with scientific QA systems, graph-based reasoning, or training models with limited supervision.
+
+📧 Interested in applying? Please click on the ‘Easy Apply’ button or alternatively email me your resume at stefani.lukic@storm3.com
+
+⚡ Storm3 is a HealthTech & Biotech recruitment firm with clients across major Tech hubs in Europe, APAC and North America. To discuss open opportunities or career options, please visit our website at storm3.com and follow the Storm3 LinkedIn page for the latest jobs and intel"
+https://www.linkedin.com/jobs/view/4231630244,https://www.linkedin.com/jobs/view/4231630244/,The Role,Senior Software Engineer - Applied AI,"California, United States",Full-time,5,Associate's Degree,Python; Computer Vision; AI; MLOps,"{'reliable': 1, 'data': 2, 'team': 8, 'Python': 2, 'analytical': 2, 'environment': 1, 'quality': 1, 'communication': 1, 'production': 1, 'testing': 1, 'Computer Vision': 2, 'MLOps': 1, 'AI': 4, 'research': 5, 'development': 1, 'performance': 2}","About the job
+Geomagical Labs is crafting three-dimensional, AI-powered experiences for tens of millions of users around the world. In partnership with IKEA, our pioneering apps allow customers to scan photorealistic models of their indoor spaces, and interactively reimagine them with new furniture in life-like 3D.
+
+About The Role
+We have an opening for a Senior Software Engineer, with strong Python engineering skills, an analytical mindset, and a strong collaborative behavior - to join our Applied Research team. Responsibilities include researching, designing, coding, testing, and shipping Applied AI solutions. This position could be an opportunity to become an expert practitioner in the fast-moving field of AI.
+You will be expected to be a thoughtful, pragmatic, can-do technologist, and also a great collaborator & teammate. Successful candidates will need these attributes:
+
+Entrepreneurial - Strong drive, growth mindset, lives Geomagical cultural values
+Analytical & data driven - Generates analyses & data to assess results
+Great teammate - Positive collaborator, brings out best outcomes from others
+Strategic - Sees the big picture, and creatively maps out solutions
+Reliable operator - In the details, good planner
+Fast learner - Curious & constantly learning. Not ashamed to ask questions/admit errors
+
+Core responsibilities of the role include:
+Applied research --- Be a core team member of the Applied Research team - applying state-of-the-art technologies to our products (e.g. neural network integration & deployment).
+Improve automated furnishing --- Improve today's auto-furnishing algorithms (results and performance), and lead new developments in home furnishing assistance (e.g. LLM integration)
+Tooling & MLOps --- Develop ML tooling to enhance the productivity and software quality of the research team
+POC development & evaluation--- Rapidly harness state-of-the-art ML models & algorithms, and convert them into meaningful proofs-of-concept (POCs) for study and evaluation
+Productionization --- Further develop promising POCs into robust, production-grade solutions for deployment at scale
+Drive engineering best practices --- Help and coach our Applied Research teams to be more effective & efficient through better software engineering
+
+Requirements
+Strong expertise in Python
+Experience building resilient, low-latency, systems & pipelines
+Highly effective, high-EQ communication skills (verbal & written)
+BONUS: Experience with 3D graphics
+BONUS: Experience training neural networks
+BONUS: Experience with classical computer vision algorithms
+
+Benefits
+The USA base salary ranges from $170,000 to $200,000, determined by location, skill, and experience level
+In addition to base salary, we incentivize via an annual performance bonus, based on team and company OKR success
+Excellent health and retirement benefits. Full medical, dental, and vision coverage
+Strong people-first culture with generous PTO, a focus on improving each other, and an actively shaped team culture to ensure a happy and healthy working environment for all
+Opportunity to work in a dynamic team of successful serial entrepreneurs, software developers, computer vision & AI researchers, and graphics engineers
+The ability to build products and features from the ground up and put them into the hands of millions of people around the world
+Headquarters located in downtown Palo Alto, California --- an easy walk from restaurants, coffee shops, and Caltrain commuter rail
+Location is flexible - our team is distributed globally, any nearby timezone is great as long as you have regular internet access and can overlap with US Pacific and Europe CET work hours for meetings as needed"
+https://www.linkedin.com/jobs/view/4229244338,https://www.linkedin.com/jobs/view/4229244338,Galaxyitech,Machine Learning Engineer,"Sunnyvale, CA",contract,2,Associate's Degree,Python; Java; Kubernetes; Machine Learning; Unix,"{'data': 1, 'Python': 2, 'Machine Learning': 1, 'Java': 1, 'Kubernetes': 1, 'ETL': 1, 'Unix': 1}","About the job
+Hi, Everyone
+
+******W2 CONTRACT **W2 CONTRACT***W2 CONTRACT ******
+100% Closure & Long-term project, Immediate Interview, surely
+ALL VISA TYPES ARE ACCEPTABLE (Except H4EAD)
+Job Title: Machine Learning Engineer
+Loc: Austin, TX & SCV
+
+Job Description:
+Required Skills
+Mandatory Needed 8-9y Exp Compulsory.
+• A background in computer science, engineering, mathematics, or similar quantitative field with a minimum of 2 years professional experience
+• Strong Python/Java programming skills
+• Experience in implementing data pipelines using python
+• Experience with workflow scheduling / orchestration such as Kubernetes, Airflow or Oozie
+• Extract Transform Load (ETL) experience using Spark, Kafka, Hadoop, or similar technologies
+• Experience with query APIs using JSON, Protocol Buffers, or XML
+• Experience with Unix-based command line interface and Bash scripts
+
+NOTE: Please share your updated resume to vmahesh@galaxyitech.com or can reach out me at 480-407-6915."
+https://www.linkedin.com/jobs/view/4231477185,https://www.linkedin.com/jobs/view/4231477185,TikTok,"Machine Learning Engineer, Trust and Safety - USDS","Mountain View, CA",Full-time,2,PhD/Doctorate,Python; Express; Machine Learning; Deep Learning; NLP; Computer Vision,"{'data': 11, 'innovative': 2, 'team': 5, 'Deep Learning': 1, 'Python': 1, 'creativity': 4, 'Express': 2, 'mobile': 1, 'environment': 1, 'Machine Learning': 7, 'pipeline': 1, 'communication': 1, 'NLP': 2, 'Computer Vision': 2, 'scalable': 1, 'collaborate': 2, 'security': 5, 'design': 1}","About the job
+Responsibilities
+About the team
+Our Trust and Safety engineering team is responsible for building machine learning models and systems to identify and defend internet abuse and fraud on our platform. Our mission is to protect billions of users and publishers across the globe every day. We embrace the state-of-the-art machine learning technologies and scale them to detect and improve the tremendous amount of data generated on the platform. With the continuous efforts from our team, TikTok is able to provide the best user experience and bring joy to everyone in the world.
+
+We are looking for machine learning engineers who can take initiative, design and develop advanced machine learning solutions, and deploy them. A successful candidate will have machine learning expertise and good software engineering experience. And you will take pride in working with engineers, product managers and business partners to identity and solve the most challenging safety and integrity problems in the internet scale.
+
+What You'II Do
+- Play an important role in building the trust and safety machine learning model
+- Work on highly-scalable classifiers, predictive models and algorithms in big data mining, computer vision, NLP and other domains
+- Work with engineering teams to implement model pipeline and deploy the service at scale
+- Collaborate with product team to define objectives and improve trust and safety strategy
+- Collaborate with data analyst to understand and find data patterns
+
+In order to enhance collaboration and cross-functional partnerships, among other things, at this time, our organization follows a hybrid work schedule that requires employees to work in the office 3 days a week, or as directed by their manager/department. We regularly review our hybrid work model, and the specific requirements may change at any time.
+
+Qualifications
+Minimum Qualifications:
+- BS degree with 2+ years’ industrial experience, or a MS/PhD degree with 1+ years' relevant experience
+- Hands on experience in one or more of the areas: machine learning, deep learning, pattern recognition, anomaly detection, data mining, computer vision, NLP or content understanding
+-Programming skills in Python and similar languages, and a deep understanding of data structures and algorithms
+- Good communication and teamwork skills, be passionate about learning new techniques and taking on challenging problems.
+
+About USDS
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. U.S. Data Security (“USDS”) is a subsidiary of TikTok in the U.S. This new, security-first division was created to bring heightened focus and governance to our data protection policies and content assurance protocols to keep U.S. users safe. Our focus is on providing oversight and protection of the TikTok platform and U.S. user data, so millions of Americans can continue turning to TikTok to learn something new, earn a living, express themselves creatively, or be entertained. The teams within USDS that deliver on this commitment daily span across Trust & Safety, Security & Privacy, Engineering, User & Product Ops, Corporate Functions and more.
+
+Data Security Statement
+This role requires the ability to work with and support systems designed to protect sensitive data and information. As such, this role will be subject to strict national security-related screening.
+
+
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an ""Always Day 1"" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.
+
+Diversity & Inclusion
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+
+Trust & Safety
+TikTok recognises that keeping our platform safe for the TikTok communities is no ordinary job which can be both rewarding and psychologically demanding and emotionally taxing for some. This is why we are sharing the potential hazards, risks and implications in this unique line of work from the start, so our candidates are well informed before joining.
+We are committed to the wellbeing of all our employees and promise to provide comprehensive and evidence-based programs, to promote and support physical and mental wellbeing throughout each employee's journey with us. We believe that wellbeing is a relationship and that everyone has a part to play, so we work in collaboration and consultation with our employees and across our functions in order to ensure a truly person-centred, innovative and integrated approach.
+
+
+USDS Reasonable Accommodation
+USDS is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/USDS-RA
+
+
+Job Information
+【For Pay Transparency】Compensation Description (Annually)
+The base salary range for this position in the selected city is $145000 - $250000 annually.
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+3. Exercising sound judgment."
+https://www.linkedin.com/jobs/view/4231742511,https://www.linkedin.com/jobs/view/4231742511,NotCo,MACHINE LEARNING ENGINEER,San Diego Metropolitan Area,Full-time,3,Master's Degree,Python; Google Cloud Platform; Cloud; Docker; Kubernetes; Machine Learning; Deep Learning; Data Science; PyTorch; scikit-learn; AI,"{'data': 6, 'team': 2, 'Cloud': 2, 'Deep Learning': 2, 'scikit-learn': 1, 'Python': 2, 'Docker': 1, 'analytical': 1, 'Google Cloud Platform': 1, 'Machine Learning': 6, 'Kubernetes': 1, 'PyTorch': 1, 'Data Science': 2, 'testing': 1, 'AI': 1, 'research': 2, 'development': 1, 'performance': 1, 'optimization': 1, 'infrastructure': 2}","About the job
+We are currently looking for a Machine Learning Engineer. This position is located in the San Francisco area. 
+
+As a Machine Learning Engineer, you will be part of the NotCo AI group. You will work with a multifaceted team of ML & Software Engineers, UI/UX Designers, Experimental Chefs, and Food Scientists to revolutionize the way plant-based and sustainable foods are created. Our tech platform utilizes predictive & generative models, optimization algorithms, as well as in-house data warehousing infrastructure that allows us to relate nutritional, physicochemical, and molecular data to find new discoveries for novel plant-based products.
+
+Role & Responsibilities:
+Research, develop, and deploy machine learning systems onto the Giuseppe platform for food science & technology applications.
+Brainstorm with Experimental Chefs & Food Scientists to find data and ML-driven solutions for problems arising with new product development. We develop products ranging from plant-based milks to plant-based meats, so there are always engaging challenges to solve.
+Lead new machine learning initiatives end-to-end, from proposal to deployment. This requires having strong research, project management & communications skills and the potential to lead a small team.
+Analyze and debug issues with currently deployed models & suggest improvements to data, algorithms, or workflows.
+Identify new datasets that could help improve the performance of current algorithms.
+Read & implement recent ML papers that are relevant to our scope of work (e.g. implement a self-supervised algorithm proposed in a 2020 ICML paper).
+Dive into the domain of food science: be interested in learning about proteins, volatile molecules & the food industry in general.
+Contribute in general to department and organization projects.
+
+Requirements:
+
+BS/MS in Computer Science or a related field with a focus on machine learning 
+3+ years of working experience in an Applied Machine Learning group 
+Strong background in software engineering, unit & functional testing (Python, unittest, nose)
+Strong data science analytical skills with a traditional data science and Deep Learning stack (Python, PyTorch, Pandas, NumPy, SciPy, Scikit-learn, Jupyter, Matplotlib, Hugging Face, LangChain, Polars, etc.)
+Prior experience with implementing & training Deep Learning models; prior experience with training models on cloud infrastructure on GPU/TPU 
+Familiarity with model packaging & deployment (Docker, Kubernetes, Google Cloud Platform)
+In-depth knowledge in one or several of the following areas preferred: Representational Learning, Generative Models, Transformers, bandit algorithms & convex optimizers
+Authorization to work in the U.S. is required
+
+NotCo is committed to fair and equitable compensation practices. The pay range for this role is $150,000 - $180,000. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to skill set, depth of experience, certifications, and specific work location. This may be different in other locations due to differences in the cost of labor.
+
+
+We are an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status."
+https://www.linkedin.com/jobs/view/4229297441,https://www.linkedin.com/jobs/view/4229297441,FAIT,Principal Staff Machine Learning Engineer - Foundational AI Technologies,"Sunnyvale, CA",contract,8,PhD/Doctorate or equivalent experience,Python; Machine Learning; Deep Learning; Data Science; AI; Artificial Intelligence,"{'Artificial Intelligence': 1, 'data': 8, 'team': 5, 'Deep Learning': 2, 'Python': 1, 'environment': 1, 'leadership': 3, 'quality': 1, 'Machine Learning': 6, 'implementation': 2, 'communication': 1, 'Data Science': 2, 'production': 1, 'scalable': 1, 'AI': 19, 'research': 2, 'design': 2, 'development': 2, 'performance': 1, 'optimization': 1, 'infrastructure': 2}","About the job
+LinkedIn is the world’s largest professional network, built to help members of all backgrounds and experiences achieve more in their careers. Our vision is to create economic opportunity for every member of the global workforce. Every day our members use our products to make connections, discover opportunities, build skills and gain insights. We believe amazing things happen when we work together in an environment where everyone feels a true sense of belonging, and that what matters most in a candidate is having the skills needed to succeed. It inspires us to invest in our 
+talent and support career growth. Join us to challenge yourself with work that matters.
+
+
+At LinkedIn, we trust each other to do our best work where it works best for us and our teams. This role offers both hybrid and remote work options. This means you can work from home and commute to a LinkedIn office, depending on what's best for you and when it is important for your team to be together, or you can work remotely from most locations within the country listed for this role.
+
+At LinkedIn, our Foundational AI Technologies (FAIT) organization stands as the innovation epicenter, addressing the fundamental AI challenges and the force behind LinkedIn's next-generation AI-driven member experiences. Our mission spans across the entire marketplace, leveraging our expertise in data curation, algorithm development, and robust infrastructure to spearhead AI innovations. We are dedicated to creating a transformative impact on all LinkedIn products, establishing the platform as a leader in the AI realm.
+
+As part of the FAIT team, you will be at the heart of building foundation models that redefines the way LinkedIn understands and interacts with its entities across various marketplaces. While we build these models, we will be processing massive scale LinkedIn data sets and debug the most intrinsic user problems and scientifically challenging model understanding puzzles. You will be driving LinkedIn’s AI direction, unblock massive scale projects with your expertise in neural networks and machine learning at the same time interact with partner teams within FAIT and across the company to realize these AI innovations. 
+
+As a Principal Staff Engineer in the Foundational AI Technologies team, you will act as the primary domain expert, and you will research, develop, build and ship cutting edge AI technologies. You are expected to provide technical leadership, and drive architectural decisions and implementation across the engineering organization.
+
+This individual will be a core member of LinkedIn’s Foundational AI Technologies team and will partner closely with other verticals in Data and AI, and Infrastructure teams. This is a rare opportunity to lead initiatives at the cutting-edge of Data and AI, which benefits every product and team at Linkedin and over 1 Billion members of the global workforce.
+
+
+Responsibilities
+Build Foundation Models, customizing it to uniquely comprehend LinkedIn's diverse marketplace entities.
+Unblock massive scale projects with your expertise in neural networks and machine learning
+Enhance the AI system's ability to understand LinkedIn members' interests, intents, and behaviors.
+You will act as the primary domain expert to influence technology choices
+You will research and develop cutting edge AI technologies
+You will build and ship scalable software for AI tasks
+You will drive architectural decisions and implementation across the engineering organization
+You will provide technical leadership to cross-functional teams and drive alignment on technology strategy
+You will establish a culture that values diverse viewpoints while navigating complex decisions
+You will partner effectively with leads (ICs and managers) from other AI teams
+You will define the bar for quality and efficiency of software systems while balancing business impact, operational impact and cost benefits of design and architectural choices
+Lead by example to build a culture of craftsmanship and innovation
+Be an industry thought leader. Represent LinkedIn in relevant industry forums
+
+
+Basic Qualifications
+BA/BS Degree in Computer Science or related technical discipline or equivalent practical experience
+7+ years of industry experience in software design, development, and algorithm related solutions.
+7+ years experience programming languages such as Python, etc.
+5+ years in an architect or technical leadership position
+Background in the following areas: Machine Learning and Artificial Intelligence
+
+
+Preferred Qualifications
+Experience in bringing large scale AI systems to production.
+PhD in Computer Science, Machine Learning, Statistics or related fields
+8+ years of experience in AI/Data Science and Machine Learning
+Strong academic credentials with publications in top-tier journals and conferences
+Background in one or more of the following areas: deep learning, information retrieval, knowledge graph, natural language processing, optimization
+Experience in building large scale AI models and systems
+Experience in large language models and deep neural network solutions
+Demonstrated ability to work with peers in engineering across teams to set technical directions
+Excellent communication and presentation skills
+
+
+Suggested Skills:
+Deep learning
+Machine learning
+Large language models
+Data Science
+Information Retrieval
+
+
+LinkedIn is committed to fair and equitable compensation practices.
+
+The pay range for this role is $207,000 to $340,000. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to skill set, depth of experience, certifications, and specific work location. This may be different in other locations due to differences in the cost of labor.
+
+The total compensation package for this position may also include annual performance bonus, stock, benefits and/or other applicable incentive compensation plans. For more information, visit https://careers.linkedin.com/benefits
+
+
+Equal Opportunity Statement
+ We seek candidates with a wide range of perspectives and backgrounds and we are proud to be an equal opportunity employer. LinkedIn considers qualified applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other legally protected class. 
+
+ LinkedIn is committed to offering an inclusive and accessible experience for all job seekers, including individuals with disabilities. Our goal is to foster an inclusive and accessible workplace where everyone has the opportunity to be successful.
+
+ If you need a reasonable accommodation to search for a job opening, apply for a position, or participate in the interview process, connect with us at accommodations@linkedin.com and describe the specific accommodation requested for a disability-related limitation.
+
+ Reasonable accommodations are modifications or adjustments to the application or hiring process that would enable you to fully participate in that process. Examples of reasonable accommodations include but are not limited to:
+
+ -Documents in alternate formats or read aloud to you 
+ -Having interviews in an accessible location
+ -Being accompanied by a service dog
+ -Having a sign language interpreter present for the interview
+
+ A request for an accommodation will be responded to within three business days. However, non-disability related requests, such as following up on an application, will not receive a response.
+
+ LinkedIn will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by LinkedIn, or (c) consistent with LinkedIn's legal duty to furnish information.
+
+ Pay Transparency Policy Statement
+ As a federal contractor, LinkedIn follows the Pay Transparency and non-discrimination provisions described at this link: https://lnkd.in/paytransparency.
+
+ Global Data Privacy Notice for Job Candidates
+ This document provides transparency around the way in which LinkedIn handles personal data of employees and job applicants: https://lnkd.in/GlobalDataPrivacyNotice"
+https://www.linkedin.com/jobs/view/4229499282,https://www.linkedin.com/jobs/view/4229499282,the Role,Machine Learning Engineer,San Francisco Bay Area,Full-time,NA,Associate's Degree,Python; NoSQL; React; Node.js; AWS; GCP; Cloud; Machine Learning; AI,"{'Node.js': 1, 'data': 1, 'team': 1, 'Cloud': 1, 'Python': 1, 'GCP': 2, 'NoSQL': 1, 'AWS': 2, 'Machine Learning': 2, 'production': 2, 'React': 1, 'architecture': 1, 'scalable': 1, 'AI': 12, 'research': 4, 'collaborate': 1, 'development': 1}","About the job
+Bytez is a technology company dedicated to making AI universally accessible. We're helping build a better internet, where anyone can leverage AI to bring their ideas to life. That's why we're building a primitive superintelligent AI system that's solely specialized in AI research and models. We believe 1,000,000 networked brains are better than one neural network.
+
+Bytez is honored to be used by hundreds of thousands of AI professionals every month, and be the official technology used by top AI journals, such as NeurIPS and CVPR.
+
+Join us in a different kind of revolution.
+
+About the Role
+We’re looking for a passionate Machine Learning Engineer with full-stack expertise. You must be passionate about AI and agent technology.
+
+You'll join our AI Engineering team, which is building an AI Agent that can run an unprecedented 100k models across tasks. Our agent intelligently orchestrates workflows by selecting and executing the most effective open and closed-source models for the requested task. In addition to contributing to the agent, you'll work with enterprises in the adoption of the agent.
+
+You'll have access to unpublished AI research from top conferences, and you'll help these conferences make this AI research accessible to the world.
+
+This will be your focus for the next 6 months. If that path of learning sounds exciting, let's collaborate. 
+
+Tech Stack
+Front-end: Next.js, React, MobX, Firebase, MUI
+Languages: Node.js, Python, Julia
+Cloud: GCP (primary), AWS (secondary)
+Architecture: Serverless, event-driven
+Databases: NoSQL, Graph
+
+Your Skills
+Full-stack Development
+Authored or contributed significantly to multiple full-stack applications
+Experience deploying scalable services on GCP or AWS
+
+Machine Learning Engineering
+Delivered 3+ production ML projects end-to-end, from data preprocessing to deployment
+Expertise in fine-tuning LLMs and other open and proprietary models
+Skilled at deploying and maintaining production ML models with scalability and reliability in mind
+Constant learner, staying up-to-date with the latest AI research and techniques
+
+Sound exciting? Send us your GitHub or join us in Discord."
+https://www.linkedin.com/jobs/view/4229251209,https://www.linkedin.com/jobs/view/4229251209/,"Electromagnetic Systems,",Machine Learning Engineer,"El Segundo, CA",Full-time,NA,PhD/Doctorate,Python; Machine Learning; Deep Learning; Data Science,"{'data': 7, 'Deep Learning': 2, 'Python': 3, 'environment': 1, 'quality': 2, 'Machine Learning': 5, 'communication': 2, 'Data Science': 2, 'production': 2, 'research': 2, 'design': 1, 'development': 1, 'performance': 1}","About the job
+Machine Learning Engineer
+EMSI currently seeks a US citizen Machine Learning Engineer who can develop cutting edge Deep Learning technologies applied to the automated search and ID of high value objects in Space Based Synthetic Aperture Radar (SAR) imagery. You will have considerable responsibility, and your role will have direct impact on relevant issues facing United States government customers. Ideal candidates will have a strong background in Machine Learning (preferably Deep Neural Networks), and will need to be flexible in a small business environment. Familiarity with radar sensing phenomenology and Open Source frameworks is a huge plus, as well as the ability to program in Python.
+Applicant MUST be a U.S. citizen and be capable of obtaining a Top Secret clearance.
+ Responsibilities:
+Research, conceive, design, prototype and/or implement advanced Deep Neural Network Architectures as well as other relevant Machine Learning models
+Apply deep learning algorithms to train neural networks for object detection and classification
+Develop domain-aware pre-processing algorithms, and other methods to increase model generalization
+Apply signal pre-processing techniques on SAR data
+Create physics simulations of various phenomenologies and develop methods to account for bias between simulated and real-world data
+Develop appropriate objective functions and sound performance assessment plans
+Present research at meetings and conferences
+Develop and deliver production-quality code (mainly Python)
+ Basic Qualifications:
+Bachelor’s degree in engineering, physics, mathematics, computer science, data science, or related technical field
+Demonstrated mathematical problem solving ability and data analysis experience
+Experience implementing machine learning, data mining, and statistical algorithms for pattern recognition and development of predictive models
+Strong programming ability
+Experience with signal and image processing
+Experience with open source and other scientific software packages
+Must be flexible and a self-starter
+Demonstrated interpersonal communication, presentation skills, verbal and written communication skills
+Must be a U.S. citizen
+  Preferred Qualifications:
+Master’s degree or PhD in engineering, physics, mathematics, computer science, data science, or related technical field
+Experience with Synthetic Aperture Radar (SAR) data
+Strong programming ability in Python
+Experience delivering production-quality code
+A U.S. Top Secret or SCI clearance
+ Benefits:
+Salaries are more than competitive within the industry and will be commensurate with an applicant’s experience.
+We offer an extremely generous retirement program consisting of a company-paid contribution equal to 15% of the employee’s salary. Although an employee can make voluntary salary deferrals, no employee contribution is required to obtain this company-paid 15% contribution.
+PPO company-paid health plan
+Generous vacation
+Flexible work schedule
+All employees participate in company bonus plan"
+https://www.linkedin.com/jobs/view/4217726598,https://www.linkedin.com/jobs/view/4217726598,rackspace,Machine Learning Architect (AWS),Remote,,10,PhD/Doctorate,Python; AWS; Azure; GCP; Cloud; Machine Learning; Deep Learning; NLP; TensorFlow; PyTorch; AI; MLOps; Microservices; Agile,"{'problem-solving': 1, 'TensorFlow': 1, 'data': 1, 'Microservices': 1, 'team': 5, 'Cloud': 4, 'Deep Learning': 1, 'Python': 1, 'solution': 2, 'Agile': 1, 'Azure': 2, 'GCP': 2, 'AWS': 3, 'Machine Learning': 14, 'communication': 2, 'PyTorch': 1, 'NLP': 1, 'production': 2, 'customer': 4, 'architecture': 1, 'MLOps': 1, 'AI': 1, 'research': 1, 'design': 2, 'development': 1, 'performance': 1}","About the job
+We are expanding our team of motivated technologists with a proven track record of delivering results in technology consulting. We are looking for a Machine Learning Architect with experience in cloud (AWS preferred) who is passionate about helping customers build AI/ML solutions at scale. Being an experienced technologist with technical depth and breadth, aided with strong interpersonal skills, you will work directly with customers as part of a delivery team, helping to enable innovation by creating state of the art Machine Learning solutions that align to business goals. 
+
+This role includes responsibilities both as a Professional Services Machine Learning Architect and as a hands-on Machine Learning engineer on customer engagements. 
+
+The qualified Machine Learning Architect will have demonstrated the ability to think strategically about businesses, create technical definitions around customer objectives in complex situations, develop solution strategies, motivate & mobilize resources, and deliver results. The ability to connect technology with measurable business value is a critical component to be successful in this role. We seek team members who are self-motivated, driven, collaborative, passionate about machine learning, and want to have a direct positive impact on our customer's business. Strong communication skills and emotional intelligence are also needed to help develop a team that works with you. 
+
+Work Location: Remote 
+
+Key Responsibilities:
+
+Design machine learning solutions and execute machine learning projects end to end from proof-of-concept stage to deployment in production using cloud native technologies and state of the art machine learning models. 
+Be technically focused but work directly with the business representatives/customers to understand the requirements driving the need for a solution to be developed. 
+Be responsible for all phases of the project from problem definition, data annotation, model development, model deployment to end user documentation/training. 
+Design the architecture of ML solutions on cloud platforms (AWS, Azure, GCP) including MLOPs. 
+Stay abreast of the latest developments. Read the latest published machine learning research and adapt the models to solve customer’s problems. 
+Establish credibility by demonstrating technical excellence and delivering value through solutions you build. Develop strong relationships with our customers. 
+
+
+Qualifications:
+
+Masters with 10+ years of experience or PhD with 6+ years of experience in Machine Learning, Natural Language Processing (NLP) and Deep Learning. 
+Minimum 5+ years of experience architecting and building Machine Learning solutions. 
+Minimum 5+ years of experience with cloud platforms (AWS, GCP, Azure). 
+Experience building ML models and strong knowledge of ML techniques is required. 
+Experience with hugging face, TensorFlow/pytorch, transformer architectures, prompt engineering, agentic systems, LLMs. 
+Strong coding experience in Python and architectural patterns like microservices. 
+Solid understanding of agile methodologies and experience in planning machine learning projects from inception to production deployment. 
+Strong problem-solving skills and the ability to lead a team on “what’s next” when encountering a technical issue in a machine learning project. 
+Excellent communication and presentation skills, with the ability to explain complex technical concepts to both technical and non-technical audiences. 
+
+
+Travel:
+
+As per business requirements
+
+
+#rackspace
+
+The following information is required by pay transparency legislation in the following states: CA, CO, HI, NY and WA. This information applies only to individuals working in these states. 
+
+The anticipated starting pay range for Colorado is: $153,000 - $204,000
+
+The anticipated starting pay range for Hawaii and New York (not including NYC) is: $167,400 - $223,200
+
+The anticipated starting pay range for California, New York City and Washington is: $183,500 - $244,700
+
+Based on eligibility, compensation for the role may include variable compensation in the form of bonus, commissions, or other discretionary payments.
+
+These discretionary payments are based on company and/or individual performance, and may change at any time.
+
+Actual compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, licenses and certifications, and specific work location. 
+
+Information on benefits offered is here."
+https://www.linkedin.com/jobs/view/4216905617,https://www.linkedin.com/jobs/view/4216905617/,tvScientific,Senior Machine Learning Systems Engineer,"Remote, US",full-time,5,Associate's Degree,Python; AWS; Kubernetes; Machine Learning; Data Science,"{'data': 4, 'team': 2, 'Python': 3, 'media': 2, 'advertising': 4, 'solution': 1, 'environment': 2, 'AWS': 1, 'Machine Learning': 3, 'real-time': 1, 'Kubernetes': 1, 'communication': 1, 'Data Science': 1, 'startup': 1, 'production': 1, 'architecture': 1, 'collaborate': 1, 'development': 2, 'performance': 6, 'optimization': 1, 'infrastructure': 1}","About the job
+Job Title: Senior Machine Learning Systems Engineer
+
+Location: Remote, US
+
+Department: Data Science
+
+Type: Full-Time, Exempt
+
+Experience: Senior (5+ Years)
+
+Salary Range: $170,000 - $210,000 base
+
+Core Hours: 9 AM - 1 PM PST / 12 - 4 PM EST
+
+About tvScientific
+
+tvScientific is the first and only CTV advertising platform purpose-built for performance marketers. We leverage massive data and cutting-edge science to automate and optimize TV advertising to drive business outcomes. Our solution combines media buying, optimization, measurement, and attribution in one, efficient platform. Our platform is built by industry leaders with a long history in programmatic advertising, digital media, and ad verification who have now purpose-built a CTV performance platform advertisers can trust to grow their business.
+
+Role Summary
+
+We're looking for a Senior Machine Learning Systems Engineer to help push the boundaries of what's possible in programmatic TV. This role sits at the intersection of high-performance systems engineering and applied machine learning—and is core to how we scale intelligent bidding and campaign delivery across millions of TV screens. You'll work closely with our distributed team to optimize, build, and deploy ML-powered systems using Zig and Python, helping to make TV advertising as efficient and measurable as digital.
+
+This is a unique opportunity to have outsized impact in a fast-growing Series B startup backed by top investors. If you thrive in fast-moving environments, love solving hard systems problems, and want to shape the infrastructure behind a next-gen CTV platform—this one's for you.
+
+What You'll Do
+
+Write and maintain production-grade systems in Zig, optimizing for performance and scalability 
+Build tooling and bridges between Zig and Python to enable ML development and deployment workflows 
+Optimize and scale ML inference pipelines, ensuring low latency and high throughput across massive volumes of ad traffic 
+Collaborate cross-functionally with ML scientists, data engineers, and platform teams to bring new models and features to life 
+Help define engineering best practices in a growing team and contribute to the long-term architecture of our platform 
+
+You'll Be Successful in This Role if You Have/Are
+
+Strong experience writing high-performance systems code, ideally in Zig or similar low-level languages 
+Deep understanding of computer systems, compilers, and performance tuning 
+Proven ability to thrive in startups or high-growth environments—comfortable with ambiguity, fast iteration, and rapid scaling 
+Excellent written and verbal communication skills, especially when documenting and discussing technical tradeoffs 
+
+You May Also Have
+
+Experience in Adtech, CTV, or real-time bidding systems 
+Background in low-latency systems (
+Experience with Python and ML development pipelines 
+Familiarity with Scala, Apache Spark, Apache Beam, AWS Athena, or other big data tools 
+Comfort working with Kubernetes (EKS) for deployment and scaling 
+Prior experience teaching or mentoring other engineers 
+
+Culture and Benefits
+
+At tvScientific we believe people do their best work when they feel challenged and engaged by their day to day responsibilities, when they're surrounded by smart, hard working people, and when they have a healthy work life balance. Our company culture and benefits package reflects these beliefs.
+
+Full health, dental, and vision insurance - up to 95% funded by the company for employees.
+Employee stock option program.
+Company-sponsored retirement plan with a matching contribution program.
+12 annual paid holidays (including 2 flexible days).
+Generous PTO policy (get your work done and take the time you need).
+A remote-first environment that allows employees flexibility to work from most places in the US.
+
+tvScientific is committed to building an inclusive environment for people of all backgrounds and everyone is encouraged to apply. tvScientific is an Equal Opportunity Employer and does not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by applicable national, federal, state, or local law."
+https://www.linkedin.com/jobs/view/4217724851,https://www.linkedin.com/jobs/view/4217724851,rackspace,Machine Learning Architect (AWS),Remote,,10,PhD/Doctorate,Python; AWS; Azure; GCP; Cloud; Machine Learning; Deep Learning; NLP; TensorFlow; PyTorch; AI; MLOps; Microservices; Agile,"{'problem-solving': 1, 'TensorFlow': 1, 'data': 1, 'Microservices': 1, 'team': 5, 'Cloud': 4, 'Deep Learning': 1, 'Python': 1, 'solution': 2, 'Agile': 1, 'Azure': 2, 'GCP': 2, 'AWS': 3, 'Machine Learning': 14, 'communication': 2, 'PyTorch': 1, 'NLP': 1, 'production': 2, 'customer': 4, 'architecture': 1, 'MLOps': 1, 'AI': 1, 'research': 1, 'design': 2, 'development': 1, 'performance': 1}","About the job
+We are expanding our team of motivated technologists with a proven track record of delivering results in technology consulting. We are looking for a Machine Learning Architect with experience in cloud (AWS preferred) who is passionate about helping customers build AI/ML solutions at scale. Being an experienced technologist with technical depth and breadth, aided with strong interpersonal skills, you will work directly with customers as part of a delivery team, helping to enable innovation by creating state of the art Machine Learning solutions that align to business goals. 
+
+This role includes responsibilities both as a Professional Services Machine Learning Architect and as a hands-on Machine Learning engineer on customer engagements. 
+
+The qualified Machine Learning Architect will have demonstrated the ability to think strategically about businesses, create technical definitions around customer objectives in complex situations, develop solution strategies, motivate & mobilize resources, and deliver results. The ability to connect technology with measurable business value is a critical component to be successful in this role. We seek team members who are self-motivated, driven, collaborative, passionate about machine learning, and want to have a direct positive impact on our customer's business. Strong communication skills and emotional intelligence are also needed to help develop a team that works with you. 
+
+Work Location: Remote 
+
+Key Responsibilities:
+
+Design machine learning solutions and execute machine learning projects end to end from proof-of-concept stage to deployment in production using cloud native technologies and state of the art machine learning models. 
+Be technically focused but work directly with the business representatives/customers to understand the requirements driving the need for a solution to be developed. 
+Be responsible for all phases of the project from problem definition, data annotation, model development, model deployment to end user documentation/training. 
+Design the architecture of ML solutions on cloud platforms (AWS, Azure, GCP) including MLOPs. 
+Stay abreast of the latest developments. Read the latest published machine learning research and adapt the models to solve customer’s problems. 
+Establish credibility by demonstrating technical excellence and delivering value through solutions you build. Develop strong relationships with our customers. 
+
+
+Qualifications:
+
+Masters with 10+ years of experience or PhD with 6+ years of experience in Machine Learning, Natural Language Processing (NLP) and Deep Learning. 
+Minimum 5+ years of experience architecting and building Machine Learning solutions. 
+Minimum 5+ years of experience with cloud platforms (AWS, GCP, Azure). 
+Experience building ML models and strong knowledge of ML techniques is required. 
+Experience with hugging face, TensorFlow/pytorch, transformer architectures, prompt engineering, agentic systems, LLMs. 
+Strong coding experience in Python and architectural patterns like microservices. 
+Solid understanding of agile methodologies and experience in planning machine learning projects from inception to production deployment. 
+Strong problem-solving skills and the ability to lead a team on “what’s next” when encountering a technical issue in a machine learning project. 
+Excellent communication and presentation skills, with the ability to explain complex technical concepts to both technical and non-technical audiences. 
+
+
+Travel:
+
+As per business requirements
+
+
+#rackspace
+
+The following information is required by pay transparency legislation in the following states: CA, CO, HI, NY and WA. This information applies only to individuals working in these states. 
+
+The anticipated starting pay range for Colorado is: $153,000 - $204,000
+
+The anticipated starting pay range for Hawaii and New York (not including NYC) is: $167,400 - $223,200
+
+The anticipated starting pay range for California, New York City and Washington is: $183,500 - $244,700
+
+Based on eligibility, compensation for the role may include variable compensation in the form of bonus, commissions, or other discretionary payments.
+
+These discretionary payments are based on company and/or individual performance, and may change at any time.
+
+Actual compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, licenses and certifications, and specific work location. 
+
+Information on benefits offered is here."
+https://www.linkedin.com/jobs/view/4231477211,https://www.linkedin.com/jobs/view/4231477211,TikTok,"Software Engineer - Applied Machine Learning, Engine","San Jose, CA",Full-time,1,Bachelor's Degree,Python; MySQL; Express; AWS; Cloud; Terraform; Machine Learning; TensorFlow; PyTorch; DevOps; Distributed Systems; Linux; Unix,"{'Distributed Systems': 1, 'TensorFlow': 1, 'data': 1, 'innovative': 1, 'DevOps': 1, 'team': 5, 'Cloud': 1, 'Python': 1, 'creativity': 4, 'MySQL': 1, 'Express': 1, 'Terraform': 1, 'environment': 2, 'AWS': 1, 'quality': 1, 'Machine Learning': 3, 'fast-paced': 1, 'Linux': 1, 'PyTorch': 1, 'testing': 2, 'research': 2, 'design': 2, 'Unix': 1, 'performance': 2}","About the job
+Responsibilities
+About The Team
+The Applied Machine Learning (AML) team combines system engineering and the art of machine learning to develop and run massively distributed recommendation systems around the world.
+
+In the team, you'll have the opportunity to sharpen your expertise in coding, performance analysis and large system operation, and get heavily involved in the process of hardware/capacity decision-making.
+
+The efficiency tools team needs to provide a high-quality tool platform and technical outputs for the efficient and training of online models and the management of the team's massive hardware resources.
+
+
+Responsibilities: 
+- Research, design, and develop computer and network software or specialised utility programs.
+- Analyse user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis.
+- Update software, enhances existing software capabilities, and develops and direct software testing and validation procedures.
+- Work with computer hardware engineers to integrate hardware and software systems and develop specifications and performance requirements.
+- Research, design, and develop computer and network software or specialised utility programs.
+- Analyse user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis.
+- Update software, enhances existing software capabilities, and develops and direct software testing and validation procedures.
+
+Qualifications
+Minimum Qualifications: 
+- Bachelor’s degree in Computer Science or equivalent with 1+ years of relevant experience
+- Proven experience in analyzing and troubleshooting distributed systems.
+- Prior experience designing and maintaining large-scale systems.
+- Experience programming in at least one of the following languages: Python or Golang.
+- Familiar with components, such as Mysql, Redis, Kafka, Clickhouse, Terraform and K8S, etc.
+- Expertise in DevOps technologies like Monitor, Alarm, Tracing, CMDB etc.
+- Experience in building solutions with AWS, Azures, AliCloud or other cloud services.
+- Familiar with Unix/Linux operating systems.
+
+Preferred Qualifications: 
+- Ability to thrive in a fast-paced environment.
+- Strong understanding of code optimizing and routine tasks automation.
+- Extra points will be given for proficiency in at least one machine learning framework: TensorFlow, PyTorch, MXNet or PaddlePaddle.
+- Solid background of algorithms and data structures.
+
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+
+
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an ""Always Day 1"" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.
+Diversity & Inclusion
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+
+Reasonable Accommodation
+ByteDance is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request
+
+
+Job Information
+【For Pay Transparency】Compensation Description (Annually)
+The base salary range for this position in the selected city is $113500 - $250000 annually.
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+3. Exercising sound judgment."
+https://www.linkedin.com/jobs/view/4229286849,https://www.linkedin.com/jobs/view/4229286849,TikTok,"Machine Learning Engineer, TikTok Ads Core Global - Traffic & Strategy","San Jose, CA",Full-time,5,Master's Degree,Python; Express; Machine Learning; Deep Learning; TensorFlow; PyTorch; Linux,"{'TensorFlow': 2, 'innovative': 2, 'team': 4, 'Deep Learning': 1, 'Python': 1, 'analytical': 1, 'creativity': 4, 'advertising': 3, 'Express': 1, 'mobile': 1, 'environment': 2, 'quality': 1, 'Machine Learning': 2, 'pipeline': 1, 'implementation': 1, 'Linux': 1, 'PyTorch': 1, 'customer': 1, 'architecture': 1, 'development': 1, 'optimization': 3}","About the job
+Responsibilities
+TikTok Ads Core ML Team aims at creating automatic delivery products for the next generation and developing advertising as a global business, instead of just a monetization tool to consolidate the delivery funnel framework allowing multiple teams to iterate parallel. 
+
+Ads Core Traffic Strategy & User Experience team is essential to TikTok’s success, our work focuses are: 
+- Personalized Ads Experience: We optimize every stage of the ad delivery pipeline, from recall and ranking to final placement, by integrating user feedback to make ads more relevant and engaging. 
+- Cutting-Edge Multi-Scenario Integration: this includes building context models that analyze ads-related information and scene elements to improve accuracy, as well as developing list-wise models to optimize recommendation outcomes and ads ROIs. 
+
+We’re looking for innovative Machine Learning Engineers to develop state-of-art ad technologies, including ranking, retrieval, targeting, bidding, auction, etc. You will be part of a team that's optimizing ads format and ranking strategies, and you will be responsible for bringing a better returns on investment for advertisers.
+
+What will you do:
+- Achieve extreme iteration and optimization of advertising models via adanvanced technologies like AIGC/LLMs/RL/DL to enhance TikTok’s overall revenue and system efficiency, plus improving customer experience. 
+- Optimize the delivery efficiency of automatic delivery products, aiming to increase the penetration rate and lift compared to manual delivery. 
+- Iterate bidding and budget algorithms to sort out the best matching traffic as aspect of advertisers.
+- Develop ads delivery capability as a tool for doing business with joint effort of TikTok's global recommendation optimization.
+- Establish a robust, flexible and fair framework for multiple teams to parallely iterate related models in the delivery funnel.
+
+Qualifications
+Minimum Qualifications:
+- BS/MS degree in Computer Science, Computer Engineering, or a related technical discipline with industry experience or model optimization experience.
+- Solid programming skills, proficient in C/C++ and Python. Good theoretical grounding in deep learning concepts and techniques. Familiar with Linux development environment.
+- Good analytical and critical thinking capabilities. Have essential knowledge and skills in statistics. 
+- Familiar with architecture and implementation of at least one mainstream machine learning programming framework (TensorFlow/Pytorch/MXNet). 
+- Good collaboration skills, with the ability to work effectively with cross-functional teams across different locations and time zones for global business needs. 
+
+Preferred Qualifications:
+- Participation in national math/coding competitions (ACM/Hacker Cup/Hash Code/USACO/IOI/CCPC etc.) 
+- Good understanding in one of the following domains: ads bidding & auction, ads quality control, and online advertising systems (familiar with one or more of these terms: CPC/CPM, CTR/CVR, Ranking /Targeting, Conversion/Budget, Campaign/Creative, Demand/Inventory, DSP/RTB).
+- Experience in resource management and task scheduling with large scale distributed software (such as Spark and TensorFlow).
+
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+
+
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an ""Always Day 1"" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.
+
+Diversity & Inclusion
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+
+TikTok Accommodation
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request
+
+
+Job Information
+【For Pay Transparency】Compensation Description (Annually)
+The base salary range for this position in the selected city is $136800 - $205000 annually.
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+3. Exercising sound judgment."
+https://www.linkedin.com/jobs/view/4204238857,https://www.linkedin.com/jobs/view/4204238857,us and let,"Staff/Senior Machine Learning Engineer, Large Behavior Models","Los Altos, CA",,8,Associate's Degree,Python; Cloud; Machine Learning; Computer Vision; AI; Distributed Systems,"{'problem-solving': 1, 'Distributed Systems': 1, 'data': 3, 'innovative': 1, 'team': 5, 'Cloud': 1, 'Python': 1, 'environment': 1, 'leadership': 2, 'quality': 2, 'Machine Learning': 4, 'implementation': 1, 'production': 1, 'testing': 1, 'Computer Vision': 1, 'education': 1, 'scalable': 1, 'AI': 3, 'research': 4, 'collaborate': 1, 'development': 3, 'performance': 1, 'optimization': 1}","About the job
+At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team in Energy & Materials, Human-Centered AI, Human Interactive Driving, Large Behavioral Models, and Robotics.
+
+The Mission
+Make general-purpose robots a reality via large-scale embodied AI.
+
+The Challenge
+We envision a future where robots assist with household chores and cooking, aid the elderly in maintaining their independence, and enable people to spend more time on the activities they enjoy most. To achieve this, robots need to be able to operate reliably in messy, unstructured environments. Our mission is to answer the question “What will it take to create truly general-purpose robots that can accomplish a wide variety of tasks in settings like human homes with minimal human supervision?”. To answer this, we are gathering large datasets of physical interaction from a variety of sources (including robots and people) and training large generative foundation models on this physical interaction data along with language, video, audio, and other rich modalities. 
+
+The Team
+Our goal is to revolutionize the field of robotic manipulation, enabling long-horizon dexterous behaviors to be efficiently taught, learned, and improved over time in diverse, real world environments.
+
+Our team has deep cross-functional expertise across simulation, perception, controls, language, vision, multimodal learning, and generative modeling. Success is measured by the advancement of robot capabilities and we’re strong believers in open research. Our north star is fundamental technological advancement in building robots that can flexibly perform a wide variety of tasks in diverse environments with minimal human supervision. Come join us and let’s make general-purpose robots a reality!
+
+We operate a fleet of robots, and robot-embodied teaching and deployment are key parts of our strategy. Some of our previous work is highlighted here.
+
+The Opportunity
+We’re looking for a driven Staff/Senior Software Engineer comfortable working on large integrated machine learning systems. Experience with robots or other embodied systems (such as autonomous vehicles) is a bonus. You will play a pivotal role in designing, building, and optimizing pipelines that support large behavior models. You will collaborate with a team of researchers and engineers to develop resilient, scalable, and impactful systems. This role requires technical leadership, hands-on development, and strategic thinking.
+
+If our mission of revolutionizing robotics through machine learning resonates with you, get in touch and let’s talk about how we can create the next generation of AI-powered capable robots together!
+
+Responsibilities
+Architect and implement large-scale software systems for behavior modeling and decision-making in robotics.
+Develop tools, frameworks, and pipelines to train, evaluate, and deploy models efficiently.
+Mentor junior engineers and provide guidance on best practices in software development and machine learning.
+Contribute to technical strategy and decision-making for the LBM team.
+Partner with researchers to translate cutting-edge algorithms into production-quality systems.
+Work cross-functionally with simulation, hardware, perception, and control teams to integrate LBM capabilities into embodied systems.
+Improve the scalability, robustness, and efficiency of large behavior models for real-world applications.
+Identify and address bottlenecks in data pipelines and model performance.
+
+Qualifications
+8+ years of professional experience in software engineering, with a focus on robotics, machine learning, or distributed systems.
+Demonstrated success in leading technical projects and delivering impactful solutions.
+Familiarity with the state-of-the-art in behavior learning, language, and/or computer vision.
+Strong proficiency in Python and software development best practices such as unit testing, documentation, code review, continuous integration, and dependency management.
+Familiarity with data pipelines, model serving and optimization, cloud training, and dataset management.
+An ability to move fast and switch between modes of rapid prototyping and robust implementation as required.
+Strong mentorship abilities and a track record of technical leadership.
+Excellent problem-solving skills and a proactive mindset.
+
+Nice to Haves
+Experience deploying models on embodied systems/robots.
+Experience working in mixed teams of research scientists and engineers.
+Experience Amazon EC2, S3, and/or Sagemaker.
+Experience with Bazel.
+
+
+The pay range for this position at commencement of employment is expected to be between $228,800 and $343,200/year for California-based roles; however, base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Note that TRI offers a generous benefits package (including 401(k) eligibility and various paid time off benefits, such as vacation, sick time, and parental leave) and an annual cash bonus structure. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+
+Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal information.
+
+TRI is fueled by a diverse and inclusive community of people with unique backgrounds, education and life experiences. We are dedicated to fostering an innovative and collaborative environment by living the values that are an essential part of our culture. We believe diversity makes us stronger and are proud to provide Equal Employment Opportunity for all, without regard to an applicant’s race, color, creed, gender, gender identity or expression, sexual orientation, national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status protected under federal, state or local laws.
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records for employment."
+https://www.linkedin.com/jobs/view/4217725910,https://www.linkedin.com/jobs/view/4217725910/,rackspace,Machine Learning Architect (AWS),Remote,,10,PhD/Doctorate,Python; AWS; Azure; GCP; Cloud; Machine Learning; Deep Learning; NLP; TensorFlow; PyTorch; AI; MLOps; Microservices; Agile,"{'problem-solving': 1, 'TensorFlow': 1, 'data': 1, 'Microservices': 1, 'team': 5, 'Cloud': 4, 'Deep Learning': 1, 'Python': 1, 'solution': 2, 'Agile': 1, 'Azure': 2, 'GCP': 2, 'AWS': 3, 'Machine Learning': 14, 'communication': 2, 'PyTorch': 1, 'NLP': 1, 'production': 2, 'customer': 4, 'architecture': 1, 'MLOps': 1, 'AI': 1, 'research': 1, 'design': 2, 'development': 1, 'performance': 1}","About the job
+We are expanding our team of motivated technologists with a proven track record of delivering results in technology consulting. We are looking for a Machine Learning Architect with experience in cloud (AWS preferred) who is passionate about helping customers build AI/ML solutions at scale. Being an experienced technologist with technical depth and breadth, aided with strong interpersonal skills, you will work directly with customers as part of a delivery team, helping to enable innovation by creating state of the art Machine Learning solutions that align to business goals. 
+
+This role includes responsibilities both as a Professional Services Machine Learning Architect and as a hands-on Machine Learning engineer on customer engagements. 
+
+The qualified Machine Learning Architect will have demonstrated the ability to think strategically about businesses, create technical definitions around customer objectives in complex situations, develop solution strategies, motivate & mobilize resources, and deliver results. The ability to connect technology with measurable business value is a critical component to be successful in this role. We seek team members who are self-motivated, driven, collaborative, passionate about machine learning, and want to have a direct positive impact on our customer's business. Strong communication skills and emotional intelligence are also needed to help develop a team that works with you. 
+
+Work Location: Remote 
+
+Key Responsibilities:
+
+Design machine learning solutions and execute machine learning projects end to end from proof-of-concept stage to deployment in production using cloud native technologies and state of the art machine learning models. 
+Be technically focused but work directly with the business representatives/customers to understand the requirements driving the need for a solution to be developed. 
+Be responsible for all phases of the project from problem definition, data annotation, model development, model deployment to end user documentation/training. 
+Design the architecture of ML solutions on cloud platforms (AWS, Azure, GCP) including MLOPs. 
+Stay abreast of the latest developments. Read the latest published machine learning research and adapt the models to solve customer’s problems. 
+Establish credibility by demonstrating technical excellence and delivering value through solutions you build. Develop strong relationships with our customers. 
+
+
+Qualifications:
+
+Masters with 10+ years of experience or PhD with 6+ years of experience in Machine Learning, Natural Language Processing (NLP) and Deep Learning. 
+Minimum 5+ years of experience architecting and building Machine Learning solutions. 
+Minimum 5+ years of experience with cloud platforms (AWS, GCP, Azure). 
+Experience building ML models and strong knowledge of ML techniques is required. 
+Experience with hugging face, TensorFlow/pytorch, transformer architectures, prompt engineering, agentic systems, LLMs. 
+Strong coding experience in Python and architectural patterns like microservices. 
+Solid understanding of agile methodologies and experience in planning machine learning projects from inception to production deployment. 
+Strong problem-solving skills and the ability to lead a team on “what’s next” when encountering a technical issue in a machine learning project. 
+Excellent communication and presentation skills, with the ability to explain complex technical concepts to both technical and non-technical audiences. 
+
+
+Travel:
+
+As per business requirements
+
+
+#rackspace
+
+The following information is required by pay transparency legislation in the following states: CA, CO, HI, NY and WA. This information applies only to individuals working in these states. 
+
+The anticipated starting pay range for Colorado is: $153,000 - $204,000
+
+The anticipated starting pay range for Hawaii and New York (not including NYC) is: $167,400 - $223,200
+
+The anticipated starting pay range for California, New York City and Washington is: $183,500 - $244,700
+
+Based on eligibility, compensation for the role may include variable compensation in the form of bonus, commissions, or other discretionary payments.
+
+These discretionary payments are based on company and/or individual performance, and may change at any time.
+
+Actual compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, licenses and certifications, and specific work location. 
+
+Information on benefits offered is here."
+https://www.linkedin.com/jobs/view/4235580824,https://www.linkedin.com/jobs/view/4235580824/,"About the job
+Company",Machine Learning Engineer,"Laguna Hills
+
+Email Your Resume In Word To
+
+Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, bu (Hybrid)",Full-time,NA,Master's Degree,Python; Docker; Machine Learning; Computer Vision; PyTorch; AI,"{'manufacturing': 2, 'data': 1, 'innovative': 1, 'team': 3, 'Python': 1, 'Docker': 1, 'environment': 2, 'embedded': 1, 'Machine Learning': 8, 'PyTorch': 1, 'testing': 1, 'Computer Vision': 1, 'AI': 4, 'collaborate': 1, 'design': 1, 'performance': 1}","About the job
+Company Overview
+
+We are located in the beautiful Southern Orange County area and we are a hardware manufacturing company that uses modern AI and Machine Learning technology. We are innovating our industry and have already become one of the most advanced and reputable companies in our industry.
+
+Position Overview
+
+We are looking for a skilled Machine Learning Engineer to join our innovative team. The ideal candidate will develop and implement machine learning models and algorithms that enhance product capabilities and improve operational efficiency, while collaborating closely with cross-functional teams.
+
+Key Responsibilities
+
+Design, develop, and deploy machine learning models and algorithms for various applications.
+Collaborate with data scientists and software engineers to integrate machine learning solutions into applications.
+Conduct experiments to optimize model performance and validate results through robust testing methodologies.
+Analyze large datasets to identify patterns, trends, and potential areas for improvement.
+Stay updated with the latest advancements in machine learning and AI technologies to drive innovation.
+Document processes and share knowledge with team members to foster a collaborative learning environment.
+
+Qualifications
+
+Bachelor's or Master's degree in Computer Science, Physics, Engineering, or a related field.
+Proven experience in machine learning and Python programming.
+Strong understanding of machine learning algorithms and techniques.
+Familiarity with tools like PyTorch, Docker, and GitHub for version control and collaboration.
+Knowledge of AI concepts and frameworks is a plus.
+Experience with Embedded AI, Computer Vision, and State Space Models is advantageous.
+Background in Physics or Manufacturing is a plus.
+
+Benefits
+
+Medical, Dental, & Vision Benefits
+3 weeks PTO
+401k with match
+Annual Bonuses (10% of Salary end of year)
+RSU's
+Hybrid work environment - 3 days onsite in Laguna Hills
+
+Email Your Resume In Word To
+
+Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:
+
+matt.bailey@cybercoders.com
+
+Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : MB6-1853996 -- in the email subject line for your application to be considered.***
+
+Matt Bailey - Recruiting Manager
+
+For this position, you must be currently authorized to work in the United States without the need for sponsorship for a non-immigrant visa.
+
+CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.
+
+This job was first posted by CyberCoders on 05/22/2025 and applications will be accepted on an ongoing basis until the position is filled or closed.
+
+CyberCoders is proud to be an Equal Opportunity Employer
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, sexual orientation, gender identity or expression, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, status as a crime victim, disability, protected veteran status, or any other characteristic protected by law. CyberCoders will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable state and local law, including but not limited to the Los Angeles County Fair Chance Ordinance, the San Francisco Fair Chance Ordinance, and the California Fair Chance Act. CyberCoders is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities. If you need special assistance or an accommodation while seeking employment, please contact a member of our Human Resources team to make arrangements."
+https://www.linkedin.com/jobs/view/4235556277,https://www.linkedin.com/jobs/view/4235556277/,Jobot,Applied Machine Learning Engineer,"San Francisco, CA",Full-time,10,Bachelor's Degree,Machine Learning; NLP,"{'data': 8, 'team': 3, 'environment': 2, 'Machine Learning': 4, 'communication': 1, 'NLP': 1, 'startup': 1, 'production': 1, 'customer': 1, 'architecture': 1, 'backend': 3, 'scalable': 1, 'collaborate': 1, 'design': 2, 'marketing': 1, 'optimization': 1, 'infrastructure': 3}","About the job
+Want to learn more about this role and Jobot? Click our Jobot logo and follow our LinkedIn page!
+
+Job details
+
+High-Growth Data Startup is looking for a Machine Learning Software Engineer to join their growing team!
+
+This Jobot Job is hosted by Sydney Weaver
+
+Are you a fit? Easy Apply now by clicking the ""Easy Apply"" button and sending us your resume.
+
+Salary $200,000 - $270,000 per year
+
+A Bit About Us
+
+Backed by Y Combinator and fresh off a $50M Series C funding round, this fast-scaling data infrastructure company is redefining how organizations sync, activate, and intelligently use customer data. Already trusted by major players like Spotify and Ramp, the platform enables high-throughput, low-latency data syncing across SaaS tools. Now, the team is building out a new intelligence layer to transform raw data into actionable insights—unlocking the next generation of personalization, experimentation, and automation.
+
+This is a high-impact, foundational role for a Machine Learning Engineer with strong software engineering chops. You’ll work across the stack, influencing product direction and technical architecture, and be instrumental in building core ML features from 0 to 1.
+
+
+
+Why join us?
+
+
+Culture
+
+ Outcomes based, no micro-management or unnecessary meetings. We trust our team and get out of the way
+ Great work life balance. We believe you can't do more than 6-8 hours of great engineering work in a day
+
+Benefits
+
+ Open to onsite or remote candidates with offices in NY and SF
+ Competitive Salary + Equity
+ Fully covered health, dental, & vision
+ 401K + match
+ PTO, vacation, sick, and much more!
+
+Job Details
+
+Responsibilities
+
+ Design and implement machine learning models for personalization, predictive audiences, experimentation, and budget optimization
+ Build systems that help determine what content to send, to whom, and when—based on terabytes of data
+ Collaborate with customers to understand business goals and define ML-based solutions
+ Architect scalable ML and backend infrastructure to support low-latency data applications
+ Drive innovation in applying LLMs to generate high-performing marketing content (text, images, creatives)
+ Analyze and optimize budget allocation by measuring incremental conversions and cost efficiency
+ Contribute to product vision, working closely with cross-functional teams including data, product, and design
+ Play a key role in shaping the company’s growing intelligence layer as one of the first ML hires
+
+Requirements
+
+ Bachelor’s degree in Computer Science, Electrical Engineering, or related field 
+ 4-10+ years of experience in both Software Engineering and Machine Learning
+ Experience with LLM / NLP / RAG and proven experience building recommendation, search, personalization, and/or pricing systems
+ Experience building and shipping products from scratch in a high-scale SaaS environment
+ Hands-on experience with distributed backend infrastructure and production ML pipelines
+ Strong backend engineering skills and a deep understanding of ML modeling
+ Excellent communication skills—able to clearly articulate complex systems and decisions
+
+Interested in hearing more? Easy Apply now by clicking the ""Easy Apply"" button.
+
+Jobot is an Equal Opportunity Employer. We provide an inclusive work environment that celebrates diversity and all qualified candidates receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+Sometimes Jobot is required to perform background checks with your authorization. Jobot will consider qualified candidates with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance.
+
+Want to learn more about this role and Jobot?
+
+Click our Jobot logo and follow our LinkedIn page!"
+https://www.linkedin.com/jobs/view/4217723941,https://www.linkedin.com/jobs/view/4217723941/,rackspace,Machine Learning Architect (AWS),Remote,,10,PhD/Doctorate,Python; AWS; Azure; GCP; Cloud; Machine Learning; Deep Learning; NLP; TensorFlow; PyTorch; AI; MLOps; Microservices; Agile,"{'problem-solving': 1, 'TensorFlow': 1, 'data': 1, 'Microservices': 1, 'team': 5, 'Cloud': 4, 'Deep Learning': 1, 'Python': 1, 'solution': 2, 'Agile': 1, 'Azure': 2, 'GCP': 2, 'AWS': 3, 'Machine Learning': 14, 'communication': 2, 'PyTorch': 1, 'NLP': 1, 'production': 2, 'customer': 4, 'architecture': 1, 'MLOps': 1, 'AI': 1, 'research': 1, 'design': 2, 'development': 1, 'performance': 1}","About the job
+We are expanding our team of motivated technologists with a proven track record of delivering results in technology consulting. We are looking for a Machine Learning Architect with experience in cloud (AWS preferred) who is passionate about helping customers build AI/ML solutions at scale. Being an experienced technologist with technical depth and breadth, aided with strong interpersonal skills, you will work directly with customers as part of a delivery team, helping to enable innovation by creating state of the art Machine Learning solutions that align to business goals. 
+
+This role includes responsibilities both as a Professional Services Machine Learning Architect and as a hands-on Machine Learning engineer on customer engagements. 
+
+The qualified Machine Learning Architect will have demonstrated the ability to think strategically about businesses, create technical definitions around customer objectives in complex situations, develop solution strategies, motivate & mobilize resources, and deliver results. The ability to connect technology with measurable business value is a critical component to be successful in this role. We seek team members who are self-motivated, driven, collaborative, passionate about machine learning, and want to have a direct positive impact on our customer's business. Strong communication skills and emotional intelligence are also needed to help develop a team that works with you. 
+
+Work Location: Remote 
+
+Key Responsibilities:
+
+Design machine learning solutions and execute machine learning projects end to end from proof-of-concept stage to deployment in production using cloud native technologies and state of the art machine learning models. 
+Be technically focused but work directly with the business representatives/customers to understand the requirements driving the need for a solution to be developed. 
+Be responsible for all phases of the project from problem definition, data annotation, model development, model deployment to end user documentation/training. 
+Design the architecture of ML solutions on cloud platforms (AWS, Azure, GCP) including MLOPs. 
+Stay abreast of the latest developments. Read the latest published machine learning research and adapt the models to solve customer’s problems. 
+Establish credibility by demonstrating technical excellence and delivering value through solutions you build. Develop strong relationships with our customers. 
+
+
+Qualifications:
+
+Masters with 10+ years of experience or PhD with 6+ years of experience in Machine Learning, Natural Language Processing (NLP) and Deep Learning. 
+Minimum 5+ years of experience architecting and building Machine Learning solutions. 
+Minimum 5+ years of experience with cloud platforms (AWS, GCP, Azure). 
+Experience building ML models and strong knowledge of ML techniques is required. 
+Experience with hugging face, TensorFlow/pytorch, transformer architectures, prompt engineering, agentic systems, LLMs. 
+Strong coding experience in Python and architectural patterns like microservices. 
+Solid understanding of agile methodologies and experience in planning machine learning projects from inception to production deployment. 
+Strong problem-solving skills and the ability to lead a team on “what’s next” when encountering a technical issue in a machine learning project. 
+Excellent communication and presentation skills, with the ability to explain complex technical concepts to both technical and non-technical audiences. 
+
+
+Travel:
+
+As per business requirements
+
+
+#rackspace
+
+The following information is required by pay transparency legislation in the following states: CA, CO, HI, NY and WA. This information applies only to individuals working in these states. 
+
+The anticipated starting pay range for Colorado is: $153,000 - $204,000
+
+The anticipated starting pay range for Hawaii and New York (not including NYC) is: $167,400 - $223,200
+
+The anticipated starting pay range for California, New York City and Washington is: $183,500 - $244,700
+
+Based on eligibility, compensation for the role may include variable compensation in the form of bonus, commissions, or other discretionary payments.
+
+These discretionary payments are based on company and/or individual performance, and may change at any time.
+
+Actual compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, licenses and certifications, and specific work location. 
+
+Information on benefits offered is here."
+https://www.linkedin.com/jobs/view/4217260032,https://www.linkedin.com/jobs/view/4217260032/,tvScientific,ML Systems Engineer,"Remote, US",full-time,3,Associate's Degree,Python; AWS; Kubernetes; Data Science,"{'data': 5, 'team': 2, 'Python': 1, 'media': 3, 'advertising': 7, 'solution': 1, 'environment': 2, 'AWS': 1, 'Kubernetes': 1, 'Data Science': 3, 'startup': 1, 'production': 1, 'design': 1, 'development': 1, 'performance': 4, 'optimization': 2}","About the job
+Job Title: ML Systems Engineer
+
+Location: Remote, US
+
+Department: Data Science
+
+Type: Full-Time, Exempt
+
+Experience: New Grad / Early Career (0-3 Years)
+
+Salary Range: $125,000 - $165,000 base
+
+Core Hours: 9 AM - 1 PM PST / 12 - 4 PM EST
+
+About tvScientific
+
+tvScientific is the first and only CTV advertising platform purpose-built for performance marketers. We leverage massive data and cutting-edge science to automate and optimize TV advertising to drive business outcomes. Our solution combines media buying, optimization, measurement, and attribution in one, efficient platform. Our platform is built by industry leaders with a long history in programmatic advertising, digital media, and ad verification who have now purpose-built a CTV performance platform advertisers can trust to grow their business.
+
+Role Summary
+
+tvScientific is looking for a ML Systems Engineer with experience in Zig to join our growing team! You'll be working with a distributed engineering team on our Connected TV ad-buying platform, as we scale our Data Science practice from zero to one. We're building data science tools for constructing ad campaigns from content to timing to scheduling to bid optimization.
+
+Our self-managed platform makes it easy to buy, optimize, and prove the value of TV advertising. An Idealab company, tvScientific was co-founded by executives with deep roots in programmatic advertising and digital media. tvScientific helps our clients buy ads across the CTV universe, from Hulu to PlutoTV to the ad-supported tier of Disney+ and (HBO) Max. We have a new partnership with Roku to advance CTV performance advertising.
+
+What You'll Do
+
+Write production code in Zig
+Train, deploy, and manage new ML models for ads in CTV
+Improve the speed of tvScientific's ML inference at scale
+Plan and design new ML products to deliver clear performance from connected TV advertising
+
+You'll Be Successful in This Role if You Have/Are
+
+Excellent writing skills
+Strong understanding of computer systems
+Desire to work at a fast-growing Series B startup–working under uncertainty, owning and scaling new products, and an experimental and iterative development process
+
+You May Also Have
+
+Adtech or CTV experience
+Experience working with systems requiring low latency (
+Teaching experience
+Big data experience with Scala, Apache Spark, Apache Beam, and AWS Athena
+Python and ML experience
+Kubernetes/EKS experience
+
+Culture and Benefits
+
+At tvScientific we believe people do their best work when they feel challenged and engaged by their day to day responsibilities, when they're surrounded by smart, hard working people, and when they have a healthy work life balance. Our company culture and benefits package reflects these beliefs.
+
+Full health, dental, and vision insurance - up to 95% funded by the company for employees.
+Employee stock option program.
+Company-sponsored retirement plan with a matching contribution program.
+12 annual paid holidays (including 2 flexible days).
+Generous PTO policy (get your work done and take the time you need).
+A remote-first environment that allows employees flexibility to work from most places in the US.
+
+tvScientific is committed to building an inclusive environment for people of all backgrounds and everyone is encouraged to apply. tvScientific is an Equal Opportunity Employer and does not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by applicable national, federal, state, or local law."
+https://www.linkedin.com/jobs/view/4216903794,https://www.linkedin.com/jobs/view/4216903794/,tvScientific,Machine Learning Engineer,"Remote, US",full-time,3,Associate's Degree,Python; AWS; Kubernetes; Machine Learning; Data Science; MLOps,"{'data': 5, 'team': 4, 'Python': 2, 'media': 2, 'advertising': 4, 'solution': 1, 'environment': 4, 'AWS': 1, 'quality': 2, 'Machine Learning': 3, 'fast-paced': 1, 'Kubernetes': 1, 'communication': 1, 'Data Science': 3, 'startup': 1, 'production': 3, 'testing': 1, 'MLOps': 1, 'collaborate': 1, 'design': 1, 'performance': 3, 'optimization': 2}","About the job
+Job Title: Machine Learning Engineer
+
+Location: Remote, US
+
+Department: Data Science
+
+Type: Full-Time, Exempt
+
+Experience: New Grad / Early Career (0-3 Years)
+
+Salary Range: $125,000 - $165,000 base
+
+Core Hours: 9 AM - 1 PM PST / 12 - 4 PM EST
+
+About tvScientific
+
+tvScientific is the first and only CTV advertising platform purpose-built for performance marketers. We leverage massive data and cutting-edge science to automate and optimize TV advertising to drive business outcomes. Our solution combines media buying, optimization, measurement, and attribution in one, efficient platform. Our platform is built by industry leaders with a long history in programmatic advertising, digital media, and ad verification who have now purpose-built a CTV performance platform advertisers can trust to grow their business.
+
+Role Summary
+
+tvScientific is looking for a Machine Learning Engineer to join our growing team! You'll be working with a distributed engineering team on our Connected TV ad-buying platform, as we scale our Data Science practice. We're building data science tools for constructing ad campaigns from content to timing to scheduling to bid optimization.
+
+Our self-managed platform makes it easy to buy, optimize, and prove the value of TV advertising. In this role, you'll lead small project teams, provide direction, and keep stakeholders informed. You'll have the autonomy to determine key milestones and provide updates and check-ins to relevant teams and partners.
+
+What You'll Do
+
+Drive improvements in the speed and scalability of tvScientific's ML inference.
+Write and review production-level Python code to ensure quality and efficiency.
+Collaborate effectively within a talented team.
+
+How We'll Define Success
+
+Significant enhancements in the speed and efficiency of ML inference.
+High-quality production code contributing to platform stability and performance.
+Valuable contributions to team collaboration, fostering a productive and inclusive work environment.
+Consistent achievement of key project milestones and objectives.
+
+You'll Be Successful in This Role if You Have
+
+Proficiency in writing and reviewing production-level Python code.
+Deep understanding of statistics and its application in machine learning.
+Strong communication and writing skills.
+Desire to excel in a fast-paced Series B startup environment, embracing uncertainty and driving innovation through experimentation and iteration.
+
+You May Also Have
+
+Proficiency with big data technologies such as Scala, Apache Spark, Apache Beam, and AWS Athena
+Experience with experimental design and A/B testing methodologies
+Teaching experience
+Domain experience in adtech or connected TV
+Systems programming experience in Zig.
+MLOps / Kubernetes experience
+Previous work with bandit algorithms and reinforcement learning techniques
+Causal inference, conformal prediction, uncertainty quantification.
+
+Culture and Benefits
+
+At tvScientific we believe people do their best work when they feel challenged and engaged by their day to day responsibilities, when they're surrounded by smart, hard working people, and when they have a healthy work life balance. Our company culture and benefits package reflects these beliefs.
+
+Full health, dental, and vision insurance - up to 95% funded by the company for employees.
+Employee stock option program.
+Company-sponsored retirement plan with a matching contribution program.
+12 annual paid holidays (including 2 flexible days).
+Generous PTO policy (get your work done and take the time you need).
+A remote-first environment that allows employees flexibility to work from most places in the US.
+
+tvScientific is committed to building an inclusive environment for people of all backgrounds and everyone is encouraged to apply. tvScientific is an Equal Opportunity Employer and does not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by applicable national, federal, state, or local law."
+https://www.linkedin.com/jobs/view/4157960576,https://www.linkedin.com/jobs/view/4157960576,Tubi,"Machine Learning at Tubi drives personalization and recommendation across the app. You'll have the opportunity to work with cutting-edge deep learning and LLM technologies to drive the next generation of content-aware recommendation. The tech stack you and your team will be working with is Spark, Scala, Python, and Tensorflow.",San Francisco Bay Area,full-time,7,PhD/Doctorate,Python; Machine Learning; Deep Learning; Data Science; TensorFlow,"{'TensorFlow': 1, 'data': 3, 'team': 6, 'streaming': 1, 'entertainment': 2, 'Deep Learning': 1, 'Python': 2, 'advertising': 1, 'Machine Learning': 5, 'Data Science': 1, 'production': 2, 'education': 1}","About the job
+Tubi is a global entertainment company and the most watched free TV and movie streaming service in the U.S. and Canada. Dedicated to providing all people access to all the world’s stories, Tubi offers the largest collection of on-demand content, including over 250,000 premium movies and TV episodes and over 300 exclusive originals. With a passionate fanbase and over 80 million monthly active viewers, the company is committed to putting viewers first with free, accessible entertainment for all.
+
+About the Role:
+
+Machine Learning at Tubi drives personalization and recommendation across the app. You'll have the opportunity to work with cutting-edge deep learning and LLM technologies to drive the next generation of content-aware recommendation. The tech stack you and your team will be working with is Spark, Scala, Python, and Tensorflow.
+
+This is a hybrid role in our San Francisco office.
+
+What You'll Do:
+
+Empower your team to achieve a high level of technical productivity, reliability, and simplicity 
+You and your team will:
+Own deliverables end-to-end, including R&D, prototyping, data pipelines, production models, and experimentation using both LLMs and classical embedding techniques
+Partner closely with teams across the company to propose and drive integrations of content understanding with applications including content ranking, cold starting, content acquisition, advertising, and more.
+Partner closely with ML Infra, Data Engineering, Data Science, Product, and other machine learning teams to create and maintain cross-functional roadmaps
+Help the machine learning engineers on your team advance in their careers and grow through 1:1s and mentoring
+Partner with Tubi’s Talent Acquisition team to attract and hire top-tier engineering talent
+
+Your Background:
+
+7+ years of experience in machine learning engineering with production systems using Python, Scala, & Apache Spark
+2+ years of experience leading/managing a team of machine learning engineers
+Experience owning large-scale, realtime recommendation or search models
+MSc or PhD in Computer Science, Statistics, Applied Mathematics, Physics or related field. PhD preferred
+
+Pursuant to state and local pay disclosure requirements, the pay range for this role, with final offer amount dependent on education, skills, experience, and location is listed annually below. This role is also eligible for an annual discretionary bonus, long-term incentive plan, and various benefits including medical/dental/vision, insurance, a 401(k) plan, paid time off and other benefits in accordance with applicable plan documents.
+
+California Compensation
+
+Base ($239,700 to $342,500 / year) + Bonus + Long-Term Incentive Plan + Benefits
+
+Tubi is a division of Fox Corporation, and the FOX Employee Benefits summarized here, covers the majority of all US employee benefits. The following distinctions below outline the differences between the Tubi and FOX benefits:
+
+For US-based non-exempt Tubi employees, the FOX Employee Benefits summary accurately captures the Vacation and Sick Time.
+For all salaried/exempt employees, in lieu of the FOX Vacation policy, Tubi offers a Flexible Time off Policy to manage all personal matters.
+For all full-time, regular employees, in lieu of FOX Paid Parental Leave, Tubi offers a generous Parental Leave Program, which allows parents twelve (12) weeks of paid bonding leave within the first year of birth, adoption, surrogacy, or foster placement of a child in addition to applicable government leave program(s) and FOX’s short-term disability policy. This time is 100% paid through a combination of any applicable state, city, and federal leaves and wage-replacement programs in addition to contributions made by Tubi.
+For all full-time, regular employees, Tubi offers a monthly wellness reimbursement.
+
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, disability, protected veteran status, or any other characteristic protected by law. We will consider for employment qualified applicants with criminal histories consistent with applicable law."

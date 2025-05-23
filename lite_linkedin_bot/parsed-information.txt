@@ -1,0 +1,291 @@
+(base) patrickgloria@Patricks-MacBook-Pro-2 Hawk % python lite_linkedin_bot/auto_apply_bot/resume_parser.py
+2025-05-10 17:03:34,549 - __main__ - INFO - Extracted contact info: {'name': 'PATRICK GLORIA', 'location': 'Santa Barbara, CA', 'phone': '617-678-8166', 'email': 'p.gloria@columbia.edu', 'linkedin': 'linkedin.com/in/patrick-gloria-861503355/', 'github': 'github.com/patrg444'}
+2025-05-10 17:03:34,549 - __main__ - DEBUG - Attempting to find section with header query: 'SKILLS'
+2025-05-10 17:03:34,549 - __main__ - DEBUG - Header query 'SKILLS' not found as a distinct section start.
+2025-05-10 17:03:34,550 - __main__ - DEBUG - Attempting to find section with header query: 'TECHNICAL SKILLS'
+2025-05-10 17:03:34,550 - __main__ - DEBUG - Header query 'TECHNICAL SKILLS' not found as a distinct section start.
+2025-05-10 17:03:34,550 - __main__ - DEBUG - Attempting to find section with header query: 'PROFICIENCIES'
+2025-05-10 17:03:34,550 - __main__ - DEBUG - Header query 'PROFICIENCIES' not found as a distinct section start.
+2025-05-10 17:03:34,550 - __main__ - DEBUG - Attempting to find section with header query: 'CORE COMPETENCIES'
+2025-05-10 17:03:34,550 - __main__ - DEBUG - Found header 'CORE COMPETENCIES' ending at index 592. Default end_orig: 4466
+2025-05-10 17:03:34,550 - __main__ - DEBUG - Potential boundary: 'WORK EXPERIENCE' found at relative index 413 (abs: 1005)
+2025-05-10 17:03:34,551 - __main__ - DEBUG - Potential boundary: 'EDUCATION' found at relative index 3428 (abs: 4020)
+2025-05-10 17:03:34,551 - __main__ - DEBUG - Potential boundary: 'RESEARCH PROJECTS' found at relative index 2064 (abs: 2656)
+2025-05-10 17:03:34,552 - __main__ - DEBUG - Section 'CORE COMPETENCIES' (start 592) bounded by 'WORK EXPERIENCE' at index 1005.
+2025-05-10 17:03:34,552 - __main__ - INFO - Extracted skills from SKILLS section: ['AWS', 'Bash', 'CLI', 'Data Wrangler', 'Docker', 'DVC', 'EC2', 'Git + GitHub Actions', 'Hugging Face', 'JupyterLab', 'Keras', 'Lambda', 'Linux', 'MATLAB', 'Matplotlib', 'Multimodal Fusion', 'Natural Language Processing', 'NumPy', 'Pandas', 'Plotly', 'Python', 'PyTorch', 'S3', 'Scikit-learn', 'SQL', 'SSH', 'TensorFlow', 'Terraform', 'Time-series Modeling', 'Transfer Learning', 'VS Code']
+2025-05-10 17:03:34,552 - __main__ - DEBUG - Attempting to find section with header query: 'WORK EXPERIENCE'
+2025-05-10 17:03:34,552 - __main__ - DEBUG - Found header 'WORK EXPERIENCE' ending at index 1023. Default end_orig: 4466
+2025-05-10 17:03:34,552 - __main__ - DEBUG - Potential boundary: 'EDUCATION' found at relative index 2997 (abs: 4020)
+2025-05-10 17:03:34,553 - __main__ - DEBUG - Potential boundary: 'RESEARCH PROJECTS' found at relative index 1633 (abs: 2656)
+2025-05-10 17:03:34,553 - __main__ - DEBUG - Section 'WORK EXPERIENCE' (start 1023) bounded by 'RESEARCH PROJECTS' at index 2656.
+2025-05-10 17:03:34,553 - __main__ - DEBUG - --- Attempting to parse section: WORK_EXPERIENCE ---
+2025-05-10 17:03:34,553 - __main__ - DEBUG - Raw section text for work_experience:
+---
+Clipt Videos LLC, Founder and Machine-Learning Engineer
+
+Jan 2025 – Present
+
+• Developed and trained multimodal audio-visual emotion AI model [late-fusion CNN-BiLSTM-Transformer] using
+PyTorch, TensorFlow, and Python, achieving 89.5% test F1 across RAVDESS/CREMA-D combined datasets
+o
+Implemented feature extraction pipelines for audio (Spectrograms, Wav2Vec2) and video (FaceNet embeddings).
+o Managed and monitored machine learning training jobs on AWS EC2 instances using SSH, SCP, and Bash script...
+---
+2025-05-10 17:03:34,554 - __main__ - DEBUG - Found 2 date matches for work_experience: ['Jan 2025 – Present', 'July 2022 – Dec 2022']
+2025-05-10 17:03:34,554 - __main__ - DEBUG - Processing work_experience match 1/2: Jan 2025 – Present
+2025-05-10 17:03:34,554 - __main__ - DEBUG - Title candidate block for match Jan 2025 – Present:
+---
+Clipt Videos LLC, Founder and Machine-Learning Engineer
+---
+2025-05-10 17:03:34,555 - __main__ - DEBUG - Evaluating title candidate line: 'Clipt Videos LLC, Founder and Machine-Learning Engineer'
+2025-05-10 17:03:34,555 - __main__ - DEBUG - Final extracted before default: Co: 'Clipt Videos LLC', Role: 'Founder and Machine-Learning Engineer', Proj: ''
+2025-05-10 17:03:34,557 - __main__ - DEBUG - Description block for Jan 2025 – Present:
+---
+• Developed and trained multimodal audio-visual emotion AI model [late-fusion CNN-BiLSTM-Transformer] using
+PyTorch, TensorFlow, and Python, achieving 89.5% test F1 across RAVDESS/CREMA-D combined datasets
+o
+Implemented feature extraction pipelines for audio (Spectrograms, Wav2Vec2) and video (FaceN...
+---
+2025-05-10 17:03:34,558 - __main__ - DEBUG - Processing work_experience match 2/2: July 2022 – Dec 2022
+2025-05-10 17:03:34,558 - __main__ - DEBUG - Title candidate block for match July 2022 – Dec 2022:
+---
+• Developed and trained multimodal audio-visual emotion AI model [late-fusion CNN-BiLSTM-Transformer] using
+PyTorch, TensorFlow, and Python, achieving 89.5% test F1 across RAVDESS/CREMA-D combined datasets
+o
+Implemented feature extraction pipelines for audio (Spectrograms, Wav2Vec2) and video (FaceNet embeddings).
+o Managed and monitored machine learning training jobs on AWS EC2 instances using SSH, SCP, and Bash scripts
+• Developed separate humor fusion machine learning model with AWS SageMaker JupyterLab instance using UR-FUNNY
+o Designed a multimodal deep learning model in Python with distinct encoders (e.g., hierarchical LSTMs/Transformers)
+to process text (word embeddings) and acoustic (frame-level HuBERT features), capturing temporal dynamics and
+generating rich feature representations for each modality.
+
+o Architected a late-stage fusion mechanism to integrate these learned text and acoustic embeddings (e.g., via
+
+concatenation, attention, or MLP layers) for a final binary classification of humor
+
+Moderna Therapeutics, Formulation Discovery Group
+Research Associate Contract Co-op
+
+Cambridge, MA
+---
+2025-05-10 17:03:34,558 - __main__ - DEBUG - Evaluating title candidate line: 'Research Associate Contract Co-op'
+2025-05-10 17:03:34,558 - __main__ - DEBUG - Evaluating title candidate line: 'Moderna Therapeutics, Formulation Discovery Group'
+2025-05-10 17:03:34,558 - __main__ - DEBUG - Final extracted before default: Co: 'Moderna Therapeutics', Role: 'Research Associate Contract Co-op', Proj: ''
+2025-05-10 17:03:34,558 - __main__ - DEBUG - Description block for July 2022 – Dec 2022:
+---
+• Architected new product designs of cutting-edge vaccination drug delivery methods and used bioassay analysis to test for
+
+mRNA delivery efficacy for various chemical excipients
+
+• Performed bioassays and formulated lipid nanoparticles to collect data on characteristics such as particle size distri...
+---
+2025-05-10 17:03:34,559 - __main__ - DEBUG - Attempting to find section with header query: 'PROJECTS'
+2025-05-10 17:03:34,559 - __main__ - DEBUG - Header query 'PROJECTS' not found as a distinct section start.
+2025-05-10 17:03:34,559 - __main__ - DEBUG - Attempting to find section with header query: 'RESEARCH'
+2025-05-10 17:03:34,559 - __main__ - DEBUG - Header query 'RESEARCH' not found as a distinct section start.
+2025-05-10 17:03:34,559 - __main__ - DEBUG - Attempting to find section with header query: 'RESEARCH PROJECTS'
+2025-05-10 17:03:34,559 - __main__ - DEBUG - Found header 'RESEARCH PROJECTS' ending at index 2675. Default end_orig: 4466
+2025-05-10 17:03:34,559 - __main__ - DEBUG - Potential boundary: 'EDUCATION' found at relative index 1345 (abs: 4020)
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Section 'RESEARCH PROJECTS' (start 2675) bounded by 'EDUCATION' at index 4020.
+2025-05-10 17:03:34,560 - __main__ - DEBUG - --- Attempting to parse section: RESEARCH_PROJECT ---
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Raw section text for research_project:
+---
+MRI Brain Segmentation Analysis
+
+Dec 2024 – Jan 2025
+
+•
+
+Implemented image analysis pipelines in Python to quantify regional brain volumes based on the Glasser 360
+cortical parcellation atlas.
+
+• Achieved robust segmentation accuracy suitable for clinical and research applications, validating performance
+
+against standard benchmarks.
+
+NBA Game Prediction Model
+
+Oct 2023 – Jan 2024
+
+• Developed an NBA game outcome prediction model in Python with Keras, Pytorch, and TensorFlow, achieving
+
+72% accu...
+---
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Found 3 date matches for research_project: ['Dec 2024 – Jan 2025', 'Oct 2023 – Jan 2024', 'Jan 2022 – May 2024']
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Processing research_project match 1/3: Dec 2024 – Jan 2025
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Title candidate block for match Dec 2024 – Jan 2025:
+---
+MRI Brain Segmentation Analysis
+---
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Evaluating title candidate line: 'MRI Brain Segmentation Analysis'
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Assigned project name: 'MRI Brain Segmentation Analysis'
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Final extracted before default: Co: '', Role: '', Proj: 'MRI Brain Segmentation Analysis'
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Description block for Dec 2024 – Jan 2025:
+---
+•
+
+Implemented image analysis pipelines in Python to quantify regional brain volumes based on the Glasser 360
+cortical parcellation atlas.
+
+• Achieved robust segmentation accuracy suitable for clinical and research applications, validating performance
+
+against standard benchmarks.
+
+NBA Game Predicti...
+---
+2025-05-10 17:03:34,560 - __main__ - WARNING - MRI Project: final_description_block (len: 308 chars, end_boundary: 364): '•
+
+Implemented image analysis pipelines in Python to quantify regional brain volumes based on the Glasser 360
+cortical parcellation atlas.
+
+• Achieved robust segmentation accuracy suitable for clinica...'
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Processing research_project match 2/3: Oct 2023 – Jan 2024
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Title candidate block for match Oct 2023 – Jan 2024:
+---
+•
+
+Implemented image analysis pipelines in Python to quantify regional brain volumes based on the Glasser 360
+cortical parcellation atlas.
+
+• Achieved robust segmentation accuracy suitable for clinical and research applications, validating performance
+
+against standard benchmarks.
+
+NBA Game Prediction Model
+---
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Evaluating title candidate line: 'NBA Game Prediction Model'
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Assigned project name: 'NBA Game Prediction Model'
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Final extracted before default: Co: '', Role: '', Proj: 'NBA Game Prediction Model'
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Description block for Oct 2023 – Jan 2024:
+---
+• Developed an NBA game outcome prediction model in Python with Keras, Pytorch, and TensorFlow, achieving
+
+72% accuracy on a test set by analyzing 20 years of historical game statistics.
+
+• Engineered novel features quantifying relative player performance across different eras using Python and Panda...
+---
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Processing research_project match 3/3: Jan 2022 – May 2024
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Title candidate block for match Jan 2022 – May 2024:
+---
+• Developed an NBA game outcome prediction model in Python with Keras, Pytorch, and TensorFlow, achieving
+
+72% accuracy on a test set by analyzing 20 years of historical game statistics.
+
+• Engineered novel features quantifying relative player performance across different eras using Python and Pandas
+
+•
+
+for data manipulation.
+Implemented and trained machine learning models with logistic regression using PyTorch, TensorFlow, and
+CUDA for GPU acceleration.
+Short-Term Effect of SEC Filings
+---
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Evaluating title candidate line: 'Short-Term Effect of SEC Filings'
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Assigned project name: 'Short-Term Effect of SEC Filings'
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Final extracted before default: Co: '', Role: '', Proj: 'Short-Term Effect of SEC Filings'
+2025-05-10 17:03:34,560 - __main__ - DEBUG - Description block for Jan 2022 – May 2024:
+---
+• Developed Python scripts using libraries like requests and BeautifulSoup (or specify others) to scrape EDGAR
+
+filings and retrieve real-time stock data via the Schwab API, a typical strategy in the field of operations research.
+• Analyzed correlations between filing sentiment/type and short-term p...
+---
+2025-05-10 17:03:34,561 - __main__ - DEBUG - Attempting to find section with header query: 'EDUCATION'
+2025-05-10 17:03:34,561 - __main__ - DEBUG - Found header 'EDUCATION' ending at index 4031. Default end_orig: 4466
+2025-05-10 17:03:34,561 - __main__ - DEBUG - Section 'EDUCATION' (start 4031) goes to end of text (index 4466).
+2025-05-10 17:03:34,561 - __main__ - DEBUG - Processing education entry starting with: 'COLUMBIA UNIVERSITY, The Fu Foundation School of Engineering and Applied Science'
+2025-05-10 17:03:34,561 - __main__ - DEBUG - Full entry_text for 'COLUMBIA UNIVERSITY, The Fu Foundation School of Engineering and Applied Science':
+---
+COLUMBIA UNIVERSITY, The Fu Foundation School of Engineering and Applied Science
+M.S. in Biomedical Engineering
+GPA: 3.62/4.00
+---
+2025-05-10 17:03:34,561 - __main__ - INFO - Applying heuristic: Found and assigned 'May 2022' to Columbia University.
+2025-05-10 17:03:34,561 - __main__ - DEBUG - Processing education entry starting with: 'RENSSELAER POLYTECHNIC INSTITUTE (RPI), School of Engineering'
+2025-05-10 17:03:34,561 - __main__ - DEBUG - Full entry_text for 'RENSSELAER POLYTECHNIC INSTITUTE (RPI), School of Engineering':
+---
+RENSSELAER POLYTECHNIC INSTITUTE (RPI), School of Engineering
+B.S. in Chemical Engineering, summa cum laude
+GPA: 3.91/4.00; Dean’s Honor List for all semesters, (Fall 2016 – Spring 2020) Coonley Prize
+Winner, 1st Place ChemE Senior Capstone Project (Spring 2020)
+
+New York, NY
+May 2022
+
+Troy, NY
+May 2020
+---
+2025-05-10 17:03:34,562 - __main__ - DEBUG - Found potential grad date string(s) in block: ['May 2022', 'May 2020']. Using last: 'May 2020' for uni: 'RENSSELAER POLYTECHNIC INSTITUTE (RPI), School of Engineering'
+2025-05-10 17:03:34,562 - __main__ - INFO - Extracted education: [{'university': 'COLUMBIA UNIVERSITY, The Fu Foundation School of Engineering and Applied Science', 'degree': 'M.S.', 'major': 'Biomedical Engineering', 'graduation_date': '2022-05', 'gpa': '3.62/4.00', 'honors': None}, {'university': 'RENSSELAER POLYTECHNIC INSTITUTE (RPI), School of Engineering', 'degree': 'B.S.', 'major': 'Chemical Engineering', 'graduation_date': '2020-05', 'gpa': '3.91/4.00', 'honors': 'summa cum laude; Dean’s Honor List for all semesters, (Fall 2016 – Spring 2020) Coonley Prize; Winner, 1st Place ChemE Senior Capstone Project (Spring 2020)'}]
+2025-05-10 17:03:34,562 - __main__ - INFO - Aggregated skill durations: [{'skill_name': 'Python', 'total_months': 40}, {'skill_name': 'Pandas', 'total_months': 33}, {'skill_name': 'PyTorch', 'total_months': 9}, {'skill_name': 'TensorFlow', 'total_months': 9}, {'skill_name': 'AWS', 'total_months': 5}, {'skill_name': 'Bash', 'total_months': 5}, {'skill_name': 'EC2', 'total_months': 5}, {'skill_name': 'JupyterLab', 'total_months': 5}, {'skill_name': 'SSH', 'total_months': 5}, {'skill_name': 'Keras', 'total_months': 4}]
+
+--- Extracted Skills from SKILLS section ---
+AWS, Bash, CLI, Data Wrangler, Docker, DVC, EC2, Git + GitHub Actions, Hugging Face, JupyterLab, Keras, Lambda, Linux, MATLAB, Matplotlib, Multimodal Fusion, Natural Language Processing, NumPy, Pandas, Plotly, Python, PyTorch, S3, Scikit-learn, SQL, SSH, TensorFlow, Terraform, Time-series Modeling, Transfer Learning, VS Code
+
+--- Aggregated Skill Durations ---
+  Skill: Python, Total Months: 40
+  Skill: Pandas, Total Months: 33
+  Skill: PyTorch, Total Months: 9
+  Skill: TensorFlow, Total Months: 9
+  Skill: AWS, Total Months: 5
+  Skill: Bash, Total Months: 5
+  Skill: EC2, Total Months: 5
+  Skill: JupyterLab, Total Months: 5
+  Skill: SSH, Total Months: 5
+  Skill: Keras, Total Months: 4
+
+--- Extracted Work Experiences ---
+  Company: Clipt Videos LLC
+  Role: Founder and Machine-Learning Engineer
+    Start: 2025-01-01, End: 2025-05-10, Duration: 5 months
+    Bullet Points: ['Developed and trained multimodal audio-visual emotion AI model [late-fusion CNN-BiLSTM-Transformer] using PyTorch, TensorFlow, and Python, achieving 89.5% test F1 across RAVDESS/CREMA-D combined datasets o Implemented feature extraction pipelines for audio (Spectrograms, Wav2Vec2) and video (FaceNet embeddings). o Managed and monitored machine learning training jobs on AWS EC2 instances using SSH, SCP, and Bash scripts', 'Developed separate humor fusion machine learning model with AWS SageMaker JupyterLab instance using UR-FUNNY o Designed a multimodal deep learning model in Python with distinct encoders (e.g., hierarchical LSTMs/Transformers) to process text (word embeddings) and acoustic (frame-level HuBERT features), capturing temporal dynamics and generating rich feature representations for each modality.']
+    Identified Skills in Bullets: ['AWS', 'Bash', 'EC2', 'JupyterLab', 'Python', 'PyTorch', 'SSH', 'TensorFlow']
+--------------------
+  Company: Moderna Therapeutics
+  Role: Research Associate Contract Co-op
+    Start: 2022-07-01, End: 2022-12-01, Duration: 6 months
+    Bullet Points: ['Architected new product designs of cutting-edge vaccination drug delivery methods and used bioassay analysis to test for', 'Performed bioassays and formulated lipid nanoparticles to collect data on characteristics such as particle size distribution,']
+    Identified Skills in Bullets: []
+--------------------
+
+--- Extracted Project Roles ---
+  Name: MRI Brain Segmentation Analysis
+    Start: 2024-12-01, End: 2025-01-01, Duration: 2 months
+    Bullet Points: ['Implemented image analysis pipelines in Python to quantify regional brain volumes based on the Glasser 360 cortical parcellation atlas.', 'Achieved robust segmentation accuracy suitable for clinical and research applications, validating performance']
+    Identified Skills in Bullets: ['Python']
+--------------------
+  Name: NBA Game Prediction Model
+    Start: 2023-10-01, End: 2024-01-01, Duration: 4 months
+    Bullet Points: ['Developed an NBA game outcome prediction model in Python with Keras, Pytorch, and TensorFlow, achieving', 'Engineered novel features quantifying relative player performance across different eras using Python and Pandas']
+    Identified Skills in Bullets: ['Keras', 'Pandas', 'Python', 'PyTorch', 'TensorFlow']
+--------------------
+  Name: Short-Term Effect of SEC Filings
+    Start: 2022-01-01, End: 2024-05-01, Duration: 29 months
+    Bullet Points: ['Developed Python scripts using libraries like requests and BeautifulSoup (or specify others) to scrape EDGAR', 'Analyzed correlations between filing sentiment/type and short-term price movements using Pandas and statistical']
+    Identified Skills in Bullets: ['Pandas', 'Python']
+--------------------
+
+--- Extracted Education ---
+  University: COLUMBIA UNIVERSITY, The Fu Foundation School of Engineering and Applied Science
+    Degree: M.S.
+    Major: Biomedical Engineering
+    Graduation Date: 2022-05
+    GPA: 3.62/4.00
+    Honors: None
+--------------------
+  University: RENSSELAER POLYTECHNIC INSTITUTE (RPI), School of Engineering
+    Degree: B.S.
+    Major: Chemical Engineering
+    Graduation Date: 2020-05
+    GPA: 3.91/4.00
+    Honors: summa cum laude; Dean’s Honor List for all semesters, (Fall 2016 – Spring 2020) Coonley Prize; Winner, 1st Place ChemE Senior Capstone Project (Spring 2020)
+--------------------
+
+--- Extracted Contact Info ---
+  Name: PATRICK GLORIA
+  Location: Santa Barbara, CA
+  Phone: 617-678-8166
+  Email: p.gloria@columbia.edu
+  LinkedIn: linkedin.com/in/patrick-gloria-861503355/
+  GitHub: github.com/patrg444
+(base) patrickgloria@Patricks-MacBook-Pro-2 Hawk % 

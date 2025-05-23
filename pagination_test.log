@@ -1,0 +1,85 @@
+2025-05-22 17:08:05,822 - __main__ - INFO - Attempting to load config from: /Users/patrickgloria/Hawk/lite_linkedin_bot/config.yaml
+2025-05-22 17:08:05,823 - __main__ - INFO - Loaded configuration from lite_linkedin_bot/config.yaml
+2025-05-22 17:08:05,823 - __main__ - INFO - --- Starting Pagination Navigation Test ---
+2025-05-22 17:08:05,823 - __main__ - INFO - Using singular 'search_query' from config: machine learning engineer california, united states easy apply remote
+2025-05-22 17:08:05,823 - auto_apply_bot.linkedin_bot - INFO - LLM use is disabled by configuration.
+2025-05-22 17:08:05,930 - auto_apply_bot.resume_parser - INFO - Extracted contact info: {'name': 'PATRICK GLORIA', 'location': 'Santa Barbara, CA', 'phone': '617-678-8166', 'email': 'p.gloria@columbia.edu', 'linkedin': 'linkedin.com/in/patrick-gloria-861503355/', 'github': 'github.com/patrg444'}
+2025-05-22 17:08:05,932 - auto_apply_bot.resume_parser - INFO - Extracted skills from SKILLS section: ['AWS', 'Bash', 'CLI', 'Data Wrangler', 'Docker', 'DVC', 'EC2', 'Git + GitHub Actions', 'Hugging Face', 'JupyterLab', 'Keras', 'Lambda', 'Linux', 'MATLAB', 'Matplotlib', 'Multimodal Fusion', 'Natural Language Processing', 'NumPy', 'Pandas', 'Plotly', 'Python', 'PyTorch', 'S3', 'Scikit-learn', 'SQL', 'SSH', 'TensorFlow', 'Terraform', 'Time-series Modeling', 'Transfer Learning', 'VS Code']
+2025-05-22 17:08:05,938 - auto_apply_bot.resume_parser - WARNING - MRI Project: final_description_block (len: 308 chars, end_boundary: 364): '•
+
+Implemented image analysis pipelines in Python to quantify regional brain volumes based on the Glasser 360
+cortical parcellation atlas.
+
+• Achieved robust segmentation accuracy suitable for clinica...'
+2025-05-22 17:08:05,939 - auto_apply_bot.resume_parser - INFO - Applying heuristic: Found and assigned 'May 2022' to Columbia University.
+2025-05-22 17:08:05,940 - auto_apply_bot.resume_parser - INFO - Extracted education: [{'university': 'COLUMBIA UNIVERSITY, The Fu Foundation School of Engineering and Applied Science', 'degree': 'M.S.', 'major': 'Biomedical Engineering', 'graduation_date': '2022-05', 'gpa': '3.62/4.00', 'honors': None}, {'university': 'RENSSELAER POLYTECHNIC INSTITUTE (RPI), School of Engineering', 'degree': 'B.S.', 'major': 'Chemical Engineering', 'graduation_date': '2020-05', 'gpa': '3.91/4.00', 'honors': 'summa cum laude; Dean’s Honor List for all semesters, (Fall 2016 – Spring 2020) Coonley Prize; Winner, 1st Place ChemE Senior Capstone Project (Spring 2020)'}]
+2025-05-22 17:08:05,940 - auto_apply_bot.resume_parser - INFO - Aggregated skill durations: [{'skill_name': 'Python', 'total_months': 35}, {'skill_name': 'Pandas', 'total_months': 33}, {'skill_name': 'AWS', 'total_months': 5}, {'skill_name': 'Keras', 'total_months': 4}, {'skill_name': 'PyTorch', 'total_months': 4}, {'skill_name': 'TensorFlow', 'total_months': 4}]
+2025-05-22 17:08:05,940 - auto_apply_bot.linkedin_bot - INFO - Successfully parsed resume from /Users/patrickgloria/Downloads/Patrick Gloria Resume --.pdf
+2025-05-22 17:08:05,940 - WDM - INFO - ====== WebDriver manager ======
+2025-05-22 17:08:06,107 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-22 17:08:06,181 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-22 17:08:06,247 - WDM - INFO - Driver [/Users/patrickgloria/.wdm/drivers/chromedriver/mac64/136.0.7103.113/chromedriver-mac-arm64/chromedriver] found in cache
+2025-05-22 17:08:18,411 - auto_apply_bot.linkedin_bot - INFO - After WebDriverWait, current URL is: https://www.linkedin.com/feed/
+2025-05-22 17:08:18,421 - __main__ - INFO - Login successful for pagination test.
+2025-05-22 17:08:18,422 - __main__ - INFO - Created results directory for pagination test: /Users/patrickgloria/Hawk/results_pagination_test_20250522_170818
+2025-05-22 17:08:18,422 - __main__ - INFO - Performing initial search for query: 'machine learning engineer california, united states easy apply remote'
+2025-05-22 17:08:36,935 - __main__ - INFO - Applying date filter: Past week
+2025-05-22 17:08:49,710 - __main__ - INFO - Will attempt to navigate up to 5 pages.
+2025-05-22 17:08:49,711 - __main__ - INFO - --- Currently on page 1. Attempting to navigate to page 2 ---
+2025-05-22 17:08:49,711 - __main__ - INFO - Scrolling to the bottom of the page before pagination attempt.
+2025-05-22 17:08:51,237 - __main__ - INFO - Current pagination state reported by LinkedIn: ''
+2025-05-22 17:08:51,237 - auto_apply_bot.searcher - INFO - Attempting to go to the next page...
+2025-05-22 17:08:51,237 - auto_apply_bot.searcher - INFO -   Trying selector 1/7: button[aria-label='View next page']
+2025-05-22 17:08:51,248 - auto_apply_bot.searcher - INFO -     Found potential button 1 with selector button[aria-label='View next page'].
+2025-05-22 17:08:51,254 - auto_apply_bot.searcher - INFO -       Button HTML: <button aria-label="View next page" id="ember511" class="artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--1 artdeco-button--tertiary ember-view jobs-search-pagination__b...
+2025-05-22 17:08:51,262 - auto_apply_bot.searcher - INFO -       Is Displayed: True, Is Enabled: True
+2025-05-22 17:08:51,263 - auto_apply_bot.searcher - INFO -       Attempting to scroll button into view and click (standard).
+2025-05-22 17:08:52,537 - auto_apply_bot.searcher - INFO -       Successfully clicked 'Next' button using selector: button[aria-label='View next page']
+2025-05-22 17:08:57,985 - __main__ - INFO - Successfully clicked 'Next' (Attempt 1). Pausing for page load...
+2025-05-22 17:09:05,930 - __main__ - INFO - --- Currently on page 2. Attempting to navigate to page 3 ---
+2025-05-22 17:09:05,931 - __main__ - INFO - Scrolling to the bottom of the page before pagination attempt.
+2025-05-22 17:09:07,460 - __main__ - INFO - Current pagination state reported by LinkedIn: ''
+2025-05-22 17:09:07,460 - auto_apply_bot.searcher - INFO - Attempting to go to the next page...
+2025-05-22 17:09:07,460 - auto_apply_bot.searcher - INFO -   Trying selector 1/7: button[aria-label='View next page']
+2025-05-22 17:09:07,469 - auto_apply_bot.searcher - INFO -     Found potential button 1 with selector button[aria-label='View next page'].
+2025-05-22 17:09:07,477 - auto_apply_bot.searcher - INFO -       Button HTML: <button aria-label="View next page" id="ember752" class="artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--1 artdeco-button--tertiary ember-view jobs-search-pagination__b...
+2025-05-22 17:09:07,487 - auto_apply_bot.searcher - INFO -       Is Displayed: True, Is Enabled: True
+2025-05-22 17:09:07,487 - auto_apply_bot.searcher - INFO -       Attempting to scroll button into view and click (standard).
+2025-05-22 17:09:08,432 - auto_apply_bot.searcher - INFO -       Successfully clicked 'Next' button using selector: button[aria-label='View next page']
+2025-05-22 17:09:11,461 - __main__ - INFO - Successfully clicked 'Next' (Attempt 2). Pausing for page load...
+2025-05-22 17:09:19,895 - __main__ - INFO - --- Currently on page 3. Attempting to navigate to page 4 ---
+2025-05-22 17:09:19,895 - __main__ - INFO - Scrolling to the bottom of the page before pagination attempt.
+2025-05-22 17:09:21,417 - __main__ - INFO - Current pagination state reported by LinkedIn: ''
+2025-05-22 17:09:21,417 - auto_apply_bot.searcher - INFO - Attempting to go to the next page...
+2025-05-22 17:09:21,417 - auto_apply_bot.searcher - INFO -   Trying selector 1/7: button[aria-label='View next page']
+2025-05-22 17:09:21,427 - auto_apply_bot.searcher - INFO -     Found potential button 1 with selector button[aria-label='View next page'].
+2025-05-22 17:09:21,434 - auto_apply_bot.searcher - INFO -       Button HTML: <button aria-label="View next page" id="ember983" class="artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--1 artdeco-button--tertiary ember-view jobs-search-pagination__b...
+2025-05-22 17:09:21,445 - auto_apply_bot.searcher - INFO -       Is Displayed: True, Is Enabled: True
+2025-05-22 17:09:21,445 - auto_apply_bot.searcher - INFO -       Attempting to scroll button into view and click (standard).
+2025-05-22 17:09:22,529 - auto_apply_bot.searcher - INFO -       Successfully clicked 'Next' button using selector: button[aria-label='View next page']
+2025-05-22 17:09:25,618 - __main__ - INFO - Successfully clicked 'Next' (Attempt 3). Pausing for page load...
+2025-05-22 17:09:35,479 - __main__ - INFO - --- Currently on page 4. Attempting to navigate to page 5 ---
+2025-05-22 17:09:35,480 - __main__ - INFO - Scrolling to the bottom of the page before pagination attempt.
+2025-05-22 17:09:37,001 - __main__ - INFO - Current pagination state reported by LinkedIn: ''
+2025-05-22 17:09:37,001 - auto_apply_bot.searcher - INFO - Attempting to go to the next page...
+2025-05-22 17:09:37,001 - auto_apply_bot.searcher - INFO -   Trying selector 1/7: button[aria-label='View next page']
+2025-05-22 17:09:37,010 - auto_apply_bot.searcher - INFO -     Found potential button 1 with selector button[aria-label='View next page'].
+2025-05-22 17:09:37,015 - auto_apply_bot.searcher - INFO -       Button HTML: <button aria-label="View next page" id="ember1334" class="artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--1 artdeco-button--tertiary ember-view jobs-search-pagination__...
+2025-05-22 17:09:37,024 - auto_apply_bot.searcher - INFO -       Is Displayed: True, Is Enabled: True
+2025-05-22 17:09:37,024 - auto_apply_bot.searcher - INFO -       Attempting to scroll button into view and click (standard).
+2025-05-22 17:09:37,927 - auto_apply_bot.searcher - INFO -       Successfully clicked 'Next' button using selector: button[aria-label='View next page']
+2025-05-22 17:09:42,506 - __main__ - INFO - Successfully clicked 'Next' (Attempt 4). Pausing for page load...
+2025-05-22 17:09:51,807 - __main__ - INFO - --- Currently on page 5. Attempting to navigate to page 6 ---
+2025-05-22 17:09:51,808 - __main__ - INFO - Scrolling to the bottom of the page before pagination attempt.
+2025-05-22 17:09:53,337 - __main__ - INFO - Current pagination state reported by LinkedIn: ''
+2025-05-22 17:09:53,338 - auto_apply_bot.searcher - INFO - Attempting to go to the next page...
+2025-05-22 17:09:53,338 - auto_apply_bot.searcher - INFO -   Trying selector 1/7: button[aria-label='View next page']
+2025-05-22 17:09:53,349 - auto_apply_bot.searcher - INFO -     Found potential button 1 with selector button[aria-label='View next page'].
+2025-05-22 17:09:53,359 - auto_apply_bot.searcher - INFO -       Button HTML: <button aria-label="View next page" id="ember1557" class="artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--1 artdeco-button--tertiary ember-view jobs-search-pagination__...
+2025-05-22 17:09:53,371 - auto_apply_bot.searcher - INFO -       Is Displayed: True, Is Enabled: True
+2025-05-22 17:09:53,371 - auto_apply_bot.searcher - INFO -       Attempting to scroll button into view and click (standard).
+2025-05-22 17:09:54,544 - auto_apply_bot.searcher - INFO -       Successfully clicked 'Next' button using selector: button[aria-label='View next page']
+2025-05-22 17:09:56,641 - __main__ - INFO - Closing browser for pagination test.
+2025-05-22 17:09:56,643 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/67bda6f981d893d23a78fdef999d244c
+2025-05-22 17:09:56,645 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1063b4f70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/67bda6f981d893d23a78fdef999d244c
+2025-05-22 17:09:56,646 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1063b4670>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/67bda6f981d893d23a78fdef999d244c

@@ -1,0 +1,97 @@
+{
+  "candidate_details": {
+    "name": "PATRICK GLORIA",
+    "contact_info": {
+      "location": "Santa Barbara, CA",
+      "phone": "617-678-8166",
+      "email": "p.gloria@columbia.edu",
+      "linkedin": "linkedin.com/in/patrick-gloria-861503355/",
+      "github": "github.com/patrg444"
+    },
+    "summary_statement": "Machine-learning engineer & data scientist with 3+ years of experience developing complex audio-visual and biomedical data into robust machine learning models on AWS and data driven solutions. Builds deep-learning pipelines (CNN, RNN/LSTM, Transformers) that deliver up to 90 % accuracy on fusion models. Owns the full lifecycle—from data wrangling to MLOps automation—and communicates results to both execs and engineers.",
+    "self_stated_total_experience_years": 3
+  },
+  "skills_profile": {
+    "languages": ["Python", "MATLAB", "Bash", "SQL"],
+    "ml_dl_frameworks_and_concepts": ["Machine Learning", "PyTorch", "TensorFlow", "Keras", "Hugging Face", "Scikit-learn", "Transfer Learning", "Multimodal Fusion", "Time-series Modeling", "Natural Language Processing"],
+    "development_tools": ["VS Code", "JupyterLab", "Linux", "CLI", "SSH"],
+    "cloud_and_mlops": ["AWS (SageMaker, EC2, S3, Lambda)", "Docker", "Terraform", "DVC", "Git + GitHub Actions", "REST/GraphQL APIs"],
+    "data_manipulation_and_analysis": ["Pandas", "NumPy", "Data Wrangler"],
+    "visualization": ["Matplotlib", "Plotly"],
+    "all_skills_flat_list": ["Python", "MATLAB", "Bash", "SQL", "Machine Learning", "PyTorch", "TensorFlow", "Keras", "Hugging Face", "Scikit-learn", "Transfer Learning", "Multimodal Fusion", "Time-series Modeling", "Natural Language Processing", "VS Code", "JupyterLab", "Linux", "CLI", "SSH", "AWS (SageMaker, EC2, S3, Lambda)", "Docker", "Terraform", "DVC", "Git + GitHub Actions", "REST/GraphQL APIs", "Pandas", "NumPy", "Data Wrangler", "Matplotlib", "Plotly"]
+  },
+  "employment_history": [
+    {
+      "job_title": "Founder and Machine-Learning Engineer",
+      "company_name": "Clipt Videos LLC",
+      "dates": "Jan 2025 – Present",
+      "description_bullet_points": [
+        "Developed and trained multimodal audio-visual emotion AI model [late-fusion CNN-BiLSTM-Transformer] using PyTorch, TensorFlow, and Python, achieving 89.5% test F1 across RAVDESS/CREMA-D combined datasets",
+        "Implemented feature extraction pipelines for audio (Spectrograms, Wav2Vec2) and video (FaceNet embeddings).",
+        "Managed and monitored machine learning training jobs on AWS EC2 instances using SSH, SCP, and Bash scripts",
+        "Developed separate humor fusion machine learning model with AWS SageMaker JupyterLab instance using UR-FUNNY",
+        "Designed a multimodal deep learning model in Python with distinct encoders (e.g., hierarchical LSTMs/Transformers) to process text (word embeddings) and acoustic (frame-level HuBERT features), capturing temporal dynamics and generating rich feature representations for each modality.",
+        "Architected a late-stage fusion mechanism to integrate these learned text and acoustic embeddings (e.g., via concatenation, attention, or MLP layers) for a final binary classification of humor"
+      ]
+    },
+    {
+      "job_title": "Research Associate Contract Co-op",
+      "company_name": "Moderna Therapeutics, Formulation Discovery Group",
+      "location": "Cambridge, MA",
+      "dates": "July 2022 – Dec 2022",
+      "description_bullet_points": [
+        "Architected new product designs of cutting-edge vaccination drug delivery methods and used bioassay analysis to test for mRNA delivery efficacy for various chemical excipients",
+        "Performed bioassays and formulated lipid nanoparticles to collect data on characteristics such as particle size distribution, encapsulation efficiency, and particle concentration to produce key insights using data science techniques"
+      ]
+    }
+  ],
+  "education_history": [
+    {
+      "institution": "COLUMBIA UNIVERSITY, The Fu Foundation School of Engineering and Applied Science",
+      "degree_level_achieved": "Master's Degree",
+      "degree_specific_name": "M.S.",
+      "major": "Biomedical Engineering",
+      "gpa": "3.62/4.00",
+      "location": "New York, NY",
+      "graduation_year": 2022
+    },
+    {
+      "institution": "RENSSELAER POLYTECHNIC INSTITUTE (RPI), School of Engineering",
+      "degree_level_achieved": "Bachelor's Degree",
+      "degree_specific_name": "B.S.",
+      "major": "Chemical Engineering",
+      "honors_awards": "summa cum laude; Dean’s Honor List for all semesters, (Fall 2016 – Spring 2020) Coonley Prize Winner, 1st Place ChemE Senior Capstone Project (Spring 2020)",
+      "gpa": "3.91/4.00",
+      "location": "Troy, NY",
+      "graduation_year": 2020
+    }
+  ],
+  "project_history": [
+    {
+      "project_name": "MRI Brain Segmentation Analysis",
+      "dates": "Dec 2024 – Jan 2025",
+      "description_bullet_points": [
+        "Implemented image analysis pipelines in Python to quantify regional brain volumes based on the Glasser 360 cortical parcellation atlas.",
+        "Achieved robust segmentation accuracy suitable for clinical and research applications, validating performance against standard benchmarks."
+      ]
+    },
+    {
+      "project_name": "NBA Game Prediction Model",
+      "dates": "Oct 2023 – Jan 2024",
+      "description_bullet_points": [
+        "Developed an NBA game outcome prediction model in Python with Keras, Pytorch, and TensorFlow, achieving 72% accuracy on a test set by analyzing 20 years of historical game statistics.",
+        "Engineered novel features quantifying relative player performance across different eras using Python and Pandas for data manipulation.",
+        "Implemented and trained machine learning models with logistic regression using PyTorch, TensorFlow, and CUDA for GPU acceleration."
+      ]
+    },
+    {
+      "project_name": "Short-Term Effect of SEC Filings",
+      "dates": "Jan 2022 – May 2024",
+      "description_bullet_points": [
+        "Developed Python scripts using libraries like requests and BeautifulSoup (or specify others) to scrape EDGAR filings and retrieve real-time stock data via the Schwab API, a typical strategy in the field of operations research.",
+        "Analyzed correlations between filing sentiment/type and short-term price movements using Pandas and statistical methods in Python achieving a 30% portfolio return (Feb-May 2022) against a declining market trend."
+      ]
+    }
+  ],
+  "full_resume_text_for_keyword_search": "PATRICK GLORIA\nSanta Barbara, CA • 617-678-8166 • p.gloria@columbia.edu • linkedin.com/in/patrick-gloria-861503355/ • github.com/patrg444\nABOUT ME: Machine-learning engineer & data scientist with 3+ years of experience developing complex audio-visual and biomedical data into robust machine learning models on AWS and data driven solutions. Builds deep-learning pipelines (CNN, RNN/LSTM, Transformers) that deliver up to 90 % accuracy on fusion models. Owns the full lifecycle—from data wrangling to MLOps automation—and communicates results to both execs and engineers.\nCORE COMPETENCIES\nLanguages: Python, MATLAB, Bash, SQL\nML/DL: PyTorch, TensorFlow, Keras, Hugging Face, Scikit-learn, Transfer Learning, Multimodal Fusion, Time-series Modeling, Natural Language Processing\nTools: VS Code, JupyterLab, Linux, CLI, SSH\nCloud/MLOps: AWS (SageMaker, EC2, S3, Lambda), Docker, Terraform, DVC, Git + GitHub Actions, REST/GraphQL APIs\nData: Pandas, NumPy, Data Wrangler\nVisualization: Matplotlib, Plotly\nWORK EXPERIENCE\nClipt Videos LLC, Founder and Machine-Learning Engineer\nJan 2025 – Present\n•\nDeveloped and trained multimodal audio-visual emotion AI model [late-fusion CNN-BiLSTM-Transformer] using PyTorch, TensorFlow, and Python, achieving 89.5% test F1 across RAVDESS/CREMA-D combined datasets\no\nImplemented feature extraction pipelines for audio (Spectrograms, Wav2Vec2) and video (FaceNet embeddings).\no\nManaged and monitored machine learning training jobs on AWS EC2 instances using SSH, SCP, and Bash scripts\n•\nDeveloped separate humor fusion machine learning model with AWS SageMaker JupyterLab instance using UR-FUNNY\no\nDesigned a multimodal deep learning model in Python with distinct encoders (e.g., hierarchical LSTMs/Transformers) to process text (word embeddings) and acoustic (frame-level HuBERT features), capturing temporal dynamics and generating rich feature representations for each modality.\no\nArchitected a late-stage fusion mechanism to integrate these learned text and acoustic embeddings (e.g., via concatenation, attention, or MLP layers) for a final binary classification of humor\nModerna Therapeutics, Formulation Discovery Group\nCambridge, MA\nResearch Associate Contract Co-op\nJuly 2022 – Dec 2022\n•\nArchitected new product designs of cutting-edge vaccination drug delivery methods and used bioassay analysis to test for mRNA delivery efficacy for various chemical excipients\n•\nPerformed bioassays and formulated lipid nanoparticles to collect data on characteristics such as particle size distribution, encapsulation efficiency, and particle concentration to produce key insights using data science techniques\nRESEARCH PROJECTS\nMRI Brain Segmentation Analysis\nDec 2024 – Jan 2025\n•\nImplemented image analysis pipelines in Python to quantify regional brain volumes based on the Glasser 360 cortical parcellation atlas.\n•\nAchieved robust segmentation accuracy suitable for clinical and research applications, validating performance against standard benchmarks.\nNBA Game Prediction Model\nOct 2023 – Jan 2024\n•\nDeveloped an NBA game outcome prediction model in Python with Keras, Pytorch, and TensorFlow, achieving 72% accuracy on a test set by analyzing 20 years of historical game statistics.\n•\nEngineered novel features quantifying relative player performance across different eras using Python and Pandas for data manipulation.\n•\nImplemented and trained machine learning models with logistic regression using PyTorch, TensorFlow, and CUDA for GPU acceleration.\nShort-Term Effect of SEC Filings\nJan 2022 – May 2024\n•\nDeveloped Python scripts using libraries like requests and BeautifulSoup (or specify others) to scrape EDGAR filings and retrieve real-time stock data via the Schwab API, a typical strategy in the field of operations research.\n•\nAnalyzed correlations between filing sentiment/type and short-term price movements using Pandas and statistical methods in Python achieving a 30% portfolio return (Feb-May 2022) against a declining market trend.\nEDUCATION\nCOLUMBIA UNIVERSITY, The Fu Foundation School of Engineering and Applied Science\nM.S. in Biomedical Engineering\nGPA: 3.62/4.00\nNew York, NY\nMay 2022\nRENSSELAER POLYTECHNIC INSTITUTE (RPI), School of Engineering\nB.S. in Chemical Engineering, summa cum laude\nTroy, NY\nMay 2020\nGPA: 3.91/4.00; Dean’s Honor List for all semesters, (Fall 2016 – Spring 2020) Coonley Prize Winner, 1st Place ChemE Senior Capstone Project (Spring 2020)"
+}

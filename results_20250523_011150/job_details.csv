@@ -1,0 +1,149 @@
+Job URL,Application Link,Company Name,Job Title,Location,Employment Type,Required Experience (Years),Required Education,Required Skills,Mention Keywords,Description Summary
+https://www.linkedin.com/jobs/view/4233402967,https://www.linkedin.com/jobs/view/4233402967/,Smart IT Frame,ML Engineer,"San Francisco, CA (Remote)",contract,NA,NA,Python; AWS; Azure; GCP; Google Cloud Platform; Cloud; Docker; Machine Learning; Deep Learning; NLP; Computer Vision; TensorFlow; PyTorch; Keras; Git; Jenkins; Jira; Confluence,"{'GCP': 1, 'NLP': 1, 'Git': 1, 'Docker': 1, 'Machine Learning': 1, 'Cloud': 1, 'Keras': 1, 'Python': 1, 'Google Cloud Platform': 1, 'Confluence': 1, 'Deep Learning': 1, 'data': 2, 'TensorFlow': 1, 'PyTorch': 2, 'Azure': 1, 'Computer Vision': 1, 'AWS': 1, 'Jira': 1, 'Jenkins': 1}","About the job
+We are Hiring!
+Role: ML Engineer
+Location: San Francisco, CA ( Remote)
+Type: Contract
+ Job Description : 
+Custom classification detection recognition Models across stills and videos
+Drive dataset curation workstreams including data engineering with existing data
+and human labeling operations
+Implement papers on SOTA methodologies on video segmentation video
+classification object face detection
+Strong command of pytorch or tensorflowkeras
+Incorporation of Multimodal processing including audio and text
+Work with stakeholders directly to translate business problems to ML problems
+Work with legal teams on model compliance
+ Primary Skills:
+Machine Learning, Deep Learning, Computer Vision, Image and Video Processing, PyTorch, TensorFlow/Keras, Natural Language Processing (NLP), GenAI, State-of-the-Art (SOTA) Techniques, Video Segmentation, Object and Face Detection, Audio Processing, Text Processing, Multimodal Integration
+Secondary Skills:
+Python, Dashboard Creation, AWS/ Azure/Google Cloud Platform (GCP), Git, GitHub, JIRA, Confluence, Slack, Jenkins, Docker."
+https://www.linkedin.com/jobs/view/4229251209,https://www.linkedin.com/jobs/view/4229251209/,"Electromagnetic Systems,",Machine Learning Engineer,,Full-time,NA,PhD/Doctorate,Python; Machine Learning; Deep Learning; Data Science,"{'environment': 1, 'development': 1, 'quality': 2, 'production': 2, 'Machine Learning': 5, 'design': 1, 'performance': 1, 'Python': 3, 'Deep Learning': 2, 'Data Science': 2, 'research': 2, 'data': 7, 'communication': 2}","About the job
+Machine Learning Engineer
+EMSI currently seeks a US citizen Machine Learning Engineer who can develop cutting edge Deep Learning technologies applied to the automated search and ID of high value objects in Space Based Synthetic Aperture Radar (SAR) imagery. You will have considerable responsibility, and your role will have direct impact on relevant issues facing United States government customers. Ideal candidates will have a strong background in Machine Learning (preferably Deep Neural Networks), and will need to be flexible in a small business environment. Familiarity with radar sensing phenomenology and Open Source frameworks is a huge plus, as well as the ability to program in Python.
+Applicant MUST be a U.S. citizen and be capable of obtaining a Top Secret clearance.
+ Responsibilities:
+Research, conceive, design, prototype and/or implement advanced Deep Neural Network Architectures as well as other relevant Machine Learning models
+Apply deep learning algorithms to train neural networks for object detection and classification
+Develop domain-aware pre-processing algorithms, and other methods to increase model generalization
+Apply signal pre-processing techniques on SAR data
+Create physics simulations of various phenomenologies and develop methods to account for bias between simulated and real-world data
+Develop appropriate objective functions and sound performance assessment plans
+Present research at meetings and conferences
+Develop and deliver production-quality code (mainly Python)
+ Basic Qualifications:
+Bachelor’s degree in engineering, physics, mathematics, computer science, data science, or related technical field
+Demonstrated mathematical problem solving ability and data analysis experience
+Experience implementing machine learning, data mining, and statistical algorithms for pattern recognition and development of predictive models
+Strong programming ability
+Experience with signal and image processing
+Experience with open source and other scientific software packages
+Must be flexible and a self-starter
+Demonstrated interpersonal communication, presentation skills, verbal and written communication skills
+Must be a U.S. citizen
+  Preferred Qualifications:
+Master’s degree or PhD in engineering, physics, mathematics, computer science, data science, or related technical field
+Experience with Synthetic Aperture Radar (SAR) data
+Strong programming ability in Python
+Experience delivering production-quality code
+A U.S. Top Secret or SCI clearance
+ Benefits:
+Salaries are more than competitive within the industry and will be commensurate with an applicant’s experience.
+We offer an extremely generous retirement program consisting of a company-paid contribution equal to 15% of the employee’s salary. Although an employee can make voluntary salary deferrals, no employee contribution is required to obtain this company-paid 15% contribution.
+PPO company-paid health plan
+Generous vacation
+Flexible work schedule
+All employees participate in company bonus plan"
+https://www.linkedin.com/jobs/view/4217724851,https://www.linkedin.com/jobs/view/4217724851,rackspace,Machine Learning Architect (AWS),Remote,,10,PhD/Doctorate,Python; AWS; Azure; GCP; Cloud; Machine Learning; Deep Learning; NLP; TensorFlow; PyTorch; AI; MLOps; Microservices; Agile,"{'team': 5, 'GCP': 2, 'NLP': 1, 'solution': 2, 'customer': 4, 'development': 1, 'production': 2, 'Microservices': 1, 'Machine Learning': 14, 'design': 2, 'Cloud': 4, 'problem-solving': 1, 'AI': 1, 'performance': 1, 'Python': 1, 'Deep Learning': 1, 'MLOps': 1, 'research': 1, 'Agile': 1, 'data': 1, 'TensorFlow': 1, 'PyTorch': 1, 'architecture': 1, 'Azure': 2, 'communication': 2, 'AWS': 3}","About the job
+We are expanding our team of motivated technologists with a proven track record of delivering results in technology consulting. We are looking for a Machine Learning Architect with experience in cloud (AWS preferred) who is passionate about helping customers build AI/ML solutions at scale. Being an experienced technologist with technical depth and breadth, aided with strong interpersonal skills, you will work directly with customers as part of a delivery team, helping to enable innovation by creating state of the art Machine Learning solutions that align to business goals. 
+
+This role includes responsibilities both as a Professional Services Machine Learning Architect and as a hands-on Machine Learning engineer on customer engagements. 
+
+The qualified Machine Learning Architect will have demonstrated the ability to think strategically about businesses, create technical definitions around customer objectives in complex situations, develop solution strategies, motivate & mobilize resources, and deliver results. The ability to connect technology with measurable business value is a critical component to be successful in this role. We seek team members who are self-motivated, driven, collaborative, passionate about machine learning, and want to have a direct positive impact on our customer's business. Strong communication skills and emotional intelligence are also needed to help develop a team that works with you. 
+
+Work Location: Remote 
+
+Key Responsibilities:
+
+Design machine learning solutions and execute machine learning projects end to end from proof-of-concept stage to deployment in production using cloud native technologies and state of the art machine learning models. 
+Be technically focused but work directly with the business representatives/customers to understand the requirements driving the need for a solution to be developed. 
+Be responsible for all phases of the project from problem definition, data annotation, model development, model deployment to end user documentation/training. 
+Design the architecture of ML solutions on cloud platforms (AWS, Azure, GCP) including MLOPs. 
+Stay abreast of the latest developments. Read the latest published machine learning research and adapt the models to solve customer’s problems. 
+Establish credibility by demonstrating technical excellence and delivering value through solutions you build. Develop strong relationships with our customers. 
+
+
+Qualifications:
+
+Masters with 10+ years of experience or PhD with 6+ years of experience in Machine Learning, Natural Language Processing (NLP) and Deep Learning. 
+Minimum 5+ years of experience architecting and building Machine Learning solutions. 
+Minimum 5+ years of experience with cloud platforms (AWS, GCP, Azure). 
+Experience building ML models and strong knowledge of ML techniques is required. 
+Experience with hugging face, TensorFlow/pytorch, transformer architectures, prompt engineering, agentic systems, LLMs. 
+Strong coding experience in Python and architectural patterns like microservices. 
+Solid understanding of agile methodologies and experience in planning machine learning projects from inception to production deployment. 
+Strong problem-solving skills and the ability to lead a team on “what’s next” when encountering a technical issue in a machine learning project. 
+Excellent communication and presentation skills, with the ability to explain complex technical concepts to both technical and non-technical audiences. 
+
+
+Travel:
+
+As per business requirements
+
+
+#rackspace
+
+The following information is required by pay transparency legislation in the following states: CA, CO, HI, NY and WA. This information applies only to individuals working in these states. 
+
+The anticipated starting pay range for Colorado is: $153,000 - $204,000
+
+The anticipated starting pay range for Hawaii and New York (not including NYC) is: $167,400 - $223,200
+
+The anticipated starting pay range for California, New York City and Washington is: $183,500 - $244,700
+
+Based on eligibility, compensation for the role may include variable compensation in the form of bonus, commissions, or other discretionary payments.
+
+These discretionary payments are based on company and/or individual performance, and may change at any time.
+
+Actual compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, licenses and certifications, and specific work location. 
+
+Information on benefits offered is here."
+https://www.linkedin.com/jobs/view/4229499282,https://www.linkedin.com/jobs/view/4229499282,the Role,Machine Learning Engineer,San Francisco Bay Area,Full-time,NA,Associate's Degree,Python; NoSQL; React; Node.js; AWS; GCP; Cloud; Machine Learning; AI,"{'team': 1, 'GCP': 2, 'development': 1, 'production': 2, 'Machine Learning': 2, 'Cloud': 1, 'React': 1, 'AI': 12, 'Python': 1, 'research': 4, 'collaborate': 1, 'Node.js': 1, 'data': 1, 'architecture': 1, 'AWS': 2, 'scalable': 1, 'NoSQL': 1}","About the job
+Bytez is a technology company dedicated to making AI universally accessible. We're helping build a better internet, where anyone can leverage AI to bring their ideas to life. That's why we're building a primitive superintelligent AI system that's solely specialized in AI research and models. We believe 1,000,000 networked brains are better than one neural network.
+
+Bytez is honored to be used by hundreds of thousands of AI professionals every month, and be the official technology used by top AI journals, such as NeurIPS and CVPR.
+
+Join us in a different kind of revolution.
+
+About the Role
+We’re looking for a passionate Machine Learning Engineer with full-stack expertise. You must be passionate about AI and agent technology.
+
+You'll join our AI Engineering team, which is building an AI Agent that can run an unprecedented 100k models across tasks. Our agent intelligently orchestrates workflows by selecting and executing the most effective open and closed-source models for the requested task. In addition to contributing to the agent, you'll work with enterprises in the adoption of the agent.
+
+You'll have access to unpublished AI research from top conferences, and you'll help these conferences make this AI research accessible to the world.
+
+This will be your focus for the next 6 months. If that path of learning sounds exciting, let's collaborate. 
+
+Tech Stack
+Front-end: Next.js, React, MobX, Firebase, MUI
+Languages: Node.js, Python, Julia
+Cloud: GCP (primary), AWS (secondary)
+Architecture: Serverless, event-driven
+Databases: NoSQL, Graph
+
+Your Skills
+Full-stack Development
+Authored or contributed significantly to multiple full-stack applications
+Experience deploying scalable services on GCP or AWS
+
+Machine Learning Engineering
+Delivered 3+ production ML projects end-to-end, from data preprocessing to deployment
+Expertise in fine-tuning LLMs and other open and proprietary models
+Skilled at deploying and maintaining production ML models with scalability and reliability in mind
+Constant learner, staying up-to-date with the latest AI research and techniques
+
+Sound exciting? Send us your GitHub or join us in Discord."
+https://www.linkedin.com/jobs/view/4229289354,https://www.linkedin.com/jobs/view/4229289354,Tanoshii,Senior Machine Learning Engineer,San Francisco Bay Area,Full-time,5,NA,Machine Learning; AI,"{'real-time': 1, 'Machine Learning': 1, 'optimization': 1, 'AI': 1, 'data': 1, 'communication': 1}","About the job
+We're helping a video generation company that is building the world's most intuitive AI agent. Backed by top investors including Sequoia, Y Combinator, and Scale VC. 
+
+They are hiring a Senior Machine Learning Engineer who is comfortable building systems with sub-second latency and real-time applications. Evidence of delivering applications to improve model training speed and a reduction in memory usage, optimization, and the ability to work in multiprocess/ have fluency with interprocess communication. Evidence on working on video data is really important too!"

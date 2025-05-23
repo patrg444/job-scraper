@@ -1,0 +1,30 @@
+# LinkedIn credentials
+email: "patrg444@gmail.com"
+password: "epYWncK8!"
+resume_path: "/Users/patrickgloria/Downloads/Patrick Gloria Resume --.pdf"
+cover_letter_path: ""  # Optional path to a cover letter PDF
+
+# Job search parameters
+search_query: "machine learning engineer california, united states easy apply remote" # Restored search query
+date_filter: "Past week"  # Options: "Past 24 hours", "Past week", "Past month", "Past year"
+pages_to_scan: 1 # Scan up to 1 page
+max_links: 15 # Process up to 15 jobs found on each page (Searcher limit)
+
+# Optional: Manually specified job URLs (if empty, will use search results)
+job_urls: [] # Ensure this is empty to use search_query
+
+# LLM integration for answering complex questions
+use_llm: true
+openai_api_key: "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"
+
+# Application behavior
+apply_to_jobs: false       # Disable application attempts
+collect_questions: false   # Disable question collection mode
+collect_job_details: true  # Enable job details collection mode
+skip_if_applied: true  # Process jobs even if LinkedIn says "Applied"
+# collect_questions_only was the old flag, ensuring it's not interfering if present.
+# For apply mode, main.py checks if collect_questions is false AND apply_to_jobs is true.
+
+add_delay_between_apps: false
+delay_min_seconds: 60
+delay_max_seconds: 180

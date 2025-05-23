@@ -1,0 +1,73 @@
+# Default values
+default_dropdown: "Yes"
+default_text: "N/A"
+
+# Numeric defaults
+numeric_defaults:
+  years_skill: 3
+  deep_learning_models: 4
+  model_architectures: 5
+  dataset_size: 10000
+  gpus: 4
+
+experience_yes_keywords:
+  - "python"
+  - "machine learning"
+
+dropdown_map:
+  eligible to work: "Yes"
+  sponsorship: "No"
+  phone country code: "United States (+1)"
+  # For location preference questions
+  this job will be physically based: "I am only available to work remotely." # Default for remote searches
+  statestate: "CA" # Default based on resume location
+  countrycountry: "United States of America (USA)" # Default based on resume location
+
+text_map:
+  first name: "Patrick"
+  last name: "Gloria"
+  email: "p.gloria@columbia.edu"
+  phone: "617-678-8166"
+  linkedin profile: "https://www.linkedin.com/in/patrick-gloria-861503355/"
+  desired salary: "160000"
+  highest level of education: "Master's Degree"
+  location (city): "Santa Barbara" # More specific from resume
+  city/town: "Santa Barbara" # For "City/Town" fields
+  zip code: "93101" # Placeholder, as not in resume
+  street address: "123 Main St" # Placeholder, as not in resume
+  how many years of work experience do you have with machine learning?: "2"
+  how many years of work experience do you have with machine tools?: "2"
+  how many years of work experience do you have with pytorch?: "1"
+  how many years of work experience do you have with tensorflow?: "1"
+  # New entries based on recent run and user feedback:
+  how many years of work experience do you have with python (programming language)?: "3"
+  are you okay with hybrid - 3x in our mountain view ca office?: "Yes"
+  are you comfortable working 5x a week in fidi sf?: "Yes"
+  please list the names of any and all friends, family or significant others who currently (or have in the last year) work at riot games:: "None"
+  how did you hear about this job?: "LinkedIn"
+  are you 18 years of age or older?: "Yes"
+  please indicate the option that best describes your race or ethnic identity.: "Decline to state"
+  please indicate your gender.: "Decline to state"
+  previously worked for riot games?: "No"
+  previously applied to riot games?: "No"
+  worked for tencent or affiliate in last 12 months?: "No"
+  if yes, can you please indicate the last year you worked for tencent and/or an affiliate company.: "N/A"
+  if yes, can you please indicate the last month you worked for tencent and/or an affiliate company.: "N/A"
+  # Placeholders for complex/LLM answers or specific user input:
+  briefly describe a monetization ml project you have worked on and the impact it had.: "LLM_CANDIDATE_MONETIZATION_PROJECT"
+  how many years have you worked on ml within monetization?: "LLM_CANDIDATE_MONETIZATION_YEARS"
+  how many years of experience do you have with dsp/ml audio algorithm development?: "LLM_CANDIDATE_DSP_AUDIO_YEARS"
+  what is your current full address?: "USER_PROVIDED_FULL_ADDRESS"
+  # Generic acknowledgements (the bot will try to match parts of the question)
+  i acknowledge that i have read and understand: "Yes" # For privacy notices, E-verify etc.
+  by submitting an application, i acknowledge: "Yes"
+  e-verify: "Yes"
+  candidate privacy notice: "Yes"
+  # Specific example from log for Riot Games
+  "by submitting an application, i acknowledge that i have read and understand the riot games candidate privacy notice.": "I Accept / I Agree"
+  "riot games participates in e-verify [...] by submitting an application, i acknowledge that i have read and understand the e-verify notice.": "Yes"
+
+
+company_specific:
+  somecompany: # Example, can be empty
+    some_question: "some_answer"
